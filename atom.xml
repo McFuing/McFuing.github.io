@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>McFuing&#39;s blogs</title>
+  
+  
+  <link href="http://mcfuing.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://mcfuing.github.io/"/>
+  <updated>2023-01-21T23:57:43.553Z</updated>
+  <id>http://mcfuing.github.io/</id>
+  
+  <author>
+    <name>McFuing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>兔年快乐！</title>
+    <link href="http://mcfuing.github.io/2023/01/22/%E5%85%94%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81/"/>
+    <id>http://mcfuing.github.io/2023/01/22/%E5%85%94%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81/</id>
+    <published>2023-01-21T23:49:29.000Z</published>
+    <updated>2023-01-21T23:57:43.553Z</updated>
+    
+    <content type="html"><![CDATA[<p>###今天是癸卯年正月初一，祝大家 兔年顶呱呱，新年新气象。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;###今天是癸卯年正月初一，祝大家 兔年顶呱呱，新年新气象。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://mcfuing.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
