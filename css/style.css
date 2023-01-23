@@ -2558,14 +2558,14 @@ pre .javascript .function {
   padding-top: 2rem;
 }
 .first-screen-container .content .description {
-  color: #e74c3c;
+  color: var(--text-color-3);
   font-weight: bold;
   font-size: 2rem;
   line-height: 1.8;
   text-align: center;
 }
 .first-screen-container .content .description .desc-item {
-  color: #e74c3c;
+  color: var(--text-color-3);
 }
 @media (max-width: 800px) {
   .first-screen-container .content .description {
