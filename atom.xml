@@ -6,7 +6,7 @@
   <link href="http://mcfuing.github.io/atom.xml" rel="self"/>
   
   <link href="http://mcfuing.github.io/"/>
-  <updated>2023-01-21T23:59:31.996Z</updated>
+  <updated>2023-01-25T03:40:57.251Z</updated>
   <id>http://mcfuing.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gs</title>
+    <link href="http://mcfuing.github.io/2023/01/25/gs/"/>
+    <id>http://mcfuing.github.io/2023/01/25/gs/</id>
+    <published>2023-01-25T03:39:05.000Z</published>
+    <updated>2023-01-25T03:40:57.251Z</updated>
+    
+    <content type="html"><![CDATA[<p>$$\frac{a}{b}</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;$$\frac{a}{b}&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Learning" scheme="http://mcfuing.github.io/tags/Learning/"/>
+    
+  </entry>
   
   <entry>
     <title>兔年快乐！</title>
