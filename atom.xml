@@ -6,7 +6,7 @@
   <link href="http://mcfuing.github.io/atom.xml" rel="self"/>
   
   <link href="http://mcfuing.github.io/"/>
-  <updated>2023-02-16T09:38:10.699Z</updated>
+  <updated>2023-02-28T02:14:42.425Z</updated>
   <id>http://mcfuing.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>S1-多项式系数</title>
+    <link href="http://mcfuing.github.io/2023/02/28/S1/"/>
+    <id>http://mcfuing.github.io/2023/02/28/S1/</id>
+    <published>2023-02-28T01:51:19.000Z</published>
+    <updated>2023-02-28T02:14:42.425Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>随记的内容无任何的正确性可言，就只是有了想法记了下来。</p></blockquote><p>我们知道当多项式</p><script type="math/tex; mode=display">k_0+k_1x+k_2x^2+k_3x^3=0\tag{S1-1}</script><p>对于任意的x成立时，我们可以得到</p><script type="math/tex; mode=display">k_0=k_1=k_2=k_3=0\tag{S1-2}</script><blockquote><p>Q:那具体的过程或者考虑是什么？</p></blockquote><p>我们不妨带入$x=1,2,3,4$得</p><script type="math/tex; mode=display">\begin{cases}k_01^0 +k_11+k_21^2+k_31^3=0\\\tag{S1-3}k_02^0+k_12+k_22^2+k_32^3=0\\k_03^0+k_13+k_23^2+k_33^3=0\\k_04^0+k_14+k_24^2+k_34^3=0\\\end{cases}</script><p>可以看出方程组(3)的系数矩阵为</p><script type="math/tex; mode=display">A=\tag{S1-4}\begin{bmatrix}1^0 & 1^1 & 1^2 & 1^3\\\\ 2^0 & 2^1 & 2^2 & 2^3\\\\ 3^0 & 3^1 & 3^2 & 3^3\\\\4^0 & 4^1  & 4^2 & 4^3\end{bmatrix}</script><p>可以看出$|A|$是范德蒙行列式，且$|A|\ne0$<br>所以方程组(3)仅有零解(2).</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;随记的内容无任何的正确性可言，就只是有了想法记了下来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们知道当多项式&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;
+k_0+k_1x+k_2x^2+k_3x^3=</summary>
+      
+    
+    
+    
+    
+    <category term="随记" scheme="http://mcfuing.github.io/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>2019级保研经验分享</title>
