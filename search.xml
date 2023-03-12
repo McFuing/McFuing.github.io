@@ -4,55 +4,17 @@
   
     
     <entry>
-      <title>3.8 女神节</title>
-      <link href="/2023/03/08/3.8%E5%A5%B3%E7%A5%9E%E8%8A%82/"/>
-      <url>/2023/03/08/3.8%E5%A5%B3%E7%A5%9E%E8%8A%82/</url>
-      
-        <content type="html"><![CDATA[<h2 id="女神节快乐-燕子"><a href="#女神节快乐-燕子" class="headerlink" title="女神节快乐@燕子"></a>女神节快乐@燕子</h2>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>S1-多项式系数</title>
       <link href="/2023/02/28/S1/"/>
       <url>/2023/02/28/S1/</url>
       
-        <content type="html"><![CDATA[<blockquote><p><em>随记的内容无任何的正确性可言，就只是有了想法记了下来。</em></p></blockquote><p>我们知道当多项式</p><script type="math/tex; mode=display">k_0+k_1x+k_2x^2+k_3x^3=0\tag{S1-1}</script><p>对于任意的x成立时，我们可以得到</p><script type="math/tex; mode=display">k_0=k_1=k_2=k_3=0\tag{S1-2}</script><blockquote><p>Q:<strong>那具体的过程或者考虑是什么？</strong></p></blockquote><p>我们不妨带入$x=1,2,3,4$得</p><script type="math/tex; mode=display">\begin{cases}k_01^0 +k_11+k_21^2+k_31^3=0\\\tag{S1-3}k_02^0+k_12+k_22^2+k_32^3=0\\k_03^0+k_13+k_23^2+k_33^3=0\\k_04^0+k_14+k_24^2+k_34^3=0\\\end{cases}</script><p>可以看出方程组(3)的系数矩阵为</p><script type="math/tex; mode=display">A=\tag{S1-4}\begin{bmatrix}1^0 & 1^1 & 1^2 & 1^3\\\\ 2^0 & 2^1 & 2^2 & 2^3\\\\ 3^0 & 3^1 & 3^2 & 3^3\\\\4^0 & 4^1  & 4^2 & 4^3\end{bmatrix}</script><p>可以看出$|A|$是范德蒙行列式，且$|A|\ne0$<br>所以方程组(3)仅有零解(2).</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p><em>随记的内容无任何的正确性可言，就只是有了想法记了下来。</em></p></blockquote><p>我们知道当多项式</p><script type="math/tex; mode=display">k_0+k_1x+k_2x^2+k_3x^3=0\tag{S1-1}</script><p>对于任意的x成立时，我们可以得到</p><script type="math/tex; mode=display">k_0=k_1=k_2=k_3=0\tag{S1-2}</script><blockquote><p>Q:<strong>那具体的过程或者考虑是什么？当然你可以将${1,x^1,x^2,x^3\dots}$看作是一组基</strong></p></blockquote><p>我们不妨带入$x=1,2,3,4$得</p><script type="math/tex; mode=display">\begin{cases}k_01^0 +k_11+k_21^2+k_31^3=0\\\tag{S1-3}k_02^0+k_12+k_22^2+k_32^3=0\\k_03^0+k_13+k_23^2+k_33^3=0\\k_04^0+k_14+k_24^2+k_34^3=0\\\end{cases}</script><p>可以看出方程组(3)的系数矩阵为</p><script type="math/tex; mode=display">A=\tag{S1-4}\begin{bmatrix}1^0 & 1^1 & 1^2 & 1^3\\\\ 2^0 & 2^1 & 2^2 & 2^3\\\\ 3^0 & 3^1 & 3^2 & 3^3\\\\4^0 & 4^1  & 4^2 & 4^3\end{bmatrix}</script><p>可以看出$|A|$是范德蒙行列式，且$|A|\ne0$<br>所以方程组(3)仅有零解(2).</p>]]></content>
       
       
       
         <tags>
             
             <tag> 随记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>兔年快乐！</title>
-      <link href="/2023/01/22/%E5%85%94%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81/"/>
-      <url>/2023/01/22/%E5%85%94%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81/</url>
-      
-        <content type="html"><![CDATA[<h3 id="今天是癸卯年正月初一，祝大家-兔年顶呱呱，新年新气象。"><a href="#今天是癸卯年正月初一，祝大家-兔年顶呱呱，新年新气象。" class="headerlink" title="今天是癸卯年正月初一，祝大家 兔年顶呱呱，新年新气象。"></a>今天是癸卯年正月初一，祝大家 兔年顶呱呱，新年新气象。</h3>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
             
         </tags>
       
