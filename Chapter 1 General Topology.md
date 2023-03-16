@@ -9,7 +9,7 @@
  - 边界点：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$.
 据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
 
-接下来很重要的一个概念：开集：集合$S$的点都是内点。到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vertz-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数
+接下来很重要的一个概念：开集：集合$S$的点都是内点。到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数
 >距离函数可以看作是将$X$集合的一对数对，映射到实线$R$
 (数)上，满足以下条件：
 $$
@@ -62,6 +62,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTcxNjgxNCwxMDQ5NjEwNTQzLDEwMD
+eyJoaXN0b3J5IjpbLTM4MzYyOTM0NCwxMDQ5NjEwNTQzLDEwMD
 AwNTY2NjVdfQ==
 -->
