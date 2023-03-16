@@ -6,7 +6,7 @@
 
  - 点$a$的$\delta$邻域：以$a$为圆心，以$\epsilon$为半径的一个开圆即为点$a$的邻域,记为$U_{\delta}\left(  x\right),$即满足不等式$\left\vert z-a\right\vert<\epsilon$的那些点的集合。
  - 内点：点$x$,集合$S$,$x\in S$,存在一个$\delta$邻域使得$U_{\delta}\left(x\right)\subset S,$则称$x$为$S$的内点。
- - 边界点：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$.
+ - 边界点：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$.且$U_{\delta}\left(  x\right) \nsubset$
 据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
 
 接下来很重要的一个概念：开集：集合$S$的点都是内点。到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数
@@ -62,6 +62,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzYyOTM0NCwxMDQ5NjEwNTQzLDEwMD
+eyJoaXN0b3J5IjpbMTIxMzUzMDMyNiwxMDQ5NjEwNTQzLDEwMD
 AwNTY2NjVdfQ==
 -->
