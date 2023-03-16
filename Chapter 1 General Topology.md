@@ -1,5 +1,5 @@
 广义拓扑，简单来说就是空间的定性的性质。
-
+# Chapter1 General Topology
 ## 导论
 
 我们的高等数学或者说是复变函数，在我们学习集合时，经常会引入以下的几个概念：
@@ -62,5 +62,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDA1NjY2NV19
+eyJoaXN0b3J5IjpbMTA0OTYxMDU0MywxMDAwMDU2NjY1XX0=
 -->
