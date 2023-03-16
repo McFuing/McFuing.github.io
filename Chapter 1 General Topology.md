@@ -1,7 +1,7 @@
 广义拓扑，简单来说就是空间的定性的性质。
 # Chapter1 General Topology
 ## 导论
-
+### 从初等定义谈起
 我们的高等数学或者说是复变函数，在我们学习集合时，经常会引入以下的几个概念：
 
  - 点$a$的$\delta$邻域：以$a$为圆心，以$\epsilon$为半径的一个开圆即为点$a$的邻域,记为$U_{\delta}\left(  x\right),$即满足不等式$\left\vert z-a\right\vert<\epsilon$的那些点的集合。
@@ -47,7 +47,7 @@ $$
 很明显，$\eta^{2}\left(  p,q\right)$可以等于$0$，可以为负，所以我们描述连续等一些性质时，开球是不必须的.
 
 ## 拓扑空间
-
+### 开集的引入
 Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都会自然的认为这两个所表达都是$n$维空间，但是两者有什么区别呢？我们需要这一节来回答这个问题。
 
 首先需要明确，我们为什么需要开集？实验的测量结果不可避免地要受到精度的影响，相应的一些出现在基本方程的自然常数(如薛定谔方程中的普朗克常数$\hbar$,相对论中的光速$c$,麦克斯韦方程的电子电荷$e$)都不能够被相对精确的测得
@@ -58,9 +58,10 @@ Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都�
 $$
 物理需要开集。
 $$
-
+### 何为拓扑?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTYxMDU0MywxMDAwMDU2NjY1XX0=
+eyJoaXN0b3J5IjpbMTYwMTcxNjgxNCwxMDQ5NjEwNTQzLDEwMD
+AwNTY2NjVdfQ==
 -->
