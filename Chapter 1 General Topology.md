@@ -13,14 +13,12 @@
 >距离函数可以看作是将$X$集合的一对数对，映射到实线$R$
 (数)上，满足以下条件：
 $$
-
- 1.$$ d\left(  p,q\right)  >0;$$
-
-
-
+\begin{align}
+d\left(  p,q\right)  >0;\\
 d\left(  p,q\right)  =0\Longleftrightarrow p=q;\\
 d\left(  p,q\right)  =d\left(  q,p\right)  ;\\
 d\left(  p,r\right)  +d\left(  r,q\right)  \geq d\left(  p,q\right).
+\end{align}
 $$
 
 $$
@@ -66,6 +64,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI0NTY4MzYsMTA0OTYxMDU0MywxMD
-AwMDU2NjY1XX0=
+eyJoaXN0b3J5IjpbNDE4NjQxMTcsMTA0OTYxMDU0MywxMDAwMD
+U2NjY1XX0=
 -->
