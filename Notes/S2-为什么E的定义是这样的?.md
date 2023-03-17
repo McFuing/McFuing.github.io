@@ -69,15 +69,22 @@ dt+\epsilon\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t_{1}%
 }^{t_{2}}%
 \end{align}
 $$
-当$q$满足运动方程时\begin{equation}
+当$q$满足运动方程时
+$$
+\begin{equation}
 S\left(  \epsilon\right)  -S\left(  0\right)  =\epsilon\left(  \frac{\partial
 L}{\partial\dot{q}}\eta\right)  |_{t_{1}}^{t_{2}}%
-\end{equation}%
+\end{equation}
+$$
+$$
 \begin{equation}
 \left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
 }=\frac{S\left(  \epsilon\right)  -S\left(  0\right)  }{\epsilon}\label{pL}%
 \end{equation}
-即\begin{align}
+$$
+即
+$$
+\begin{align}
 \lim_{\epsilon\rightarrow0}\frac{S\left(  \epsilon\right)  -S\left(  0\right)
 }{\epsilon}  & =\frac{\partial S\left(  \epsilon\right)  }{\partial\epsilon
 }|_{\epsilon0}=\int_{t}^{t+\epsilon}\frac{\partial L\left(  \epsilon\right)
@@ -85,23 +92,31 @@ L}{\partial\dot{q}}\eta\right)  |_{t_{1}}^{t_{2}}%
 & =\int_{t}^{t+\epsilon}\frac{\partial L}{\partial t}dt=L|_{t}^{t+\epsilon
 }\label{S}%
 \end{align}
-联立式(\ref{pL})与式(\ref{S})%
+$$
+联立式(\ref{pL})与式(\ref{S})
+$$
 \begin{equation}
 \left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
 }=L|_{t}^{t+\epsilon}%
 \end{equation}
-所以守恒荷为\begin{equation}
+$$
+所以守恒荷为
+$$
+\begin{equation}
 Q=\frac{\partial L}{\partial\dot{q}}\dot{q}-L
 \end{equation}
-由式(\ref{L})%
+$$
+由式(\ref{L})
+$$
 \begin{align}
 Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
 &  =\frac{m\mathbf{v}^{2}}{\sqrt{1-\mathbf{v}^{2}}}+m\sqrt{1-\mathbf{v}^{2}%
 }\nonumber\\
 &  =\frac{m}{\sqrt{1-\mathbf{v}^{2}}}=\gamma m
 \end{align}
+$$
 可以看出这就是哈密顿量。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjIzMDQ3OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODEyMDIyNDAwLC0yMDg4NzQ2NjEyXX0=
 -->
