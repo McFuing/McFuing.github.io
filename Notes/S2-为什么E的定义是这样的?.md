@@ -25,7 +25,7 @@ $$
 L=-m\sqrt{1-\mathbf{v}^{2}}
 \end{equation}
 $$
-对于拉式量(4)关于时间平移不变性$\[\overline{t}=t+\epsilon\]$
+对于拉式量(4)关于时间平移不变性$\overline{t}=t+\epsilon$
 相应的广义坐标的变化
 $$
 \begin{equation}
@@ -90,10 +90,10 @@ $$
 }|_{\epsilon0}=\int_{t}^{t+\epsilon}\frac{\partial L\left(  \epsilon\right)
 }{\partial\epsilon}dt\nonumber\\
 & =\int_{t}^{t+\epsilon}\frac{\partial L}{\partial t}dt=L|_{t}^{t+\epsilon
-}\label{S}%
+}%
 \end{align}
 $$
-联立式(\ref{pL})与式(\ref{S})
+联立式(15)与式(16)
 $$
 \begin{equation}
 \left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
@@ -118,6 +118,6 @@ $$
 可以看出这就是哈密顿量。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NTY3MDI5LDgxMjAyMjQwMCwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4Mzg1ODA4ODQsODEyMDIyNDAwLC0yMD
+g4NzQ2NjEyXX0=
 -->
