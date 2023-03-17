@@ -79,7 +79,7 @@ $$
 $$
 \begin{equation}
 \left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
-}=\frac{S\left(  \epsilon\right)  -S\left(  0\right)  }{\epsilon}\label{pL}%
+}=\frac{S\left(  \epsilon\right)  -S\left(  0\right)  }{\epsilon}%
 \end{equation}
 $$
 即
@@ -106,7 +106,7 @@ $$
 Q=\frac{\partial L}{\partial\dot{q}}\dot{q}-L
 \end{equation}
 $$
-由式(\ref{L})
+由式(4)
 $$
 \begin{align}
 Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
@@ -118,5 +118,6 @@ $$
 可以看出这就是哈密顿量。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMDIyNDAwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNjg4NTY3MDI5LDgxMjAyMjQwMCwtMjA4OD
+c0NjYxMl19
 -->
