@@ -4,15 +4,15 @@
 $$
 \begin{align}
 p^{\mu}  &  =m\frac{dx^{\mu}}{d\tau}=m\left(  \frac{dt}{d\tau},\frac
-{d\mathbf{x}}{d\tau}\right) \\
+{d\mathbf{x}}{d\tau}\right) \tag{1}\\
 &  =\left(  \gamma m,\gamma m\mathbf{v}\right)  =\left(  \gamma m,\gamma
-\mathbf{p}\right)
+\mathbf{p}\right)\tag{2}
 \end{align}
 $$
 至此，所有的结果都是平庸的，不平庸的是
 $$
 \begin{equation}
-E\overset{def}{=}\gamma m
+E\overset{def}{=}\gamma m \tag{3}
 \end{equation}
 $$
 但是为什么这样定义？
@@ -22,13 +22,13 @@ $$
 相对论性的自由粒子的拉式量
 $$
 \begin{equation}
-L=-m\sqrt{1-\mathbf{v}^{2}}
+L=-m\sqrt{1-\mathbf{v}^{2}} \tag{4}
 \end{equation}
 $$
 对于拉式量(4)关于时间平移不变性$\overline{t}=t+\epsilon$相应的广义坐标的变化
 $$
 \begin{equation}
-q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta
+q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta \ag
 \end{equation}
 $$
 且
@@ -118,6 +118,6 @@ $$
 >Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMDExLDgxMjAyMjQwMCwtMjA4ODc0Nj
-YxMl19
+eyJoaXN0b3J5IjpbLTE5NDg2Mjk0OTksOTMyMDExLDgxMjAyMj
+QwMCwtMjA4ODc0NjYxMl19
 -->
