@@ -62,23 +62,23 @@ q,\dot{q},t\right)  dt \\
 {d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}\right)  dt+\epsilon\int%
 _{t}^{t+\epsilon}\frac{d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}%
 \eta\right)  dt\\
-& =\epsilon\int_{t}^{t+\epsilon}\left[  \frac{\partial L}{\partial q}-\frac
+& \tag{13}=\epsilon\int_{t}^{t+\epsilon}\left[  \frac{\partial L}{\partial q}-\frac
 {d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}\right)  \right]  \eta
 dt+\epsilon\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t_{1}%
-}^{t_{2}}%
+}^{t_{2}}
 \end{align}
 $$
 当$q$满足运动方程时
 $$
 \begin{equation}
 S\left(  \epsilon\right)  -S\left(  0\right)  =\epsilon\left(  \frac{\partial
-L}{\partial\dot{q}}\eta\right)  |_{t_{1}}^{t_{2}}%
+L}{\partial\dot{q}}\eta\right)  |_{t_{1}}^{t_{2}} \tag{14}
 \end{equation}
 $$
 $$
 \begin{equation}
 \left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
-}=\frac{S\left(  \epsilon\right)  -S\left(  0\right)  }{\epsilon}%
+}=\frac{S\left(  \epsilon\right)  -S\left(  0\right)  }{\epsilon}  \tag{15}
 \end{equation}
 $$
 即
@@ -87,7 +87,7 @@ $$
 \lim_{\epsilon\rightarrow0}\frac{S\left(  \epsilon\right)  -S\left(  0\right)
 }{\epsilon}  & =\frac{\partial S\left(  \epsilon\right)  }{\partial\epsilon
 }|_{\epsilon0}=\int_{t}^{t+\epsilon}\frac{\partial L\left(  \epsilon\right)
-}{\partial\epsilon}dt\nonumber\\
+}{\partial\epsilon}dt\nonumber\\  \tag{16}
 & =\int_{t}^{t+\epsilon}\frac{\partial L}{\partial t}dt=L|_{t}^{t+\epsilon
 }%
 \end{align}
@@ -95,20 +95,19 @@ $$
 联立式(15)与式(16)
 $$
 \begin{equation}
-\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon
-}=L|_{t}^{t+\epsilon}%
+\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t}^{t+\epsilon}=L|_{t}^{t+\epsilon}  \tag{17}
 \end{equation}
 $$
 所以守恒荷为
 $$
 \begin{equation}
-Q=\frac{\partial L}{\partial\dot{q}}\dot{q}-L
+Q=\frac{\partial L}{\partial\dot{q}}\dot{q}-L  \tag{18}
 \end{equation}
 $$
 由式(4)
 $$
 \begin{align}
-Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
+Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\  \tag{19}
 &  =\frac{m\mathbf{v}^{2}}{\sqrt{1-\mathbf{v}^{2}}}+m\sqrt{1-\mathbf{v}^{2}%
 }\nonumber\\
 &  =\frac{m}{\sqrt{1-\mathbf{v}^{2}}}=\gamma m
@@ -118,6 +117,6 @@ $$
 >Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU0ODkzMTIsOTMyMDExLDgxMjAyMj
-QwMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTcxNTczMzc1OSw5MzIwMTEsODEyMDIyND
+AwLC0yMDg4NzQ2NjEyXX0=
 -->
