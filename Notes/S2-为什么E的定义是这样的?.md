@@ -109,7 +109,7 @@ $$
 \begin{align}
 Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\  \tag{19}
 &  =\frac{m\mathbf{v}^{2}}{\sqrt{1-\mathbf{v}^{2}}}+m\sqrt{1-\mathbf{v}^{2}%
-}\nonumber\\
+}\nonumber\\  \tag{20}
 &  =\frac{m}{\sqrt{1-\mathbf{v}^{2}}}=\gamma m
 \end{align}
 $$
@@ -117,6 +117,6 @@ $$
 >Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTczMzc1OSw5MzIwMTEsODEyMDIyND
+eyJoaXN0b3J5IjpbLTc3NTM5NDk2NSw5MzIwMTEsODEyMDIyND
 AwLC0yMDg4NzQ2NjEyXX0=
 -->
