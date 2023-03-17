@@ -28,14 +28,14 @@ $$
 对于拉式量(4)关于时间平移不变性$\overline{t}=t+\epsilon$相应的广义坐标的变化
 $$
 \begin{equation}
-q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta \ag
+q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta \tag{5}
 \end{equation}
 $$
 且
 $$
 \begin{equation}
 \eta=\lim_{\epsilon\rightarrow0}\frac{q\left(  t+\epsilon\right)  -q\left(
-t\right)  }{\epsilon}=\dot{q}
+t\right)  }{\epsilon}=\dot{q} \tag{6}
 \end{equation}
 $$
 
@@ -43,22 +43,22 @@ $$
 $$
 \begin{align}
 S\left(  \epsilon\right)   &  =\int_{t_{1}}^{t_{2}}L\left(  q\left(  t\right)
-+\epsilon\eta,\dot{q}+\epsilon\dot{η},t\right)  dt\\
-S\left(  0\right)   &  =\int_{t_{1}}^{t_{2}}L\left(  q,\dot{q},t\right)  dt
++\epsilon\eta,\dot{q}+\epsilon\dot{η},t\right)  dt \tag{7}\\
+S\left(  0\right)   &  =\int_{t_{1}}^{t_{2}}L\left(  q,\dot{q},t\right)  dt \tag{8}
 \end{align}
 $$
 按$\epsilon$展开，
 $$
 \begin{align}
-S\left(  \epsilon\right)  -S\left(  0\right)    & =\int_{t}^{t+\epsilon
+S\left(  \epsilon\right)  -S\left(  0\right)    \tag{9}& =\int_{t}^{t+\epsilon
 }L\left(  q+\epsilon\eta,\dot{q}+\epsilon\dot{η},t\right)  -L\left(
-q,\dot{q},t\right)  dt\\
-& =\int_{t}^{t+\epsilon}\epsilon\left(  \frac{\partial L}{\partial q}%
+q,\dot{q},t\right)  dt \\
+&\tag{10} =\int_{t}^{t+\epsilon}\epsilon\left(  \frac{\partial L}{\partial q}%
 \eta+\frac{\partial L}{\partial\dot{q}}\dot{η}\right)  dt\\
-& =\epsilon\int_{t}^{t+\epsilon}\frac{\partial L}{\partial q}\eta+\frac{d}%
+& \tag{11}=\epsilon\int_{t}^{t+\epsilon}\frac{\partial L}{\partial q}\eta+\frac{d}%
 {dt}\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  -\eta\frac{d}%
 {dt}\left(  \frac{\partial L}{\partial\dot{q}}\right)  dt\\
-& =\epsilon\int_{t}^{t+\epsilon}\frac{\partial L}{\partial q}\eta-\eta\frac
+& \tag{12}=\epsilon\int_{t}^{t+\epsilon}\frac{\partial L}{\partial q}\eta-\eta\frac
 {d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}\right)  dt+\epsilon\int%
 _{t}^{t+\epsilon}\frac{d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}%
 \eta\right)  dt\\
@@ -118,6 +118,6 @@ $$
 >Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg2Mjk0OTksOTMyMDExLDgxMjAyMj
+eyJoaXN0b3J5IjpbLTEyMjU0ODkzMTIsOTMyMDExLDgxMjAyMj
 QwMCwtMjA4ODc0NjYxMl19
 -->
