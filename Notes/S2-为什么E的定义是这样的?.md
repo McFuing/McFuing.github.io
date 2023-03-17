@@ -26,21 +26,31 @@ L=-m\sqrt{1-\mathbf{v}^{2}}
 \end{equation}
 $$
 对于拉式量(4)关于时间平移不变性$\[\overline{t}=t+\epsilon\]$
-相应的广义坐标的变化\begin{equation}
-q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta\label{q}%
+相应的广义坐标的变化
+$$
+\begin{equation}
+q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta
 \end{equation}
-且\begin{equation}
+$$
+且
+$$
+\begin{equation}
 \eta=\lim_{\epsilon\rightarrow0}\frac{q\left(  t+\epsilon\right)  -q\left(
-t\right)  }{\epsilon}=\dot{q}%
+t\right)  }{\epsilon}=\dot{q}
 \end{equation}
+$$
 
-
-对于作用量\begin{align}
+对于作用量
+$$
+\begin{align}
 S\left(  \epsilon\right)   &  =\int_{t_{1}}^{t_{2}}L\left(  q\left(  t\right)
 +\epsilon\eta,\dot{q}+\epsilon\dot{η},t\right)  dt\\
 S\left(  0\right)   &  =\int_{t_{1}}^{t_{2}}L\left(  q,\dot{q},t\right)  dt
 \end{align}
-按$\epsilon$展开，\begin{align*}
+$$
+按$\epsilon$展开，
+$$
+\begin{align}
 S\left(  \epsilon\right)  -S\left(  0\right)    & =\int_{t}^{t+\epsilon
 }L\left(  q+\epsilon\eta,\dot{q}+\epsilon\dot{η},t\right)  -L\left(
 q,\dot{q},t\right)  dt\\
@@ -57,7 +67,8 @@ _{t}^{t+\epsilon}\frac{d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}%
 {d}{dt}\left(  \frac{\partial L}{\partial\dot{q}}\right)  \right]  \eta
 dt+\epsilon\left(  \frac{\partial L}{\partial\dot{q}}\eta\right)  |_{t_{1}%
 }^{t_{2}}%
-\end{align*}
+\end{align}
+$$
 当$q$满足运动方程时\begin{equation}
 S\left(  \epsilon\right)  -S\left(  0\right)  =\epsilon\left(  \frac{\partial
 L}{\partial\dot{q}}\eta\right)  |_{t_{1}}^{t_{2}}%
@@ -92,5 +103,5 @@ Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
 可以看出这就是哈密顿量。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNDU3NDM4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTgyNjIzMDQ3OSwtMjA4ODc0NjYxMl19
 -->
