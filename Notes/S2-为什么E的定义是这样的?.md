@@ -25,8 +25,7 @@ $$
 L=-m\sqrt{1-\mathbf{v}^{2}}
 \end{equation}
 $$
-对于拉式量(4)关于时间平移不变性$\overline{t}=t+\epsilon$
-相应的广义坐标的变化
+对于拉式量(4)关于时间平移不变性$\overline{t}=t+\epsilon$相应的广义坐标的变化
 $$
 \begin{equation}
 q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta
@@ -115,9 +114,10 @@ Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
 &  =\frac{m}{\sqrt{1-\mathbf{v}^{2}}}=\gamma m
 \end{align}
 $$
-可以看出这就是哈密顿量。
+可以看出这就是哈密顿量.
+>Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg1ODA4ODQsODEyMDIyNDAwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTMyMDExLDgxMjAyMjQwMCwtMjA4ODc0Nj
+YxMl19
 -->
