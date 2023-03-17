@@ -1,28 +1,31 @@
 ## 引入问题
 
 在狭义相对论中，我们定义四维动量
-$$\begin{align}
+$$
+\begin{align}
 p^{\mu}  &  =m\frac{dx^{\mu}}{d\tau}=m\left(  \frac{dt}{d\tau},\frac
 {d\mathbf{x}}{d\tau}\right) \\
 &  =\left(  \gamma m,\gamma m\mathbf{v}\right)  =\left(  \gamma m,\gamma
 \mathbf{p}\right)
 \end{align}
-至此，所有的结果都是平庸的，不平庸的是\begin{equation}
+$$
+至此，所有的结果都是平庸的，不平庸的是
+$$
+\begin{equation}
 E\overset{def}{=}\gamma m
 \end{equation}
+$$
 但是为什么这样定义？
 
-\subsection{分析与解决}
+## 分析与解决
 
-相对论性的自由粒子的拉式量\begin{equation}
-L=-m\sqrt{1-\mathbf{v}^{2}} \label{L}%
+相对论性的自由粒子的拉式量
+$$
+\begin{equation}
+L=-m\sqrt{1-\mathbf{v}^{2}}
 \end{equation}
-由经典力学的诺特定理
-
-对于拉式量(\ref{L}%
-)关于时间平移不变性\[
-\overline{t}=t+\epsilon
-\]
+$$
+对于拉式量(4)关于时间平移不变性$\[\overline{t}=t+\epsilon\]$
 相应的广义坐标的变化\begin{equation}
 q\left(  t+\epsilon\right)  =q\left(  t\right)  +\epsilon\eta\label{q}%
 \end{equation}
@@ -89,5 +92,5 @@ Q &  =\frac{\partial L}{\partial\mathbf{v}}\mathbf{v}-L=H\nonumber\\
 可以看出这就是哈密顿量。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDgzODc0MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTkwNDU3NDM4LC0yMDg4NzQ2NjEyXX0=
 -->
