@@ -66,14 +66,16 @@ $$
 
 的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
 $$
+\begin{enumerate}`
 对于给定的点集S拓扑就是集合S的满足以下条件的子集族(也可被称为开集):\\
 整个集合S以及空集\emptyset都在这个子集族中;\\
 给定有限数量的子集U_{1},U_{2},\cdots,U_{n},他们的交\cap_{i=1}^{n}U_{i}也属于子集族中;\\
 给定任意数量(有限或无限)的子集族中的集合，他们的并也属于这个子集族.
+1.  `\end{enumerate}`
 $$
 为什么要求有限的交属于这个子集族，而不是无限数量的集合相交？
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMDI3NDU4LDEzMDA0Mzg5MjUsNDE4Nj
-QxMTddfQ==
+eyJoaXN0b3J5IjpbMTY5NjczNDM1MywxMzAwNDM4OTI1LDQxOD
+Y0MTE3XX0=
 -->
