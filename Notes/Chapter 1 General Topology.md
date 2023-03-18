@@ -61,8 +61,30 @@ $$
 物理需要开集。
 $$
 ### 何为拓扑?
+我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域
+>内点的邻域可以看作开集$S$的子集，且邻域也是开集
 
+的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
+$$
+\begin{definition}
+对于给定的点集$S,$%
+拓扑就是集合$S$的满足以下条件的子集族(也可被称为开集):
+
+\begin{enumerate}
+\item 整个集合$S$%
+以及空集$\emptyset$都在这个子集族中;
+
+\item
+给定有限数量的子集$U_{1}%
+,U_{2},\cdots,U_{n},$他们的交$\cap_{i=1}^{n}U_{i}$也属于子集族中;
+
+\item 给定任意数量(有限或无限)的子集族中的集合，他们的并也属于这个子集族.
+\end{enumerate}
+\end{definition}
+
+为什么要求有限的交属于这个子集族，而不是无限数量的集合相交？
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDQzODkyNSw0MTg2NDExN119
+eyJoaXN0b3J5IjpbMTM2OTk0ODQ1NiwxMzAwNDM4OTI1LDQxOD
+Y0MTE3XX0=
 -->
