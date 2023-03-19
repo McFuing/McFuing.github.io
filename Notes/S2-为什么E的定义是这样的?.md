@@ -1,3 +1,4 @@
+>这个问题来自于周双勇老师的广义相对论的课程思考（一个简单的理论力学习题）
 ## 引入问题
 
 在狭义相对论中，我们定义四维动量
@@ -117,6 +118,6 @@ $$
 >Noether定理要求的时间平移不变性对应能量守恒。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTM5NDk2NSw5MzIwMTEsODEyMDIyND
-AwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NjQ5Mzc1OTYsLTc3NTM5NDk2NSw5Mz
+IwMTEsODEyMDIyNDAwLC0yMDg4NzQ2NjEyXX0=
 -->
