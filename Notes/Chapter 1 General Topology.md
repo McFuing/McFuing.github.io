@@ -13,7 +13,7 @@
 ,$对于任意的正数$\varepsilon>0,$总可以找到$\delta>0$,使得当 $\left\vert x-x_{0}\right\vert <\delta$时，$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)\right\vert <\varepsilon.$换个角度来看这个定义，$\left\vert
 x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left(  x_{0}\right)$;$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)  \right\vert <\varepsilon$说的是对于任意的$f\left(x_{0}\right)$的邻域$V_{\varepsilon}\left(  f\left(x_{0}\right)  \right)$,其中$x_{0}\in U_{\delta}\left(x_{0}\right)$,而任意的$\varepsilon$,存在一个$\delta,$要求的是$f\left(  U\right)  \subset V$
 
-接下来很重要的一个概念：开集，集合$S$的点都是内点。举个例子：
+接下来很重要的一个概念：开集，即集合$S$的点都是内点。举个例子：
 >Q:对于一个单点集$\left\{a\right\}$,它是不是一个开集？
 >>A:不是开集。因为点a不是集合$\left\{a\right\}$的内点。
 
@@ -87,8 +87,8 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4MTU2NTEyLC0xMjU2ODA4OTI2LDM4MD
-M3ODI0OSwtMzY3NzAyOTM4LDE4MzE5NDczMCwxNzU4Mjk0ODc0
-LC0yMDU4NTA5NzY2LDE0MTIxODg1Miw3ODMwMjc0NTgsMTY5Nj
-czNDM1MywxMzAwNDM4OTI1LDQxODY0MTE3XX0=
+eyJoaXN0b3J5IjpbLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMz
+gwMzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4
+NzQsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNj
+k2NzM0MzUzLDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
 -->
