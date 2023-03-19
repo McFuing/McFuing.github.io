@@ -13,7 +13,10 @@
 ,$对于任意的正数$\varepsilon>0,$总可以找到$\delta>0$,使得当 $\left\vert x-x_{0}\right\vert <\delta$时，$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)\right\vert <\varepsilon.$换个角度来看这个定义，$\left\vert
 x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left(  x_{0}\right)$;$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)  \right\vert <\varepsilon$说的是对于任意的$f\left(x_{0}\right)$的邻域$V_{\varepsilon}\left(  f\left(x_{0}\right)  \right)$,其中$x_{0}\in U_{\delta}\left(x_{0}\right)$,而任意的$\varepsilon$,存在一个$\delta,$要求的是$f\left(  U\right)  \subset V$
 
-接下来很重要的一个概念：开集，集合$S$的点都是内点。举个例子：对于一个单点集${a}$,它是不是一个。到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数。
+接下来很重要的一个概念：开集，集合$S$的点都是内点。
+>举个例子：对于一个单点集$\left\{a\right\}$,它是不是一个开集？
+
+到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数。
 >距离函数可以看作是将$X$集合的一对数对，映射到实线$R$
 (数)上，满足以下条件：
 $$
@@ -83,8 +86,8 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI2NzEwNjIsMzgwMzc4MjQ5LC0zNj
-c3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3
-NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMD
-A0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbMTIzNTY0NjU2NiwzODAzNzgyNDksLTM2Nz
+cwMjkzOCwxODMxOTQ3MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2
+NiwxNDEyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMD
+QzODkyNSw0MTg2NDExN119
 -->
