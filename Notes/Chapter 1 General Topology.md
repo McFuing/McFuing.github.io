@@ -85,13 +85,11 @@ $$
 为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在开集的子集族中。
 
 ### 拓扑基
--
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjczNjczOCwtMTQ4MTE0ODI3OSwtMT
-I1NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3
-MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNz
-gzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDEx
-N119
+eyJoaXN0b3J5IjpbLTE5MDk2MDg3OTUsLTE0ODExNDgyNzksLT
+EyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0
+NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLD
+c4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMDA0Mzg5MjUsNDE4NjQx
+MTddfQ==
 -->
