@@ -1,4 +1,4 @@
-广义拓扑，简单来说就是空间的定性的性质。
+>**广义拓扑，简单来说就是空间的定性的性质。**
 # Chapter1 General Topology
 ## 导论
 ### 从初等定义谈起
@@ -87,8 +87,8 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNj
-c3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3
-NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMD
-A0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbNDE4MTU2NTEyLC0xMjU2ODA4OTI2LDM4MD
+M3ODI0OSwtMzY3NzAyOTM4LDE4MzE5NDczMCwxNzU4Mjk0ODc0
+LC0yMDU4NTA5NzY2LDE0MTIxODg1Miw3ODMwMjc0NTgsMTY5Nj
+czNDM1MywxMzAwNDM4OTI1LDQxODY0MTE3XX0=
 -->
