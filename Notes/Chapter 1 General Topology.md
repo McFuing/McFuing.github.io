@@ -44,8 +44,8 @@ B_{r}\left(  p\right)  =\left\{  d\left(  q,p\right)  <r\ |\ q\in
 E^{3}\right\}
 \end{equation}
 $$
-借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义
->我们知道，当一个对象里含有一个最小的抽象结构，对于最小结构所引入的概念，那么拿掉这个较大的对象，这个概念也是成立的。反之，不成立。
+借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1]
+[^1]:我们知道，当一个对象里含有一个最小的抽象结构，对于最小结构所引入的概念，那么拿掉这个较大的对象，这个概念也是成立的。反之，不成立。
 
 但是，在闵氏空间中的距离是这样定义的：
 $$\begin{equation}
@@ -68,8 +68,8 @@ $$
 物理需要开集。
 $$
 ### 何为拓扑?
-我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域……
->内点的邻域可以看作开集$S$的子集，且邻域也是开集
+我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^1]
+[^1]:内点的邻域可以看作开集$S$的子集，且邻域也是开集
 
 的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
 
@@ -87,9 +87,9 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDcxNDk3LC0xNDgxMTQ4Mjc5LC0xMj
-U2ODA4OTI2LDM4MDM3ODI0OSwtMzY3NzAyOTM4LDE4MzE5NDcz
-MCwxNzU4Mjk0ODc0LC0yMDU4NTA5NzY2LDE0MTIxODg1Miw3OD
-MwMjc0NTgsMTY5NjczNDM1MywxMzAwNDM4OTI1LDQxODY0MTE3
-XX0=
+eyJoaXN0b3J5IjpbLTEyMjA2ODEyNzEsLTE0ODExNDgyNzksLT
+EyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0
+NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLD
+c4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMDA0Mzg5MjUsNDE4NjQx
+MTddfQ==
 -->
