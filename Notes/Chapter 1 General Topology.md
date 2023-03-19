@@ -43,14 +43,14 @@ $$
 借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义
 >我们知道，当一个对象里含有一个最小的抽象结构，对于最小结构所引入的概念，那么拿掉这个较大的对象，这个概念也是成立的。反之，不成立。
 
-在闵氏空间中的距离
+但是，在闵氏空间中的距离是这样定义的：
 $$\begin{equation}
 \eta^{2}\left(  p,q\right)  =\left(  p^{0}-q^{0}\right)  ^{2}-\left(
 p^{1}-q^{1}\right)  ^{2}-\left(  p^{2}-q^{2}\right)  ^{2}-\left(  p^{3}%
 -q^{3}\right)  ^{2}%
 \end{equation}
 $$
-很明显，$\eta^{2}\left(  p,q\right)$可以等于$0$，可以为负，所以我们描述连续等一些性质时，开球是不必须的.
+很明显，$\eta^{2}\left(  p,q\right)$可以等于$0$，可以为负，所以我们描述连续等一些性质时，距离是不必须的.
 
 ## 拓扑空间
 Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都会自然的认为这两个所表达都是$n$维空间，但是两者有什么区别呢？我们需要这一节来回答这个问题。
@@ -78,12 +78,12 @@ $$
 \end{aligned}
 $$
 
-为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集，比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果只能是单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在开集的子集族中。
+为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在开集的子集族中。
 
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDAxODkyNiwzODAzNzgyNDksLTM2Nz
+eyJoaXN0b3J5IjpbLTQ3NzMyNzk5NywzODAzNzgyNDksLTM2Nz
 cwMjkzOCwxODMxOTQ3MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2
 NiwxNDEyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMD
 QzODkyNSw0MTg2NDExN119
