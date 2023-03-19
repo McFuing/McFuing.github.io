@@ -7,7 +7,27 @@
  - 点$a$的$\delta$邻域：以$a$为圆心，以$\epsilon$为半径的一个开圆即为点$a$的邻域,记为$U_{\delta}\left(  x\right),$即满足不等式$\left\vert z-a\right\vert<\epsilon$的那些点的集合。
  - 内点：点$x$,集合$S$,$x\in S$,存在一个$\delta$邻域使得$U_{\delta}\left(x\right)\subset S,$则称$x$为$S$的内点。
  - 边界点：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$,且$U_{\delta}\left(  x\right) \nsubseteq S$.
-据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
+ 
+据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，
+>连续如何定义？如果用$\varepsilon-\delta$语言就是:设$f:\mathbb{R\rightarrow R}$ 是一个函数，$x_{0}\in\mathbb{R}%
+,$对于任意的正数$\varepsilon
+>0,$总可以找到$\delta>0,$%
+使得当$\left\vert x-x_{0}\right\vert <\delta$%
+时，$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)
+\right\vert <\varepsilon 。 $%
+换个角度来看这个定义，$\left\vert
+x-x_{0}\right\vert <\delta$%
+说的是存在一个$x_{0}$%
+的邻域$U_{\delta}\left(  x_{0}\right)  $;$\left\vert
+f\left(  x\right)  -f\left(  x_{0}\right)  \right\vert <\varepsilon
+$说的是对于任意的$f\left(
+x_{0}\right)  $的邻域$V_{\varepsilon}\left(  f\left(
+x_{0}\right)  \right)  ,$其中$x_{0}\in U_{\delta}\left(
+x_{0}\right)  ,$而任意的$\varepsilon$%
+,存在一个$\delta,$%
+要求的是$f\left(  U\right)  \subset V$
+
+导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
 
 接下来很重要的一个概念：开集：集合$S$的点都是内点。到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数
 >距离函数可以看作是将$X$集合的一对数对，映射到实线$R$
@@ -75,7 +95,7 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNT
-g1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUz
-LDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbMTUyMDAwMzQ4OSwxODMxOTQ3MzAsMTc1OD
+I5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgzMDI3NDU4
+LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDExN119
 -->
