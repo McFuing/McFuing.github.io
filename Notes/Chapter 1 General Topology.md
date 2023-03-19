@@ -74,10 +74,8 @@ $$
 \end{aligned}
 $$
 
-为什么要求有限的交属于这个子集族，而不是无限数量的集合相交？
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxND
-EyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMDQzODky
-NSw0MTg2NDExN119
+eyJoaXN0b3J5IjpbMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNT
+g1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUz
+LDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
 -->
