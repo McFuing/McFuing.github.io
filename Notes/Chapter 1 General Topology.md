@@ -11,13 +11,7 @@
 据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，
 >连续如何定义？如果用$\varepsilon-\delta$语言就是:设$f:\mathbb{R\rightarrow R}$ 是一个函数，$x_{0}\in\mathbb{R}%
 ,$对于任意的正数$\varepsilon>0,$总可以找到$\delta>0$,使得当 $\left\vert x-x_{0}\right\vert <\delta$时，$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)\right\vert <\varepsilon.$换个角度来看这个定义，$\left\vert
-x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left(  x_{0}\right)  $;$\left\vertf\left(  x\right)  -f\left(  x_{0}\right)  \right\vert <\varepsilon
-$说的是对于任意的$f\left(
-x_{0}\right)  $的邻域$V_{\varepsilon}\left(  f\left(
-x_{0}\right)  \right)  ,$其中$x_{0}\in U_{\delta}\left(
-x_{0}\right)  ,$而任意的$\varepsilon$%
-,存在一个$\delta,$%
-要求的是$f\left(  U\right)  \subset V$
+x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left(  x_{0}\right)$;$\left\vert f\left(  x\right)  -f\left(  x_{0}\right)  \right\vert <\varepsilon$说的是对于任意的$f\left(x_{0}\right)$的邻域$V_{\varepsilon}\left(  f\left(x_{0}\right)  \right)$,其中$x_{0}\in U_{\delta}\left(x_{0}\right)  ,$而任意的$\varepsilon$,存在一个$\delta,$要求的是$f\left(  U\right)  \subset V$
 
 导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
 
@@ -87,7 +81,7 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgzMDg2NzQsMTgzMTk0NzMwLDE3NT
-gyOTQ4NzQsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1
-OCwxNjk2NzM0MzUzLDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbMTM0NjI0ODI5NCwxODMxOTQ3MzAsMTc1OD
+I5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgzMDI3NDU4
+LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDExN119
 -->
