@@ -68,7 +68,7 @@ $$
 物理需要开集。
 $$
 ### 何为拓扑?
-我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域
+我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域……
 >内点的邻域可以看作开集$S$的子集，且邻域也是开集
 
 的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
@@ -87,8 +87,9 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMz
-gwMzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4
-NzQsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNj
-k2NzM0MzUzLDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbNTg5MDcxNDk3LC0xNDgxMTQ4Mjc5LC0xMj
+U2ODA4OTI2LDM4MDM3ODI0OSwtMzY3NzAyOTM4LDE4MzE5NDcz
+MCwxNzU4Mjk0ODc0LC0yMDU4NTA5NzY2LDE0MTIxODg1Miw3OD
+MwMjc0NTgsMTY5NjczNDM1MywxMzAwNDM4OTI1LDQxODY0MTE3
+XX0=
 -->
