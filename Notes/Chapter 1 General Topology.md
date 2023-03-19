@@ -49,9 +49,8 @@ $$
 很明显，$\eta^{2}\left(  p,q\right)$可以等于$0$，可以为负，所以我们描述连续等一些性质时，开球是不必须的.
 
 ## 拓扑空间
-### 开集的引入
 Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都会自然的认为这两个所表达都是$n$维空间，但是两者有什么区别呢？我们需要这一节来回答这个问题。
-
+### 开集的引入
 首先需要明确，我们为什么需要开集？实验的测量结果不可避免地要受到精度的影响，相应的一些出现在基本方程的自然常数(如薛定谔方程中的普朗克常数$\hbar$,相对论中的光速$c$,麦克斯韦方程的电子电荷$e$)都不能够被相对精确的测得
 >有人可能会说,我们的不确定性原理不就是在约束我们无法测准？Attention!!!不确定性原理并不是说什么力学量都无法测准。你在一个力学量的本征态上去测，是可以测量得到其本征值的。[什么是物理常数](https://en.wikipedia.org/wiki/Physical%5C_constant).
 
@@ -78,7 +77,7 @@ $$
 为什么要求有限的交属于这个子集族，而不是无限数量的集合相交？
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyNTc2MDgsLTIwNTg1MDk3NjYsMT
-QxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMDA0Mzg5
-MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxND
+EyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMDQzODky
+NSw0MTg2NDExN119
 -->
