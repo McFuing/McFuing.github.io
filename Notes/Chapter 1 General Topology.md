@@ -17,15 +17,15 @@ x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left
 >Q:对于一个单点集$\left\{a\right\}$,它是不是一个开集？
 >>A:不是开集。因为点a不是集合$\left\{a\right\}$的内点。
 
-到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数。
->距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：
+到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数[^0].
+>[^0]:距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：
 $$
-\begin{align}
+\begin{aligned}
 d\left(  p,q\right)  >0;\\
 d\left(  p,q\right)  =0\Longleftrightarrow p=q;\\
 d\left(  p,q\right)  =d\left(  q,p\right)  ;\\
 d\left(  p,r\right)  +d\left(  r,q\right)  \geq d\left(  p,q\right).
-\end{align}
+\end{aligned}
 $$
 
 $$
@@ -86,9 +86,9 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MD
-k2MDg3OTUsLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgwMzc4
-MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLT
-IwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0
-MzUzLDEzMDA0Mzg5MjUsNDE4NjQxMTddfQ==
+eyJoaXN0b3J5IjpbMTU1NDYxNTk2NywxMzc4NzE5NjM3LDE5Nz
+I3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1Njgw
+ODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3MzAsMT
+c1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgzMDI3
+NDU4LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDExN119
 -->
