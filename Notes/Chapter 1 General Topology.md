@@ -18,7 +18,7 @@ x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left
 >>A:不是开集。因为点a不是集合$\left\{a\right\}$的内点。
 
 到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数[^0].
->[^0]:距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：
+[^0]:距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：
 $$
 \begin{aligned}
 d\left(  p,q\right)  >0;\\
@@ -34,8 +34,8 @@ d\left(  x,y;x_{1},y_{1}\right)  =\sqrt{\left(  x-x_{1}\right)  ^{2}+\left(
 y-y_{1}\right) ^{2}}%
 \end{equation}
 $$
-才产生了各种曲线，即对应的就是我们在解析里使用的各种函数。
 
+才产生了各种曲线，即对应的就是我们在解析里使用的各种函数。
 进一步，来看我们周围的三维欧几里得空间，我们定义一个开球:
 $$
 \begin{equation}
@@ -86,7 +86,7 @@ $$
 ### 拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDYxNTk2NywxMzc4NzE5NjM3LDE5Nz
+eyJoaXN0b3J5IjpbLTc3NDQzNTMxOSwxMzc4NzE5NjM3LDE5Nz
 I3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1Njgw
 ODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3MzAsMT
 c1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgzMDI3
