@@ -64,11 +64,11 @@ Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都�
 换句话说，我们建立的物理方程的基础是在假定：如果一个物理学量是可接受的，那么必定会有一系列的误差范围内的值是可接受的。
 基于此，我们需要思考，物理量属于一个集合，什么样的集合呢？在每一个可接受的值的邻域内都有另外的一个值可以被平等的被接受，以此类推。也就是说，集合被赋予了这样的一个性质：在集合里的点的周围都存在着一个相同类型的集合，我们称其为"开集" ，记住此时的开集在延续我们初等开集的概念。
 $$
-物理需要开集。
+物理需要开集
 $$
 ### 何为拓扑?
-我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^3]
-[^3]:内点的邻域可以看作开集$S$的子集，且邻域也是开集
+我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^邻域]
+[^邻域]:内点的邻域可以看作开集$S$的子集，且邻域也是开集
 
 的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
 
@@ -86,10 +86,10 @@ $$
 ### 拓扑空间
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNjQ2MDc2LC04OTcwMDYzMTcsLTc3ND
-QzNTMxOSwxMzc4NzE5NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5
-NSwtMTQ4MTE0ODI3OSwtMTI1NjgwODkyNiwzODAzNzgyNDksLT
-M2NzcwMjkzOCwxODMxOTQ3MzAsMTc1ODI5NDg3NCwtMjA1ODUw
-OTc2NiwxNDEyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMT
-MwMDQzODkyNSw0MTg2NDExN119
+eyJoaXN0b3J5IjpbLTEzMjA0MjcyODIsLTg5NzAwNjMxNywtNz
+c0NDM1MzE5LDEzNzg3MTk2MzcsMTk3Mjc2MzA3LC0xOTA5NjA4
+Nzk1LC0xNDgxMTQ4Mjc5LC0xMjU2ODA4OTI2LDM4MDM3ODI0OS
+wtMzY3NzAyOTM4LDE4MzE5NDczMCwxNzU4Mjk0ODc0LC0yMDU4
+NTA5NzY2LDE0MTIxODg1Miw3ODMwMjc0NTgsMTY5NjczNDM1My
+wxMzAwNDM4OTI1LDQxODY0MTE3XX0=
 -->
