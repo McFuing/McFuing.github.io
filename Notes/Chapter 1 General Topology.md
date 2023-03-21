@@ -1,8 +1,7 @@
 >**广义拓扑，简单来说就是空间的定性性质。**
 
-可能很多的人接触到拓扑都是从杯子与圆环是一样的
-
 ## 导论
+
 ### 从初等定义谈起
 我们的高等数学或者说是复变函数，在我们学习集合时，经常会引入以下的几个概念：
 
@@ -88,7 +87,7 @@ $$
 ### 拓扑空间
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0Nzg0OTE5LC0xMzIwNDI3MjgyLC04OT
+eyJoaXN0b3J5IjpbNDI1MDkxNjQyLC0xMzIwNDI3MjgyLC04OT
 cwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3LDE5NzI3NjMw
 NywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1NjgwODkyNi
 wzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3MzAsMTc1ODI5
