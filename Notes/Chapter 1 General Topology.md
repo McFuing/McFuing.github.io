@@ -81,15 +81,15 @@ $$
 \end{aligned}
 $$
 
-为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在开集的子集族中。
+为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在同心圆开集的子集族中。
 
 ### 拓扑空间
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNz
-g3MTk2MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4
-Mjc5LC0xMjU2ODA4OTI2LDM4MDM3ODI0OSwtMzY3NzAyOTM4LD
-E4MzE5NDczMCwxNzU4Mjk0ODc0LC0yMDU4NTA5NzY2LDE0MTIx
-ODg1Miw3ODMwMjc0NTgsMTY5NjczNDM1MywxMzAwNDM4OTI1LD
-QxODY0MTE3XX0=
+eyJoaXN0b3J5IjpbMzEzNjQ2MDc2LC04OTcwMDYzMTcsLTc3ND
+QzNTMxOSwxMzc4NzE5NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5
+NSwtMTQ4MTE0ODI3OSwtMTI1NjgwODkyNiwzODAzNzgyNDksLT
+M2NzcwMjkzOCwxODMxOTQ3MzAsMTc1ODI5NDg3NCwtMjA1ODUw
+OTc2NiwxNDEyMTg4NTIsNzgzMDI3NDU4LDE2OTY3MzQzNTMsMT
+MwMDQzODkyNSw0MTg2NDExN119
 -->
