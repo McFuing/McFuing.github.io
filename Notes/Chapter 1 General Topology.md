@@ -82,15 +82,55 @@ $$
 \end{aligned}
 $$
 
-为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在同心圆开集的子集族中。
+为什么要求有限个集合的交，仍然属于这个子集族，而不是无限数量的集合相交？如果我们要求无限个集合相交得到的可能就是一个单点集。比如考虑一个点$x_{0}$的同心圆的邻域，并且同心圆不断地缩小，你最后得到的交集的结果是一个单点集合$\left\{x_{0}\right\}$，此时$x_{0}$不是这个单点集的内点，这是一个闭集。闭集当然不在同心圆开集的子集族中。因此集合$S$上的拓扑是包含全集$S$和空集$\emptyset$的$S$的子集的集合，这个集合中的元素有限的交和任意的并都在这个集合中。其中包含了全部子集的子集族称为离散拓扑，只包含了全集与空集的子集族称为平凡拓扑。可以看出，定义拓扑就是在定义集合$S$中哪些是开集，定义拓扑就是在定义定义开集，那么自然的闭集就是定义的开集相对于全集的补集。这个开集的定义是针对点集而言的。
 
 ### 拓扑空间
 
+我们先来看一看拓扑空间的定义：
+$$
+拓扑空间就是定义了拓扑$T$%
+的点集$S$,一般记为$\left(S,T\right)$
+
+$$
+但是，从定义可以看出，这个拓扑空间与点集$S$%
+就只是差了一个定义的拓扑结构，也就是在集合$S$%
+上定义了开集。有一点很重要：同一个开集可以定义不同的拓扑，而同样的拓扑可以定义在不同的集合上。也即，拓扑空间$\left(
+S,T\right)  $%
+上的开集不一定是拓扑空间$\left(
+S,T^{\prime}\right)  $定义的开集。所以有意义的是拓扑空间，单讲点集与拓扑都是没有意义的。也就是说我们在研究什么极限、连续、解析性质时，是在拓扑空间上而不是简单的在某个点集上。
+
+\begin{example}
+[有限空间]%
+给定一个点集$S=\left\{  a,b,c,d\right\}
+$定义其上的的拓扑$T=\left\{
+\left\{  a\right\}  ,\left\{  a,b\right\}  ,\left\{  a,b,d\right\}
+,S,\emptyset\right\}  $%
+,可以证明满足拓扑的那三条公理化定义。同时我们也可以给出点集$S$%
+上的另外一个拓扑$T^{\prime
+}=\left\{  \left\{  b,c,d\right\}  ,\left\{  c,d\right\}  ,\left\{  c\right\}
+,\emptyset,S\right\}  $%
+可以看出拓扑$T^{\prime}$%
+上的开集在拓扑$T$的意义下是闭集！
+\end{example}
+
+我们之前说过有了拓扑就有了开集，有了开集就能研究分析范畴里的东西，那么我们可以看看如何在拓扑(推广化的开集)中定义邻域。给定一个点$p\in
+S$,任意的集合$U$%
+都包含一个属于T的拓扑,且集合$U$%
+包含$p$,称集合$U$为点$p$%
+的邻域。其中$U$%
+不一定要是拓扑$T$%
+中的开集，所以任意的点都至少包含一个邻域就是$S$%
+.
+
+我们再来看看对于最开始的欧几里得空间，
+
+\subsection{小结}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MDkxNjQyLC0xMzIwNDI3MjgyLC04OT
-cwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3LDE5NzI3NjMw
-NywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1NjgwODkyNi
-wzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3MzAsMTc1ODI5
-NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgzMDI3NDU4LD
-E2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDExN119
+eyJoaXN0b3J5IjpbNzI0MzI1NTMsNDI1MDkxNjQyLC0xMzIwND
+I3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3
+LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMT
+I1NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3
+MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNz
+gzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDEx
+N119
 -->
