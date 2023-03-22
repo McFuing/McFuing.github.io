@@ -90,18 +90,8 @@ $$
 >拓扑空间就是定义了拓扑$T$点集$S$,一般记为$\left(S,T\right)$
 
 但是，从定义可以看出，这个拓扑空间与点集$S$就只是差了一个定义的拓扑结构，也就是在集合$S$上定义了开集。有一点很重要：同一个开集可以定义不同的拓扑，而同样的拓扑可以定义在不同的集合上。也即，拓扑空间$\left(S,T\right)$上的开集不一定是拓扑空间$\left(S,T^{\prime}\right)$定义的开集。所以有意义的是拓扑空间，单讲点集与拓扑都是没有意义的。也就是说我们在研究什么极限、连续、解析性质时，是在拓扑空间上而不是简单的在某个点集上。
-l
-[有限空间]
-给定一个点集$S=\left\{  a,b,c,d\right\}
-$定义其上的的拓扑$T=\left\{
-\left\{  a\right\}  ,\left\{  a,b\right\}  ,\left\{  a,b,d\right\}
-,S,\emptyset\right\}$
-,可以证明满足拓扑的那三条公理化定义。同时我们也可以给出点集$S$%
-上的另外一个拓扑$T^{\prime
-}=\left\{  \left\{  b,c,d\right\}  ,\left\{  c,d\right\}  ,\left\{  c\right\}
-,\emptyset,S\right\}  $%
-可以看出拓扑$T^{\prime}$%
-上的开集在拓扑$T$的意义下是闭集！
+例：[有限空间]
+给定一个点集$S=\left\{a,b,c,d\right\}$定义其上的的拓扑$T=\left\{\left\{  a\right\},\left\{a,b\right\},\left\{ a,b,d\right\},S,\emptyset\right\}$,可以证明满足拓扑的那三条公理化定义。同时我们也可以给出点集$S$上的另外一个拓pu$T^{\prime}=\left\{  \left\{  b,c,d\right\}  ,\left\{  c,d\right\}  ,\left\{  c\right\},\emptyset,S\right\}$可以看出拓扑$T^{\prime}$上的开集在拓扑$T$的意义下是闭集！
 
 我们之前说过有了拓扑就有了开集，有了开集就能研究分析范畴里的东西，那么我们可以看看如何在拓扑(推广化的开集)中定义邻域。给定一个点$p\in
 S$,任意的集合$U$%
@@ -116,7 +106,7 @@ S$,任意的集合$U$%
 
 \subsection{小结}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAxODQ3ODUsNDI1MDkxNjQyLC0xMz
+eyJoaXN0b3J5IjpbLTE5MDgyNzc3MDEsNDI1MDkxNjQyLC0xMz
 IwNDI3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5
 NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OS
 wtMTI1NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMx
