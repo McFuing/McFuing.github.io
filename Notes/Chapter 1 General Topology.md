@@ -123,7 +123,9 @@ $$
 
   >Q:什么是拓扑？
  >>A:在点集$S$上定义的开集的子集族$T$。
- > Q:什么是拓扑空间？A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
+ 
+ > Q:什么是拓扑空间？
+ > >A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
 
 
 
@@ -132,11 +134,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjU0ODY1NCwtOTEzNjMzNzk5LDQyNT
-A5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2MzE3LC03NzQ0MzUz
-MTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MDk2MDg3OTUsLT
-E0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNjc3
-MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3Nj
-YsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMDA0
-Mzg5MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0Mj
+UwOTE2NDIsLTEzMjA0MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1
+MzE5LDEzNzg3MTk2MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC
+0xNDgxMTQ4Mjc5LC0xMjU2ODA4OTI2LDM4MDM3ODI0OSwtMzY3
+NzAyOTM4LDE4MzE5NDczMCwxNzU4Mjk0ODc0LC0yMDU4NTA5Nz
+Y2LDE0MTIxODg1Miw3ODMwMjc0NTgsMTY5NjczNDM1MywxMzAw
+NDM4OTI1XX0=
 -->
