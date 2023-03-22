@@ -96,15 +96,47 @@ $$
 
 我们之前说过有了拓扑就有了开集，有了开集就能研究分析范畴里的东西，那么我们可以看看如何在拓扑(推广化的开集)中定义邻域。给定一个点$p\in S$,任意的集合$U$都包含一个属于T的拓扑,且集合$U$包含$p$,称集合$U$为点$p$的邻域。其中$U$不一定要是拓扑$T$中的开集，所以任意的点都至少包含一个邻域就是$S$.
 
-我们再来看看对于最开始的欧几里得空间，
+
+我们再来看看对于最开始的欧几里得空间$\mathbb{E}^{n}$。对于点集$\mathbb{R}^{n}$,其中的元素为
+$$
+\begin{equation}
+\mathbf{p}=\left(  p^{1},p^{2},p^{3},\dots,p^{n}\right)  ,\mathbf{q}=\left(
+q^{1},q^{2},q^{3},\dots,q^{n}\right)
+\end{equation}
+$$
+通过定义距离引入开集的定义：满足下面定义的点构成开集
+$$
+\begin{equation}
+d\left(  \mathbf{p},\mathbf{q}\right)  =\sqrt{\sum_{i=1}^{n}\left(
+p^{i}-q^{i}\right)  ^{2}}%
+\end{equation}
+$$
+也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将开球定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点$R^{n}$加上球拓扑，即\begin{equation}
+\mathbb{E}^{n}=\left(  \mathbb{R}^{n},\text{开球}\right)
+\end{equation}
+这就回答了我们开始提出的问题。
 
 ### 小结
+
+\begin{enumerate}
+\item
+Q:什么是拓扑？A:在点集$S$%
+上定义的开集的子集族$T$%
+。
+
+\item
+Q:什么是拓扑空间？A:已经定义了拓扑的点集$S$%
+，称为拓扑空间$\left(  S,T\right)
+$，其具备点集$S$%
+和拓扑结构$T$两大要素。
+\end{enumerate}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMj
-A0MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2
-MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4Mjc5LC
-0xMjU2ODA4OTI2LDM4MDM3ODI0OSwtMzY3NzAyOTM4LDE4MzE5
-NDczMCwxNzU4Mjk0ODc0LC0yMDU4NTA5NzY2LDE0MTIxODg1Mi
-w3ODMwMjc0NTgsMTY5NjczNDM1MywxMzAwNDM4OTI1LDQxODY0
-MTE3XX0=
+eyJoaXN0b3J5IjpbLTU0NjM4Mzg5NCwtOTEzNjMzNzk5LDQyNT
+A5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2MzE3LC03NzQ0MzUz
+MTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MDk2MDg3OTUsLT
+E0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNjc3
+MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4NzQsLTIwNTg1MDk3Nj
+YsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2NzM0MzUzLDEzMDA0
+Mzg5MjVdfQ==
 -->
