@@ -111,28 +111,28 @@ d\left(  \mathbf{p},\mathbf{q}\right)  =\sqrt{\sum_{i=1}^{n}\left(
 p^{i}-q^{i}\right)  ^{2}}%
 \end{equation}
 $$
-也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将开球定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点$R^{n}$加上球拓扑，即\begin{equation}
+也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将开球定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点集$R^{n}$加上球拓扑，即
+$$
+\begin{equation}
 \mathbb{E}^{n}=\left(  \mathbb{R}^{n},\text{开球}\right)
 \end{equation}
+$$
 这就回答了我们开始提出的问题。
 
 ### 小结
 
-\begin{enumerate}
-\item
-Q:什么是拓扑？A:在点集$S$%
-上定义的开集的子集族$T$%
-。
+  >Q:什么是拓扑？
+ >>A:在点集$S$上定义的开集的子集族$T$。
+ > Q:什么是拓扑空间？A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
 
-\item
-Q:什么是拓扑空间？A:已经定义了拓扑的点集$S$%
-，称为拓扑空间$\left(  S,T\right)
-$，其具备点集$S$%
-和拓扑结构$T$两大要素。
-\end{enumerate}
+
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjM4Mzg5NCwtOTEzNjMzNzk5LDQyNT
+eyJoaXN0b3J5IjpbMjA5MjU0ODY1NCwtOTEzNjMzNzk5LDQyNT
 A5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2MzE3LC03NzQ0MzUz
 MTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MDk2MDg3OTUsLT
 E0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgwMzc4MjQ5LC0zNjc3
