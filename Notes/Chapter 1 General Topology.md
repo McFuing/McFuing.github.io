@@ -87,13 +87,10 @@ $$
 ### 拓扑空间
 
 我们先来看一看拓扑空间的定义：
-$$
-拓扑空间就是定义了拓扑$T$%
-的点集$S$,一般记为$\left(S,T\right)$
+>拓扑空间就是定义了拓扑$T$点集$S$,一般记为$\left(S,T\right)$
 
-$$
-但是，从定义可以看出，这个拓扑空间与点集$S$%
-就只是差了一个定义的拓扑结构，也就是在集合$S$%
+但是，从定义可以看出，这个拓扑空间与点集$S$
+就只是差了一个定义的拓扑结构，也就是在集合$S$
 上定义了开集。有一点很重要：同一个开集可以定义不同的拓扑，而同样的拓扑可以定义在不同的集合上。也即，拓扑空间$\left(
 S,T\right)  $%
 上的开集不一定是拓扑空间$\left(
@@ -126,11 +123,11 @@ S$,任意的集合$U$%
 
 \subsection{小结}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MzI1NTMsNDI1MDkxNjQyLC0xMzIwND
-I3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3
-LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMT
-I1NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3
-MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNz
-gzMDI3NDU4LDE2OTY3MzQzNTMsMTMwMDQzODkyNSw0MTg2NDEx
-N119
+eyJoaXN0b3J5IjpbMTEzODYwODc3Miw0MjUwOTE2NDIsLTEzMj
+A0MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2
+MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4Mjc5LC
+0xMjU2ODA4OTI2LDM4MDM3ODI0OSwtMzY3NzAyOTM4LDE4MzE5
+NDczMCwxNzU4Mjk0ODc0LC0yMDU4NTA5NzY2LDE0MTIxODg1Mi
+w3ODMwMjc0NTgsMTY5NjczNDM1MywxMzAwNDM4OTI1LDQxODY0
+MTE3XX0=
 -->
