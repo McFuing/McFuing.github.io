@@ -68,11 +68,8 @@ $$
 物理需要开集
 $$
 ### 何为拓扑?
-我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^邻域]
+我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^邻域]的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
 [^邻域]:内点的邻域可以看作开集$S$的子集，且邻域也是开集
-
-的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
-
 >对于给定的点集S,拓扑就是集合S的满足以下条件的子集族(也可被称为开集):
 $$
 \begin{aligned}
@@ -134,11 +131,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0Mj
-UwOTE2NDIsLTEzMjA0MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1
-MzE5LDEzNzg3MTk2MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC
-0xNDgxMTQ4Mjc5LC0xMjU2ODA4OTI2LDM4MDM3ODI0OSwtMzY3
-NzAyOTM4LDE4MzE5NDczMCwxNzU4Mjk0ODc0LC0yMDU4NTA5Nz
-Y2LDE0MTIxODg1Miw3ODMwMjc0NTgsMTY5NjczNDM1MywxMzAw
-NDM4OTI1XX0=
+eyJoaXN0b3J5IjpbLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOT
+EzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2
+MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLT
+E5MDk2MDg3OTUsLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgw
+Mzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4Nz
+QsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2
+NzM0MzUzXX0=
 -->
