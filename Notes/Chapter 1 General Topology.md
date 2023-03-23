@@ -44,7 +44,7 @@ B_{r}\left(  p\right)  =\left\{  d\left(  q,p\right)  <r\ |\ q\in
 E^{3}\right\}
 \end{equation}
 $$
-借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1]
+借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1]。
 [^1]:我们知道，当一个对象里含有一个最小的抽象结构，对于最小结构所引入的概念，那么拿掉这个较大的对象，这个概念也是成立的。反之，不成立。
 
 但是，在闵氏空间中的距离是这样定义的：
@@ -59,10 +59,10 @@ $$
 ## 拓扑空间
 Q：在我们的印象里，说到$\mathbb{R}^{n}$与$\mathbb{E}^{n}$我们都会自然的认为这两个所表达都是$n$维空间，但是两者有什么区别呢？我们需要这一节来回答这个问题。
 ### 开集的引入
-首先需要明确，我们为什么需要开集？实验的测量结果不可避免地要受到精度的影响，相应的一些出现在基本方程的自然常数(如薛定谔方程中的普朗克常数$\hbar$,相对论中的光速$c$,麦克斯韦方程的电子电荷$e$)都不能够被相对精确的测得[^2]
+首先需要明确，我们为什么需要开集？实验的测量结果不可避免地要受到精度的影响，相应的一些出现在基本方程的自然常数(如薛定谔方程中的普朗克常数$\hbar$,相对论中的光速$c$,麦克斯韦方程的电子电荷$e$)都不能够被相对精确的测得[^2]。换句话说，我们建立的物理方程的基础是在假定：如果一个物理学量是可接受的，那么必定会有一系列的误差范围内的值是可接受的。
 [^2]:有人可能会说,我们的不确定性原理不就是在约束我们无法测准？Attention!!!不确定性原理并不是说什么力学量都无法测准。你在一个力学量的本征态上去测，是可以测量得到其本征值的。[什么是物理常数](https://en.wikipedia.org/wiki/Physical%5C_constant).
 
-换句话说，我们建立的物理方程的基础是在假定：如果一个物理学量是可接受的，那么必定会有一系列的误差范围内的值是可接受的。
+
 基于此，我们需要思考，物理量属于一个集合，什么样的集合呢？在每一个可接受的值的邻域内都有另外的一个值可以被平等的被接受，以此类推。也就是说，集合被赋予了这样的一个性质：在集合里的点的周围都存在着一个相同类型的集合，我们称其为"开集" ，记住此时的开集在延续我们初等开集的概念。
 $$
 物理需要开集
@@ -131,11 +131,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOT
-EzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2
-MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLT
-E5MDk2MDg3OTUsLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgw
-Mzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3NTgyOTQ4Nz
-QsLTIwNTg1MDk3NjYsMTQxMjE4ODUyLDc4MzAyNzQ1OCwxNjk2
-NzM0MzUzXX0=
+eyJoaXN0b3J5IjpbMTk3MDk5NTAxMCwtNDczMjQyMDIwLC0xOT
+c4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIwNDI3
+MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3LD
+E5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1
+NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3Mz
+AsMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgz
+MDI3NDU4XX0=
 -->
