@@ -44,7 +44,7 @@ B_{r}\left(  p\right)  =\left\{  d\left(  q,p\right)  <r\ |\ q\in
 E^{3}\right\}
 \end{equation}
 $$
-借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1]。
+借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1] 。
 [^1]:我们知道，当一个对象里含有一个最小的抽象结构，对于最小结构所引入的概念，那么拿掉这个较大的对象，这个概念也是成立的。反之，不成立。
 
 但是，在闵氏空间中的距离是这样定义的：
@@ -131,11 +131,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDk5NTAxMCwtNDczMjQyMDIwLC0xOT
-c4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIwNDI3
-MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3LD
-E5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1
-NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3Mz
-AsMTc1ODI5NDg3NCwtMjA1ODUwOTc2NiwxNDEyMTg4NTIsNzgz
-MDI3NDU4XX0=
+eyJoaXN0b3J5IjpbLTEzNDA4Nzk1NzQsMTk3MDk5NTAxMCwtND
+czMjQyMDIwLC0xOTc4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkx
+NjQyLC0xMzIwNDI3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOS
+wxMzc4NzE5NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4
+MTE0ODI3OSwtMTI1NjgwODkyNiwzODAzNzgyNDksLTM2NzcwMj
+kzOCwxODMxOTQ3MzAsMTc1ODI5NDg3NCwtMjA1ODUwOTc2Niwx
+NDEyMTg4NTJdfQ==
 -->
