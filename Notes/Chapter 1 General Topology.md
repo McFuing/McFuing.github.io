@@ -19,7 +19,8 @@ x-x_{0}\right\vert <\delta$说的是存在一个$x_{0}$的邻域$U_{\delta}\left
 >>A:不是开集。因为点a不是集合$\left\{a\right\}$的内点。
 
 到此我们定义的所有东西似乎都起源于一个东西：我们定义了距离$\left\vert z-a\right\vert$ 的这一概念。也就是当我们在讨论函数的连续性，可微性等解析性质时，依赖于我们定义了一个描述两点间距离的函数[^0].
-[^0]:距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：$$
+[^0]:距离函数可以看作是将$X$集合的一对数对，映射到实线$R$(数)上，满足以下条件：
+$$
 \begin{aligned}
 d\left(  p,q\right)  >0;\\
 d\left(  p,q\right)  =0\Longleftrightarrow p=q;\\
@@ -130,11 +131,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0ODA4ODgwLDIwMDIxMTY3MDIsLTEzND
-A4Nzk1NzQsMTk3MDk5NTAxMCwtNDczMjQyMDIwLC0xOTc4NzAx
-Njk4LC05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIwNDI3MjgyLC
-04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5NjM3LDE5NzI3
-NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwtMTI1NjgwOD
-kyNiwzODAzNzgyNDksLTM2NzcwMjkzOCwxODMxOTQ3MzAsMTc1
-ODI5NDg3NF19
+eyJoaXN0b3J5IjpbMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMz
+QwODc5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcw
+MTY5OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4Mi
+wtODk3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcy
+NzYzMDcsLTE5MDk2MDg3OTUsLTE0ODExNDgyNzksLTEyNTY4MD
+g5MjYsMzgwMzc4MjQ5LC0zNjc3MDI5MzgsMTgzMTk0NzMwLDE3
+NTgyOTQ4NzRdfQ==
 -->
