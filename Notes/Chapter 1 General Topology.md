@@ -128,8 +128,7 @@ $$
 我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^5]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
 [^5]:既然要生成集合中的元素，相交会使集合越来越小.
 
-
-若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p\in U_{\alpha}\subsetV$ 成立。
+>若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
 
 
@@ -139,11 +138,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNTg0ODk3LDU1Mjg1NzA3MiwyMDAyMT
-E2NzAyLDIwMDIxMTY3MDIsLTEzNDA4Nzk1NzQsMTk3MDk5NTAx
-MCwtNDczMjQyMDIwLC0xOTc4NzAxNjk4LC05MTM2MzM3OTksND
-I1MDkxNjQyLC0xMzIwNDI3MjgyLC04OTcwMDYzMTcsLTc3NDQz
-NTMxOSwxMzc4NzE5NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5NS
-wtMTQ4MTE0ODI3OSwtMTI1NjgwODkyNiwzODAzNzgyNDksLTM2
-NzcwMjkzOF19
+eyJoaXN0b3J5IjpbLTU5NTM0NjgyNyw1NTI4NTcwNzIsMjAwMj
+ExNjcwMiwyMDAyMTE2NzAyLC0xMzQwODc5NTc0LDE5NzA5OTUw
+MTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOTEzNjMzNzk5LD
+QyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2MzE3LC03NzQ0
+MzUzMTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MDk2MDg3OT
+UsLTE0ODExNDgyNzksLTEyNTY4MDg5MjYsMzgwMzc4MjQ5LC0z
+Njc3MDI5MzhdfQ==
 -->
