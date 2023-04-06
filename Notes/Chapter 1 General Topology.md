@@ -126,11 +126,13 @@ $$
 
 ## 可数集
 什么是可数集[^5] ？
+[^5]:数学分析（卷1）卓里奇，P60.
+
 >如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为可数集。
 
-这个双射可以是$X$
+这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。
 
-[^5]:数学分析（卷1）卓里奇，P60.
+
 
 ## 拓扑基
 我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^6]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
@@ -146,7 +148,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjE0NDM3MCwxMTQ5NTQxNTk3LC01OT
+eyJoaXN0b3J5IjpbLTQ2MzI0MzU0MiwxMTQ5NTQxNTk3LC01OT
 UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
 MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
 E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
