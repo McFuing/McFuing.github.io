@@ -143,7 +143,7 @@ $$
 >在空间$V$中，任意的点$p$都有一个开邻域$\{N_i\}$的可数集，使得对于任意的包含$p$的集合$U$,都至少包含一个$N_j$,称这样的空间为第一可数空间。
 
 举个例子：在度量空间中，我们选取$r \in \mathbb{Q}$,我们知道有理数集是可数集，那么这样的一个开邻域可数集可以表达为$\{N_i\}=\{q\in \mathbb{E^3}|d(q,p)<r_i\}$,所以度量空间是第一可数空间。 
-<img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/屏幕截图-2023-04-06-091458.6ld478a2nv40.webp" alt="屏幕截图-2023-04-06-091458" />
+
 
 ## 拓扑基
 我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^6]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
@@ -160,11 +160,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMj
-U0OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1
-NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwOD
-c5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5
-OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtOD
-k3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcyNzYz
-MDddfQ==
+eyJoaXN0b3J5IjpbLTEwNzA5MzYyNDIsNjMyNzQ2ODMzLDYxMj
+EyNTQ5NSw2MTIxMjU0OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcs
+LTU5NTM0NjgyNyw1NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAyMT
+E2NzAyLC0xMzQwODc5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAy
+MCwtMTk3ODcwMTY5OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMT
+MyMDQyNzI4MiwtODk3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcx
+OTYzN119
 -->
