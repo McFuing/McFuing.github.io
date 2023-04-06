@@ -137,6 +137,8 @@ $$
 >Q2:由可数集组成的有限集或可数集，其并集是可数集。
 >>A2:
 
+那什么是第一可数空间呢？
+>
 
 
 ## 拓扑基
@@ -153,7 +155,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODkwNjk4NCwxMTQ5NTQxNTk3LC01OT
+eyJoaXN0b3J5IjpbLTM4NzU3NTg0MCwxMTQ5NTQxNTk3LC01OT
 UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
 MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
 E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
