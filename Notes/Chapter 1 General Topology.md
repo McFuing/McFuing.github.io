@@ -126,7 +126,9 @@ $$
 
 ## 可数集
 什么是可数集[^5] ？
->如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与\mathbb{N}$中的元素一一对应，
+>如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为可数集。
+
+这个双射可以是$X$
 
 [^5]:数学分析（卷1）卓里奇，P60.
 
@@ -144,11 +146,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY1NzczNzQsMTE0OTU0MTU5NywtNT
-k1MzQ2ODI3LDU1Mjg1NzA3MiwyMDAyMTE2NzAyLDIwMDIxMTY3
-MDIsLTEzNDA4Nzk1NzQsMTk3MDk5NTAxMCwtNDczMjQyMDIwLC
-0xOTc4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIw
-NDI3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5Nj
-M3LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwt
-MTI1NjgwODkyNl19
+eyJoaXN0b3J5IjpbMTAxNjE0NDM3MCwxMTQ5NTQxNTk3LC01OT
+UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
+MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
+E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
+MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2Mz
+csMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4Mjc5LC0x
+MjU2ODA4OTI2XX0=
 -->
