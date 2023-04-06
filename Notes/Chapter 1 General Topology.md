@@ -152,7 +152,7 @@ $$
 >若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
 对于欧几里得空间$\mathbb{E}^n$的开球拓扑，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体......可以看到同一个拓扑可以有不同的拓扑基，那么重要的是如何判断那些拓扑基生成的是同一个拓扑空间。
->$B$和$B'$
+>$B$和$B'$定义了相同的拓扑$\iff$对于每一个$U_\alpha \in B$
 
 
 
@@ -161,11 +161,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTE1NjUyMywtMTQzNDc3NTAxNCwtMT
-A3MDkzNjI0Miw2MzI3NDY4MzMsNjEyMTI1NDk1LDYxMjEyNTQ5
-NSwxMjIzNjEzNzEsMTE0OTU0MTU5NywtNTk1MzQ2ODI3LDU1Mj
-g1NzA3MiwyMDAyMTE2NzAyLDIwMDIxMTY3MDIsLTEzNDA4Nzk1
-NzQsMTk3MDk5NTAxMCwtNDczMjQyMDIwLC0xOTc4NzAxNjk4LC
-05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIwNDI3MjgyLC04OTcw
-MDYzMTddfQ==
+eyJoaXN0b3J5IjpbOTUxMDMxMDc0LC0xNDM0Nzc1MDE0LC0xMD
+cwOTM2MjQyLDYzMjc0NjgzMyw2MTIxMjU0OTUsNjEyMTI1NDk1
+LDEyMjM2MTM3MSwxMTQ5NTQxNTk3LC01OTUzNDY4MjcsNTUyOD
+U3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcwMiwtMTM0MDg3OTU3
+NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLTE5Nzg3MDE2OTgsLT
+kxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0MjcyODIsLTg5NzAw
+NjMxN119
 -->
