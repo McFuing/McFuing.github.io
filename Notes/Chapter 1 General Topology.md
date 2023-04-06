@@ -124,12 +124,14 @@ $$
  > Q:什么是拓扑空间？
  > >A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
 
-## 可数集[^6]
-[^6]:
+## 可数集[^5]
+[^5]:数学分析（卷1）卓里奇，P60.
+
 什么是可数集？
+
 ## 拓扑基
-我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^5]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
-[^5]:既然要生成集合中的元素，相交会使集合越来越小.
+我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^6]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
+[^6]:既然要生成集合中的元素，相交会使集合越来越小.
 
 >若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
@@ -141,11 +143,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDk0MTczMSwxMTQ5NTQxNTk3LC01OT
-UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
-MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
-E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
-MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2Mz
-csMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4Mjc5LC0x
-MjU2ODA4OTI2XX0=
+eyJoaXN0b3J5IjpbNDExMTUxMzcwLDExNDk1NDE1OTcsLTU5NT
+M0NjgyNyw1NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAy
+LC0xMzQwODc5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMT
+k3ODcwMTY5OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQy
+NzI4MiwtODk3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNy
+wxOTcyNzYzMDcsLTE5MDk2MDg3OTUsLTE0ODExNDgyNzksLTEy
+NTY4MDg5MjZdfQ==
 -->
