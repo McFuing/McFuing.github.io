@@ -143,6 +143,7 @@ $$
 >在空间$V$中，任意的点$p$都有一个开邻域$\{N_i\}$的可数集，使得对于任意的包含$p$的集合$U$,都至少包含一个$N_j$,称这样的空间为第一可数空间。
 
 举个例子：在度量空间中，我们选取$r \in \mathbb{Q}$,我们知道有理数集是可数集，那么这样的一个开邻域可数集可以表达为$\{N_i\}=\{q\in \mathbb{E^3}|d(q,p)<r_i\}$,所以度量空间是第一可数空间。 
+
 <img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/屏幕截图-2023-04-06-091458.6ld478a2nv40.webp" alt="屏幕截图-2023-04-06-091458" />
 
 ## 拓扑基
@@ -159,11 +160,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMTI1NDk1LDEyMjM2MTM3MSwxMTQ5NT
-QxNTk3LC01OTUzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIs
-MjAwMjExNjcwMiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00Nz
-MyNDIwMjAsLTE5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2
-NDIsLTEzMjA0MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LD
-EzNzg3MTk2MzcsMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgx
-MTQ4Mjc5XX0=
+eyJoaXN0b3J5IjpbLTUyNDQ0MjQ4Nyw2MTIxMjU0OTUsMTIyMz
+YxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1NTI4NTcwNzIs
+MjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwODc5NTc0LDE5Nz
+A5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOTEzNjMz
+Nzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2MzE3LC
+03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcyNzYzMDcsLTE5MDk2
+MDg3OTVdfQ==
 -->
