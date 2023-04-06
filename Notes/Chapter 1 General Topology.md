@@ -151,7 +151,7 @@ $$
 
 >若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
-对于欧几里得空间$\mathbb{E}$
+对于欧几里得空间$\mathbb{E}^n$的开球拓扑，它的
 
 
 
@@ -160,11 +160,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTM3Njc0NSw2MTIxMjU0OTUsNjEyMT
-I1NDk1LDEyMjM2MTM3MSwxMTQ5NTQxNTk3LC01OTUzNDY4Mjcs
-NTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcwMiwtMTM0MD
-g3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLTE5Nzg3MDE2
-OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0MjcyODIsLT
-g5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2MzcsMTk3Mjc2
-MzA3XX0=
+eyJoaXN0b3J5IjpbNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMj
+U0OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1
+NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwOD
+c5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5
+OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtOD
+k3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNywxOTcyNzYz
+MDddfQ==
 -->
