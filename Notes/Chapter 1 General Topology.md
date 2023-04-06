@@ -130,7 +130,7 @@ $$
 
 >如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为可数集。
 
-这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。
+这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。这里注意区分可数集与无穷集，可数集是无穷集，但无穷集不一定是可数集
 
 
 
@@ -148,7 +148,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzI0MzU0MiwxMTQ5NTQxNTk3LC01OT
+eyJoaXN0b3J5IjpbMTEwMTM1MTIxOSwxMTQ5NTQxNTk3LC01OT
 UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
 MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
 E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
