@@ -151,7 +151,7 @@ $$
 
 >若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基当且仅当对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
-对于欧几里得空间$\mathbb{E}^n$的开球拓扑，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体。
+对于欧几里得空间$\mathbb{E}^n$的开球拓扑，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体......可以看到同一个拓扑可以有不同的拓扑基，那么重要的是如何判断
 
 
 
@@ -160,11 +160,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY3MjczNjMsLTE0MzQ3NzUwMTQsLT
-EwNzA5MzYyNDIsNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMjU0
-OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1NT
-I4NTcwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwODc5
-NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OC
-wtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3
-MDA2MzE3XX0=
+eyJoaXN0b3J5IjpbMzUyNzc1NzIsLTE0MzQ3NzUwMTQsLTEwNz
+A5MzYyNDIsNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMjU0OTUs
+MTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1NTI4NT
+cwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwODc5NTc0
+LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOT
+EzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQyNzI4MiwtODk3MDA2
+MzE3XX0=
 -->
