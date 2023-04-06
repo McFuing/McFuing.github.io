@@ -124,13 +124,13 @@ $$
  > Q:什么是拓扑空间？
  > >A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
 
-## 可数集
+## 可数集与第一可数空间
 什么是可数集[^5] ？
 [^5]:数学分析（卷1）卓里奇，P60.
 
 >如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为可数集。
 
-这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。这里注意区分可数集与无穷集，可数集是无穷集，但无穷集不一定是可数集
+这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。这里注意区分可数集与无穷集(来源于$\mat$)，可数集是无穷集，但无穷集不一定是可数集
 
 
 
@@ -148,11 +148,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTM1MTIxOSwxMTQ5NTQxNTk3LC01OT
-UzNDY4MjcsNTUyODU3MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcw
-MiwtMTM0MDg3OTU3NCwxOTcwOTk1MDEwLC00NzMyNDIwMjAsLT
-E5Nzg3MDE2OTgsLTkxMzYzMzc5OSw0MjUwOTE2NDIsLTEzMjA0
-MjcyODIsLTg5NzAwNjMxNywtNzc0NDM1MzE5LDEzNzg3MTk2Mz
-csMTk3Mjc2MzA3LC0xOTA5NjA4Nzk1LC0xNDgxMTQ4Mjc5LC0x
-MjU2ODA4OTI2XX0=
+eyJoaXN0b3J5IjpbLTEzNzIyODA2MDAsMTE0OTU0MTU5NywtNT
+k1MzQ2ODI3LDU1Mjg1NzA3MiwyMDAyMTE2NzAyLDIwMDIxMTY3
+MDIsLTEzNDA4Nzk1NzQsMTk3MDk5NTAxMCwtNDczMjQyMDIwLC
+0xOTc4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkxNjQyLC0xMzIw
+NDI3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOSwxMzc4NzE5Nj
+M3LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4MTE0ODI3OSwt
+MTI1NjgwODkyNl19
 -->
