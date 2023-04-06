@@ -137,10 +137,12 @@ $$
 >Q2:由可数集组成的有限集或可数集，其并集是可数集。
 >>A2:
 
+所以我们可以看出：有理数集是可数集。
+
 那什么是第一可数空间呢？
 >在空间$V$中，任意的点$p$都有一个开邻域$\{N_i\}$的可数集，使得对于任意的包含$p$的集合$U$,都至少包含一个$N_j$,称这样的空间为第一可数空间。
 
-举个例子：在度量空间中，
+举个例子：在度量空间中，我们选取$r \in \mathbb{Q}$ 
 
 ## 拓扑基
 我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^6]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
@@ -156,11 +158,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5NT
-M0NjgyNyw1NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAyMTE2NzAy
-LC0xMzQwODc5NTc0LDE5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMT
-k3ODcwMTY5OCwtOTEzNjMzNzk5LDQyNTA5MTY0MiwtMTMyMDQy
-NzI4MiwtODk3MDA2MzE3LC03NzQ0MzUzMTksMTM3ODcxOTYzNy
-wxOTcyNzYzMDcsLTE5MDk2MDg3OTUsLTE0ODExNDgyNzksLTEy
-NTY4MDg5MjZdfQ==
+eyJoaXN0b3J5IjpbMTYxNzY5MTA2NSwxMjIzNjEzNzEsMTE0OT
+U0MTU5NywtNTk1MzQ2ODI3LDU1Mjg1NzA3MiwyMDAyMTE2NzAy
+LDIwMDIxMTY3MDIsLTEzNDA4Nzk1NzQsMTk3MDk5NTAxMCwtND
+czMjQyMDIwLC0xOTc4NzAxNjk4LC05MTM2MzM3OTksNDI1MDkx
+NjQyLC0xMzIwNDI3MjgyLC04OTcwMDYzMTcsLTc3NDQzNTMxOS
+wxMzc4NzE5NjM3LDE5NzI3NjMwNywtMTkwOTYwODc5NSwtMTQ4
+MTE0ODI3OV19
 -->
