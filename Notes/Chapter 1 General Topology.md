@@ -153,12 +153,12 @@ $$
 等价的来看，集合$B=\{U_\alpha\}$是拓扑空间$(S,T)$的拓扑基的充要条件是：
 
  1. $B\subset T$（即$B$的每个成员都是开集）
- 2. $T\subset \widetilde{B}$(即每个开集都是)
+ 2. $T\subset \widetilde{B}$(即每个开集都是$B$中一些成员的并集)
 
 对于欧几里得空间$\mathbb{E}^n$的开球拓扑(原型拓扑基)，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体......可以看到同一个拓扑可以有不同的拓扑基，而且大多数的时候拓扑基也是无穷的，只不过相对于拓扑里的一般开集而言更具有代表性。那么重要的是如何判断那些拓扑基生成的是同一个拓扑。
 >$B$和$B'$定义了相同的拓扑$\iff$对于每一个$U_\alpha \in B$,以及每一个$p\in U_\alpha$,都存在某个$U_\beta' \in B'$使得$p\in U_\beta'\subset U_\alpha$反之亦然。
 
-对于实的欧几里得线$\mathbb{E}^1$,我们选取其上的所有形如$(r-1/n,r+1/n)$的所有开区间，其中$r$取遍所有的有理数，$n$取遍所有的整数，我们知道有理数集，整数集都是可数集，
+对于实的欧几里得线$\mathbb{E}^1$,我们选取其上的所有形如$(r-1/n,r+1/n)$的所有开区间，其中$r$取遍所有的有理数，$n$取遍所有的整数，我们知道有理数集，整数集都是可数集，我们称这样的
 ## 诱导拓扑
 
 
@@ -167,11 +167,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM4MzAwNTMsLTE4NjM3Nzg1NDYsLT
-I5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUyMjcsLTE4MzU5
-MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMTI5MjU1MTczOC
-wtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEyNTA4MzIzLC0x
-NDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYzMjc0NjgzMyw2MTIxMj
-U0OTUsNjEyMTI1NDk1LDEyMjM2MTM3MSwxMTQ5NTQxNTk3LC01
-OTUzNDY4MjddfQ==
+eyJoaXN0b3J5IjpbMTQ1OTAzODgyOCwtMTg2Mzc3ODU0NiwtMj
+k5OTkyMzM3LDEwOTYxMzE3NzIsMTkwOTg4NTIyNywtMTgzNTkw
+OTE3NSwyNzY2MjYwNTQsMTgyNjY4NjY1MywxMjkyNTUxNzM4LC
+0xMjQ4MTY4ODEzLC00NTk3NTU0MTksLTExMTI1MDgzMjMsLTE0
+MzQ3NzUwMTQsLTEwNzA5MzYyNDIsNjMyNzQ2ODMzLDYxMjEyNT
+Q5NSw2MTIxMjU0OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5
+NTM0NjgyN119
 -->
