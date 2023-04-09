@@ -5,9 +5,9 @@
 ### 从初等定义谈起
 我们的高等数学或者说是复变函数，在我们学习集合时，经常会引入以下的几个概念：
 
- - 点$a$的$\delta$邻域：以$a$为圆心，以$\epsilon$为半径的一个开圆即为点$a$的邻域,记为$U_{\delta}\left(  x\right),$即满足不等式$\left\vert z-a\right\vert<\epsilon$的那些点的集合。
- - 内点：点$x$,集合$S$,$x\in S$,存在一个$\delta$邻域使得$U_{\delta}\left(x\right)\subset S,$则称$x$为$S$的内点。
- - 边界点：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$,且$U_{\delta}\left(  x\right) \nsubseteq S$.
+ - **点$a$的$\delta$邻域**：以$a$为圆心，以$\epsilon$为半径的一个开圆即为点$a$的邻域,记为$U_{\delta}\left(  x\right),$即满足不等式$\left\vert z-a\right\vert<\epsilon$的那些点的集合。
+ - **内点**：点$x$,集合$S$,$x\in S$,存在一个$\delta$邻域使得$U_{\delta}\left(x\right)\subset S,$则称$x$为$S$的内点。
+ - **边界点**：点$x\notin S$,但是对于$x$的任意的一个$\delta$领域$U_{\delta}\left(x\right)$ 都有：$U_{\delta}\left(  x\right)  \cap S\neq\emptyset$,且$U_{\delta}\left(  x\right) \nsubseteq S$.
  
 据此，在高数中，我们定义了极限($\epsilon-\delta$语言)，连续，导数，微分(解析的含义)；在复变函数中定义了单，复连通域，进而定义了可微性与解析性。
 >连续如何定义？如果用$\varepsilon-\delta$语言就是:设$f:\mathbb{R\rightarrow R}$ 是一个函数，$x_{0}\in\mathbb{R}%
@@ -140,7 +140,7 @@ $$
 所以我们可以看出：有理数集是可数集。
 
 那什么是第一可数空间呢？
->在空间$V$中，任意的点$p$都有一个开邻域$\{N_i\}$的可数集，使得对于任意的包含$p$的集合$U$,都至少包含一个$N_j$,称这样的空间为第一可数空间。
+>在空间$V$中，任意的点$p$都有一个开邻域$\{N_i\}$的可数集，使得对于任意的包含$p$的集合$U$,都至少包含一个$N_j$,称这样的空间为**第一可数空间**。
 
 举个例子：在度量空间中，我们选取$r \in \mathbb{Q}$,我们知道有理数集是可数集，那么这样的一个开邻域可数集可以表达为$\{N_i\}=\{q\in \mathbb{E^3}|d(q,p)<r_i\}$,所以度量空间是第一可数空间。 
 <img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/屏幕截图-2023-04-06-091458.6ld478a2nv40.webp" alt="屏幕截图-2023-04-06-091458" />
@@ -167,11 +167,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMjgxOTEwLC0xODYzNzc4NTQ2LC0yOT
-k5OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xODM1OTA5
-MTc1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1NTE3MzgsLT
-EyNDgxNjg4MTMsLTQ1OTc1NTQxOSwtMTExMjUwODMyMywtMTQz
-NDc3NTAxNCwtMTA3MDkzNjI0Miw2MzI3NDY4MzMsNjEyMTI1ND
-k1LDYxMjEyNTQ5NSwxMjIzNjEzNzEsMTE0OTU0MTU5NywtNTk1
-MzQ2ODI3XX0=
+eyJoaXN0b3J5IjpbMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4Nj
+M3Nzg1NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUy
+MjcsLTE4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMT
+I5MjU1MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEy
+NTA4MzIzLC0xNDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYzMjc0Nj
+gzMyw2MTIxMjU0OTUsNjEyMTI1NDk1LDEyMjM2MTM3MSwxMTQ5
+NTQxNTk3XX0=
 -->
