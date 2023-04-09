@@ -108,7 +108,7 @@ d\left(  \mathbf{p},\mathbf{q}\right)  =\sqrt{\sum_{i=1}^{n}\left(
 p^{i}-q^{i}\right)  ^{2}}%
 \end{equation}
 $$
-也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将开球定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点集$\mathbb{R}^{n}$加上球拓扑，即
+也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将若干开球的并定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点集$\mathbb{R}^{n}$加上球拓扑，即
 $$
 \begin{equation}
 \mathbb{E}^{n}=\left(  \mathbb{R}^{n},\text{开球}\right)
@@ -163,11 +163,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MD
-k4ODUyMjcsLTE4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2
-NTMsMTI5MjU1MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC
-0xMTEyNTA4MzIzLC0xNDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYz
-Mjc0NjgzMyw2MTIxMjU0OTUsNjEyMTI1NDk1LDEyMjM2MTM3MS
-wxMTQ5NTQxNTk3LC01OTUzNDY4MjcsNTUyODU3MDcyLDIwMDIx
-MTY3MDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjM3Nzg1NDYsLTI5OTk5MjMzNywxMD
+k2MTMxNzcyLDE5MDk4ODUyMjcsLTE4MzU5MDkxNzUsMjc2NjI2
+MDU0LDE4MjY2ODY2NTMsMTI5MjU1MTczOCwtMTI0ODE2ODgxMy
+wtNDU5NzU1NDE5LC0xMTEyNTA4MzIzLC0xNDM0Nzc1MDE0LC0x
+MDcwOTM2MjQyLDYzMjc0NjgzMyw2MTIxMjU0OTUsNjEyMTI1ND
+k1LDEyMjM2MTM3MSwxMTQ5NTQxNTk3LC01OTUzNDY4MjcsNTUy
+ODU3MDcyXX0=
 -->
