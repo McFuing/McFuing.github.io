@@ -144,7 +144,7 @@ $$
 
 举个例子：在度量空间中，我们选取$r \in \mathbb{Q}$,我们知道有理数集是可数集，那么这样的一个开邻域可数集可以表达为$\{N_i\}=\{q\in \mathbb{E^3}|d(q,p)<r_i\}$,所以度量空间是第一可数空间。 
 <img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/屏幕截图-2023-04-06-091458.6ld478a2nv40.webp" alt="屏幕截图-2023-04-06-091458" />
-## 拓扑基()
+## 拓扑基(拓扑空间的拓扑基)
 我们已经知道什么是拓扑，当然如果我们想表示拓扑，完全可以将其中的开集全部罗列出来。但是这样做很显然是耗时且费力，而且对于拥有无穷开集的拓扑，这种表示显然是不可取的。类比，我们线性代数所学的线性空间的表示。对于线性空间中的矢量，我们并不是将其一一罗列，而是选了一组基底(极大线性无关组)，来生成线性空间中的其它矢量。再回到我们的拓扑，我们需要找一找拓扑有没有这样对应的性质。看到拓扑的定义：给定任意数量(有限或无限)的子集族中的集合，他们的并[^6]也属于这个子集族。也即开集的并是可以生成这个子集族中的元素的，那么我们就可以借此引入拓扑基的定义。
 [^6]:既然要生成集合中的元素，相交会使集合越来越小.
 
@@ -163,11 +163,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA3OTg2NzYsMTkwOTg4NTIyNywtMT
-gzNTkwOTE3NSwyNzY2MjYwNTQsMTgyNjY4NjY1MywxMjkyNTUx
-NzM4LC0xMjQ4MTY4ODEzLC00NTk3NTU0MTksLTExMTI1MDgzMj
-MsLTE0MzQ3NzUwMTQsLTEwNzA5MzYyNDIsNjMyNzQ2ODMzLDYx
-MjEyNTQ5NSw2MTIxMjU0OTUsMTIyMzYxMzcxLDExNDk1NDE1OT
-csLTU5NTM0NjgyNyw1NTI4NTcwNzIsMjAwMjExNjcwMiwyMDAy
-MTE2NzAyXX0=
+eyJoaXN0b3J5IjpbMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xOD
+M1OTA5MTc1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1NTE3
+MzgsLTEyNDgxNjg4MTMsLTQ1OTc1NTQxOSwtMTExMjUwODMyMy
+wtMTQzNDc3NTAxNCwtMTA3MDkzNjI0Miw2MzI3NDY4MzMsNjEy
+MTI1NDk1LDYxMjEyNTQ5NSwxMjIzNjEzNzEsMTE0OTU0MTU5Ny
+wtNTk1MzQ2ODI3LDU1Mjg1NzA3MiwyMDAyMTE2NzAyLDIwMDIx
+MTY3MDJdfQ==
 -->
