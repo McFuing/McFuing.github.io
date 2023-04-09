@@ -153,6 +153,7 @@ $$
 对于欧几里得空间$\mathbb{E}^n$的开球拓扑，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体......可以看到同一个拓扑可以有不同的拓扑基，那么重要的是如何判断那些拓扑基生成的是同一个拓扑空间。
 >$B$和$B'$定义了相同的拓扑$\iff$对于每一个$U_\alpha \in B$,以及每一个$p\in U_\alpha$,都存在某个$U_\beta' \in B'$使得$p\in U_\beta'\subset U_\alpha$反之亦然。
 
+对于shi'de
 ## 诱导拓扑
 
 
@@ -161,11 +162,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzODk3ODQyLC0xMjQ4MTY4ODEzLC00NT
-k3NTU0MTksLTExMTI1MDgzMjMsLTE0MzQ3NzUwMTQsLTEwNzA5
-MzYyNDIsNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMjU0OTUsMT
-IyMzYxMzcxLDExNDk1NDE1OTcsLTU5NTM0NjgyNyw1NTI4NTcw
-NzIsMjAwMjExNjcwMiwyMDAyMTE2NzAyLC0xMzQwODc5NTc0LD
-E5NzA5OTUwMTAsLTQ3MzI0MjAyMCwtMTk3ODcwMTY5OCwtOTEz
-NjMzNzk5XX0=
+eyJoaXN0b3J5IjpbMTkzMDMwNTgzNywtMTI0ODE2ODgxMywtND
+U5NzU1NDE5LC0xMTEyNTA4MzIzLC0xNDM0Nzc1MDE0LC0xMDcw
+OTM2MjQyLDYzMjc0NjgzMyw2MTIxMjU0OTUsNjEyMTI1NDk1LD
+EyMjM2MTM3MSwxMTQ5NTQxNTk3LC01OTUzNDY4MjcsNTUyODU3
+MDcyLDIwMDIxMTY3MDIsMjAwMjExNjcwMiwtMTM0MDg3OTU3NC
+wxOTcwOTk1MDEwLC00NzMyNDIwMjAsLTE5Nzg3MDE2OTgsLTkx
+MzYzMzc5OV19
 -->
