@@ -150,9 +150,9 @@ $$
 
 >若集合 $B=\left\{  U_{\alpha}\right\}$ 是拓扑 $T$ 的基$\iff$对于任意的开集$V\in T$ 以及点 $p\in V$,都存在一个$U_{\alpha}\in B$,使得 $p \in U_{\alpha}\subset V$ 成立。
 
-等价的来看，集合$B=\{U_\alpha\}$是拓扑空间的拓扑基的充要条件是：
+等价的来看，集合$B=\{U_\alpha\}$是拓扑空间$(S,T)$的拓扑基的充要条件是：
 
- 1. 这里是列表文本
+ 1. $B\subset T$（即$B$的每个成员都是开集）
 
 对于欧几里得空间$\mathbb{E}^n$的开球拓扑(原型拓扑基)，它的拓扑基就是所有的开球，当然你也可以说开四面体，开的立方体......可以看到同一个拓扑可以有不同的拓扑基，而且大多数的时候拓扑基也是无穷的，只不过相对于拓扑里的一般开集而言更具有代表性。那么重要的是如何判断那些拓扑基生成的是同一个拓扑。
 >$B$和$B'$定义了相同的拓扑$\iff$对于每一个$U_\alpha \in B$,以及每一个$p\in U_\alpha$,都存在某个$U_\beta' \in B'$使得$p\in U_\beta'\subset U_\alpha$反之亦然。
@@ -166,11 +166,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjA1MzUwMSwtMTg2Mzc3ODU0NiwtMj
-k5OTkyMzM3LDEwOTYxMzE3NzIsMTkwOTg4NTIyNywtMTgzNTkw
-OTE3NSwyNzY2MjYwNTQsMTgyNjY4NjY1MywxMjkyNTUxNzM4LC
-0xMjQ4MTY4ODEzLC00NTk3NTU0MTksLTExMTI1MDgzMjMsLTE0
-MzQ3NzUwMTQsLTEwNzA5MzYyNDIsNjMyNzQ2ODMzLDYxMjEyNT
-Q5NSw2MTIxMjU0OTUsMTIyMzYxMzcxLDExNDk1NDE1OTcsLTU5
-NTM0NjgyN119
+eyJoaXN0b3J5IjpbNDc5MjgzMjc2LC0xODYzNzc4NTQ2LC0yOT
+k5OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xODM1OTA5
+MTc1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1NTE3MzgsLT
+EyNDgxNjg4MTMsLTQ1OTc1NTQxOSwtMTExMjUwODMyMywtMTQz
+NDc3NTAxNCwtMTA3MDkzNjI0Miw2MzI3NDY4MzMsNjEyMTI1ND
+k1LDYxMjEyNTQ5NSwxMjIzNjEzNzEsMTE0OTU0MTU5NywtNTk1
+MzQ2ODI3XX0=
 -->
