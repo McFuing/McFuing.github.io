@@ -28,7 +28,7 @@ d\left(  p,q\right)  =d\left(  q,p\right)  ;\\
 d\left(  p,r\right)  +d\left(  r,q\right)  \geq d\left(  p,q\right).
 \end{aligned}
 $$
-称定义了集合上度量d的度量空间
+称集合上定义了度量d的度量空间
 
 $$
 \begin{equation}
@@ -168,7 +168,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzY5ODY1MSwxNzQwMTc0MzkwLDM4Mz
+eyJoaXN0b3J5IjpbMTA2NTI2MDk2NywxNzQwMTc0MzkwLDM4Mz
 I4MTkxMCwtMTg2Mzc3ODU0NiwtMjk5OTkyMzM3LDEwOTYxMzE3
 NzIsMTkwOTg4NTIyNywtMTgzNTkwOTE3NSwyNzY2MjYwNTQsMT
 gyNjY4NjY1MywxMjkyNTUxNzM4LC0xMjQ4MTY4ODEzLC00NTk3
