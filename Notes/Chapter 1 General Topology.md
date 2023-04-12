@@ -28,6 +28,7 @@ d\left(  p,q\right)  =d\left(  q,p\right)  ;\\
 d\left(  p,r\right)  +d\left(  r,q\right)  \geq d\left(  p,q\right).
 \end{aligned}
 $$
+称定义了du'lian
 
 $$
 \begin{equation}
@@ -167,11 +168,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4Nj
-M3Nzg1NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUy
-MjcsLTE4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMT
-I5MjU1MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEy
-NTA4MzIzLC0xNDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYzMjc0Nj
-gzMyw2MTIxMjU0OTUsNjEyMTI1NDk1LDEyMjM2MTM3MSwxMTQ5
-NTQxNTk3XX0=
+eyJoaXN0b3J5IjpbLTkwNzU2NDgwNywxNzQwMTc0MzkwLDM4Mz
+I4MTkxMCwtMTg2Mzc3ODU0NiwtMjk5OTkyMzM3LDEwOTYxMzE3
+NzIsMTkwOTg4NTIyNywtMTgzNTkwOTE3NSwyNzY2MjYwNTQsMT
+gyNjY4NjY1MywxMjkyNTUxNzM4LC0xMjQ4MTY4ODEzLC00NTk3
+NTU0MTksLTExMTI1MDgzMjMsLTE0MzQ3NzUwMTQsLTEwNzA5Mz
+YyNDIsNjMyNzQ2ODMzLDYxMjEyNTQ5NSw2MTIxMjU0OTUsMTIy
+MzYxMzcxXX0=
 -->
