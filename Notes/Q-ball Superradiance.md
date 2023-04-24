@@ -8,11 +8,11 @@ Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用
 $$
 \mathcal{L}=-\eta^{\mu\nu}\frac{\partial{\Phi^*}}{\partial{x^\mu}}\frac{\partial{\Phi}}{\partial{x^\nu}}\tag{1}
 $$
-其中势能$V(|\Phi|)=\mu^2|\Phi|^2-\lambda|\Phi|^4+g|\Phi|^6$作为一个实例。要求当$|\Phi|=0$作为真真空，得到$\lambda>0$以及$\mu^2g>\lambda^2/4$,使用无量纲的变量，$x=\mux,\Phi=\lambda^{1/2}|\Phi|\/\mu$以及$g=\mu^2g/\lambda^2$,这个模型可以重新写为
+其中势能$V(|\Phi|)=\mu^2|\Phi|^2-\lambda|\Phi|^4+g|\Phi|^6$作为一个实例。要求当$|\Phi|=0$作为真真空，得到$\lambda>0$以及$\mu^2g>\lambda^2/4$,使用无量纲的变量，$x=\mu x,\Phi=\lambda^{1/2}|\Phi|/\mu$以及$g=\mu^2g/\lambda^2$,这个模型可以重新写为
 $$
 \mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6\tag{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDE4MDU4MiwtNDE2MDgzMzY2LDIxMD
+eyJoaXN0b3J5IjpbMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMD
 UzODIwNDddfQ==
 -->
