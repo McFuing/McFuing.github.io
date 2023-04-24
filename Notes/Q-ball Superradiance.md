@@ -6,8 +6,8 @@ Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用
 
 我们将会考虑$U(1)$对称性的理论，
 $$
-\mathcal{L}=-\eta^{\mu\nu}\frac{\partial{\Phi^*}}{pa}
+\mathcal{L}=-\eta^{\mu\nu}\frac{\partial{\Phi^*}}{\partial}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE0MzI5NDYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
