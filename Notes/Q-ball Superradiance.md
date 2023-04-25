@@ -40,9 +40,12 @@ $$
 |\omega|>\omega_Q+1.\tag{8}
 $$
 就像在图1中展示的那样，如果$\omega>0$,$A_-,B_+$项代表入射波，$A_+,B_-$项代表出射波，而下标$+(-)$代表正(负)电荷；如果$\omega<0$,波的方向翻转，$-(+)$表示正（负）电荷。
-有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$附近的$\eta_+,\eta_-$的值，然后通过方程（6）演化到较大的$r$去获得$A_\pm,B_\pm$。在原点附近我们要求$\eta_\pm(\omega,m,r\rightarrow 0)\rightarrow F_\pm(k_\pm r)^{|m_\pm|}$。$F_\pm$是复常数，用来提供初始条件来解这个系统。除此之外，因为这个系统是线性的，如果$(\eta_+,\eta_-)$是一个解，那么$(\zeta\eta_+,\zeta^*\eta_-)$也是解，其中$\zeta$是复常数。这就意味着我们可以重新标度这个常数(即$F_+$)
+有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$附近的$\eta_+,\eta_-$的值，然后通过方程（6）演化到较大的$r$去获得$A_\pm,B_\pm$。在原点附近我们要求$\eta_\pm(\omega,m,r\rightarrow 0)\rightarrow F_\pm(k_\pm r)^{|m_\pm|}$。$F_\pm$是复常数，用来提供初始条件来解这个系统。除此之外，因为这个系统是线性的，如果$(\eta_+,\eta_-)$是一个解，那么$(\zeta\eta_+,\zeta^*\eta_-)$也是解，其中$\zeta$是复常数。这就意味着我们可以重新标度这个常数(即$F_+$)归一，在$r\rightarrow0$时选择下面的初始条件：
+$$
+\eta_\pm(m,r)=(k_+r)^{|m_+|,\eta_-=F_-(k_-r)^{|m_-|}.}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTAyOTg1NywxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE5MzY5NzkwMzIsMTQyOTczNjc5NywxNj
+cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
+MDQ3XX0=
 -->
