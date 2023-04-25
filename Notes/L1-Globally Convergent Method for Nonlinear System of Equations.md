@@ -17,7 +17,7 @@ $$
 ### 打靶法思想及实现
 我们先讨论纯粹的打靶法：从$x_1$积分到$x_2$，然后我们希望使得由$x_1$初值演化的结果符合$x_2$边界条件，如图所示：
 
-
+在初始点$x_1$，由$N$个初值$y_i$
 
 ## Shooting to a Fitting Point
 
@@ -25,6 +25,6 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDQxNDcwOSwxNDk0NDE0NzA5LC0xMj
-Q4NDY2MDk1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTM1MzA0ODAxMSwxNDk0NDE0NzA5LDE0OT
+Q0MTQ3MDksLTEyNDg0NjYwOTUsLTIwODg3NDY2MTJdfQ==
 -->
