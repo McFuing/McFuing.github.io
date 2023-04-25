@@ -10,7 +10,7 @@ $$
 $$
 其中势能$V(|\Phi|)=\mu^2|\Phi|^2-\lambda|\Phi|^4+g|\Phi|^6$作为一个实例。要求当$|\Phi|=0$作为真真空，得到$\lambda>0$以及$\mu^2g>\lambda^2/4$,使用无量纲的变量，$x=\mu x,\Phi=\lambda^{1/2}|\Phi|/\mu$以及$g=\mu^2g/\lambda^2$,这个模型可以重新写为
 $$
-\mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6\tag{2}
+\mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6,\tag{2}
 $$
 这可以看作是一般的$U(1)$标量场的有效场论展开的低能量的截断（在2+1维重整化）。接下来除了末尾简短讨论3+1维的情况外，我们将会主要集中于2+1维的情况。
 在极坐标中，一个通常的Q-ball构型具有如下的形式，
@@ -35,10 +35,10 @@ $$
 $$
 \eta_\pm(\omega,m,r\rightarrow \infty)\rightarrow \frac{A_\pm}{\sqrt{k_\pm r}}e^{ik_\pm r}+\frac{B_\pm}{\sqrt{k_\pm r}}e^{-ik_\pm r},\tag{7}
 $$
-
+其中波数$k_\pm=(\omega_\pm^2-1)^{1/2}$。此时，我们感兴趣的是接近与离开Q-ball的散射波。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk5ODAxODQsMTQyOTczNjc5NywxNj
-cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTc4OTA5NjU3MCwxNDI5NzM2Nzk3LDE2Nz
+AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
+NDddfQ==
 -->
