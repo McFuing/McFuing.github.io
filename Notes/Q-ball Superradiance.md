@@ -12,8 +12,8 @@ $$
 $$
 \mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6\tag{2}
 $$
-势能可以看作
+这可以看作是一般的$U(1)$标量场的有效场论展开的低能量的截断（在2+1维重整化）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjczOTQyMywxNjk2NjIyMjAwLC00MT
+eyJoaXN0b3J5IjpbMTYzNDAyNTYxOSwxNjk2NjIyMjAwLC00MT
 YwODMzNjYsMjEwNTM4MjA0N119
 -->
