@@ -25,15 +25,15 @@ $$
 $$
 F_k=B_{2k}(x_2,\bold{y}),k=1,\dots,n_2\tag{5}
 $$
-
+zong'hsang'suo'shu
 ## Shooting to a Fitting Point
 
 
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjUwNTc1OCw2MjA0MjczMDksLTkzNT
-U3Nzg4Niw1NDc4MzEzMTIsNDExNDYwNTkyLDU2ODQ1OTAyNSwx
-NDk0NDE0NzA5LDE0OTQ0MTQ3MDksLTEyNDg0NjYwOTUsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTkxMDkwOTgzNywxNTU2NTA1NzU4LDYyMD
+QyNzMwOSwtOTM1NTc3ODg2LDU0NzgzMTMxMiw0MTE0NjA1OTIs
+NTY4NDU5MDI1LDE0OTQ0MTQ3MDksMTQ5NDQxNDcwOSwtMTI0OD
+Q2NjA5NSwtMjA4ODc0NjYxMl19
 -->
