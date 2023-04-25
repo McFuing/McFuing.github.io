@@ -1,5 +1,3 @@
-# Two Point Boundary Value Problems
-
 ## Shooting Method
 ### 微分方程和边界条件
 我们有一个微分方程组
@@ -17,13 +15,13 @@ $$
 >解微分方程的核心思想是将微分方程看作一种演化，这种演化是由积分来实现的，由初值决定系统的后来的演化结果。
 
 ### 打靶法
-我们先讨论纯粹的打靶法：从$x_1$积分到$x_2$
+我们先讨论纯粹的打靶法：从$x_1$积分到$x_2$，然后我们希望在$x_2$使边界条件
 ## Shooting to a Fitting Point
 
 
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NTk4MzI1LC0xMjQ4NDY2MDk1LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgxMjI3NjI0OSwtMTI0ODQ2NjA5NSwtMj
+A4ODc0NjYxMl19
 -->
