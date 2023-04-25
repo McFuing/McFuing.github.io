@@ -44,9 +44,9 @@ $$
 $$
 \eta_\pm(m,r)=(k_+r)^{|m_+|,\eta_-=F_-(k_-r)^{|m_-|}}.\tag{9}
 $$
-对于每一个$F_-$,初值问题都会给出一组$A_+,A_-,B_+,B_-$
+对于每一个$F_-$,初值问题都会给出一组$A_+,A_-,B_+,B_-$.因此，普遍的，我们有两个入射和出射波。如果我们想要仅仅一个入射波，我们可以使用打靶法去调整$F_-$使得$A_-$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDIxOTcwOCwxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbNzM1MTEwOTUzLDE0Mjk3MzY3OTcsMTY3MD
+E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
+N119
 -->
