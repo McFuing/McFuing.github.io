@@ -31,10 +31,10 @@ $$
 $$
 \eta_\pm^{''}+\frac{1}{r}\eta_\pm^{'}+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
 $$
-其中$'$代表
+其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODg0NTU0MSwxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE2MjEwMTExNTgsMTQyOTczNjc5NywxNj
+cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
+MDQ3XX0=
 -->
