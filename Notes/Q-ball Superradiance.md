@@ -17,8 +17,8 @@ $$
 $$
 \Phi_{Q}(t,r,\varphi)=\frac{1}{\sqrt{2}}f(r)e^{-i\omega_Q t+i m_Q\varphi }\tag{3}
 $$
-其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是方位角。若$m_Q$非零，此构型的实空间的角相速度为$\Omega_Q=\omega_Q/m_Q$。非转动Q-ball是当$m_Q=0$的特殊情况
+其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是方位角。若$m_Q$非零，此构型的实空间的角相速度为$\Omega_Q=\omega_Q/m_Q$。非转动Q-ball是当$m_Q=0$的特殊情况，此时$f(r)$在$r=0$处达到顶点，在径向无穷大时快速降到零。对于$m_Q \neq 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM0MDM2MSwxNjk2NjIyMjAwLC00MT
-YwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbODE3Mjc5ODcwLDE2OTY2MjIyMDAsLTQxNj
+A4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
