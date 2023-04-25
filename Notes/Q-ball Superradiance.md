@@ -31,10 +31,13 @@ $$
 $$
 \eta_\pm''+\frac{1}{r}\eta_\pm'+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
 $$
-其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$,我们可以得到$U(r\rightarrow \infty)=1,W(r\rightarrow \infty)=0$。在较大的$r$处，上面的方程约化为$\eta_\pm''+\frac{1}{r}\eta_\pm'+(\omega_\pm^2-1)\eta_\pm \rightarrow0$
+其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$,我们可以得到$U(r\rightarrow \infty)=1,W(r\rightarrow \infty)=0$。在较大的$r$处，上面的方程约化为$\eta_\pm''+\frac{1}{r}\eta_\pm'+(\omega_\pm^2-1)\eta_\pm \rightarrow0$,这是由
+$$
+\eta_\pm(\omega,m,r\rightarrow \infty)\rightarrow \frac{A_\pm}{\sqrt{}}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDc3NzgyMiwxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbMTQ1NDA2MTczLDE0Mjk3MzY3OTcsMTY3MD
+E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
+N119
 -->
