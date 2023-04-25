@@ -39,9 +39,9 @@ $$
 $$
 |\omega|>\omega_Q+1.\tag{8}
 $$
-就像在图1中展示的那样，如果$\omega>0$,$A_-,b$
+就像在图1中展示的那样，如果$\omega>0$,$A_-,B_+$项代表入射波，$A_+,B_-$项代表出射波，而下标$+(-)$代表正(负)电荷；如果$\$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MjE1NTEzLDE0Mjk3MzY3OTcsMTY3MD
-E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
-N119
+eyJoaXN0b3J5IjpbMTQxNDA5OTgwNSwxNDI5NzM2Nzk3LDE2Nz
+AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
+NDddfQ==
 -->
