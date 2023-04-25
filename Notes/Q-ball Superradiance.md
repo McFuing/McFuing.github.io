@@ -17,8 +17,8 @@ $$
 $$
 \Phi_{Q}(t,r,\varphi)=\frac{1}{\sqrt{2}}f(r)e^{-i\omega_Q t+i m_Q\varphi }\tag{3}
 $$
-其中
+其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是fang'wei
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MDEzODE2LDE2OTY2MjIyMDAsLTQxNj
-A4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbMTg5NDEzMzkxNiwxNjk2NjIyMjAwLC00MT
+YwODMzNjYsMjEwNTM4MjA0N119
 -->
