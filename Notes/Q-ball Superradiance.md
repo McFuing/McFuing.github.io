@@ -12,7 +12,8 @@ $$
 $$
 \mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6\tag{2}
 $$
+势能可以看作
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMD
-UzODIwNDddfQ==
+eyJoaXN0b3J5IjpbLTE5NjczOTQyMywxNjk2NjIyMjAwLC00MT
+YwODMzNjYsMjEwNTM4MjA0N119
 -->
