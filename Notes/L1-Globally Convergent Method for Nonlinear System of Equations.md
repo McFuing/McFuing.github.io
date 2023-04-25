@@ -21,7 +21,7 @@ $$
 $$
 y_i(x_1)=y_i(x_1;V_1,\dots,V_{n_2}),i=1,2,\dots,N\tag{4}
 $$
-
+给定一个
 
 ## Shooting to a Fitting Point
 
@@ -29,7 +29,7 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTU3Nzg4Niw1NDc4MzEzMTIsNDExND
-YwNTkyLDU2ODQ1OTAyNSwxNDk0NDE0NzA5LDE0OTQ0MTQ3MDks
-LTEyNDg0NjYwOTUsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjIwNDI3MzA5LC05MzU1Nzc4ODYsNTQ3OD
+MxMzEyLDQxMTQ2MDU5Miw1Njg0NTkwMjUsMTQ5NDQxNDcwOSwx
+NDk0NDE0NzA5LC0xMjQ4NDY2MDk1LC0yMDg4NzQ2NjEyXX0=
 -->
