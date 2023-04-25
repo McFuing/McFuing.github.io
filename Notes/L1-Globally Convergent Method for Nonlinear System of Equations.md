@@ -25,14 +25,14 @@ $$
 $$
 F_k=B_{2k}(x_2,\bold{y}),k=1,\dots,n_2\tag{5}
 $$
-综上所述，我们通过调节初始的边界条件，对常微分方程组进行积分演化得到终点处的演化zhi
+综上所述，我们通过调节初始的边界条件，对常微分方程组进行积分演化得到终点处的演化值，再与给定的终点处的边界条件做对比，保证两者相等，那么我们就得到了一个满足两个边界值且满足微分方程的解。
 ## Shooting to a Fitting Point
 
 
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzczNzI2OSwxNTU2NTA1NzU4LDYyMD
+eyJoaXN0b3J5IjpbMjA1ODgwMzQ5MiwxNTU2NTA1NzU4LDYyMD
 QyNzMwOSwtOTM1NTc3ODg2LDU0NzgzMTMxMiw0MTE0NjA1OTIs
 NTY4NDU5MDI1LDE0OTQ0MTQ3MDksMTQ5NDQxNDcwOSwtMTI0OD
 Q2NjA5NSwtMjA4ODc0NjYxMl19
