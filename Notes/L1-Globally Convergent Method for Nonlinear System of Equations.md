@@ -21,7 +21,7 @@ $$
 $$
 y_i(x_1)=y_i(x_1;V_1,\dots,V_{n_2}),i=1,2,\dots,N\tag{4}
 $$
-给定一个
+给定一个$\bold{V}$就产生了一个特定的$\bold{y}(x_1)$,从$x_1$到$$积分常微分方程组
 
 ## Shooting to a Fitting Point
 
@@ -29,7 +29,8 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNDI3MzA5LC05MzU1Nzc4ODYsNTQ3OD
-MxMzEyLDQxMTQ2MDU5Miw1Njg0NTkwMjUsMTQ5NDQxNDcwOSwx
-NDk0NDE0NzA5LC0xMjQ4NDY2MDk1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTM4MDkxNzY5NCw2MjA0MjczMDksLTkzNT
+U3Nzg4Niw1NDc4MzEzMTIsNDExNDYwNTkyLDU2ODQ1OTAyNSwx
+NDk0NDE0NzA5LDE0OTQ0MTQ3MDksLTEyNDg0NjYwOTUsLTIwOD
+g3NDY2MTJdfQ==
 -->
