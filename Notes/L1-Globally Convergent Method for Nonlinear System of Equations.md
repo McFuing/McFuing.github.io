@@ -11,11 +11,11 @@ B_{1j}(x_1,y_1,\dots,y_N)=0,i=1,2,\dots,n_1\tag{2}
 $$
 在点$x_2$满足
 $$
-
+B_{2k}(x_2,y_1,\dots,y_N)=0,i=1,2,\dots,n_2\tag{3}
 $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTE2MjcxNSwtMTI0ODQ2NjA5NSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODY4MDk5NzQsLTEyNDg0NjYwOTUsLTIwOD
+g3NDY2MTJdfQ==
 -->
