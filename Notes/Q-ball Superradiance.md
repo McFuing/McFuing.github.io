@@ -17,8 +17,8 @@ $$
 $$
 \Phi_{Q}(t,r,\varphi)=\frac{1}{\sqrt{2}}f(r)e^{-i\omega_Q t+i m_Q\varphi }\tag{3}
 $$
-其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是fang'wei
+其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是方位角，此构型的实空间的角相速度为$\Omega_Q=\omega_Q/m_Q$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDEzMzkxNiwxNjk2NjIyMjAwLC00MT
+eyJoaXN0b3J5IjpbLTg5NDUxNjMzNywxNjk2NjIyMjAwLC00MT
 YwODMzNjYsMjEwNTM4MjA0N119
 -->
