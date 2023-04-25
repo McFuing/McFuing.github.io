@@ -52,9 +52,9 @@ E_\circledcirc=&\frac{1}{r_2-r_1} \int_{r_1}^{r_2}rdr\langle|\partial_t\phi|^2+|
 =&2\frac{\omega_+^2}{k_+}(|A_+|^2+|B_+|^2)+2\frac{\omega_-^2}{k_-}(|A_-|^2+|B_-|^2),
 \end{aligned}
 $$
-其中$r_2-r_1$至少包含一个最长波的完全空间振荡
+其中$r_2-r_1$至少包含一个最长波的完全空间振荡周期，$\langle\rangle$是一些振荡的时间平均值
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0MDUzMTksMTQyOTczNjc5NywxNj
-cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTI2OTc3Mjk4OCwxNDI5NzM2Nzk3LDE2Nz
+AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
+NDddfQ==
 -->
