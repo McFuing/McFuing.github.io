@@ -27,9 +27,10 @@ $$
 $$
 \phi=\eta_+(\omega,m,r)e^{-i\omega_+ t+im_+\varphi}+\eta_-(\omega,m,r)e^{-i\omega_- t+im_-\varphi}\tag{5}
 $$
-其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。普遍解将是这种情况的线性叠加。不同于一个实标量场的超辐射情况，
+其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。普遍解将是这种情况的线性叠加。不同于一个实标量场的超辐射情况，单个频率就能满足最小情况。所以将$\phi$和$\phi^*$之间耦合是我们选择两个模式的原因。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTczNjc5NywxNjcwMTQ5ODA5LDE2OT
-Y2MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbMjA1MDY3NTQ4LDE0Mjk3MzY3OTcsMTY3MD
+E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
+N119
 -->
