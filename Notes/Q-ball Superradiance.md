@@ -27,9 +27,9 @@ $$
 $$
 \phi=\eta_+(\omega,m,r)e^{-i\omega_+ t+im_+\varphi}+\eta_-(\omega,m,r)e^{-i\omega_- t+im_-\varphi}\tag{5}
 $$
-其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。
+其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。普遍解将是这种情况的线性叠加。不同于一个实标量场的超辐射情况，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODY4MDc1NCwxNjcwMTQ5ODA5LDE2OT
+eyJoaXN0b3J5IjpbMTQyOTczNjc5NywxNjcwMTQ5ODA5LDE2OT
 Y2MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
