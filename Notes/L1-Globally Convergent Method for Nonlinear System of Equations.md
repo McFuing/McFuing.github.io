@@ -14,7 +14,7 @@ B_{2k}(x_2,y_1,\dots,y_N)=0,i=1,2,\dots,n_2\tag{3}
 $$
 >解微分方程的核心思想是将微分方程看作一种演化，这种演化是由积分来实现的，由初值决定系统的后来的演化结果。
 
-### 打靶法的实现
+### 打靶法思想及实现
 我们先讨论纯粹的打靶法：从$x_1$积分到$x_2$，然后我们希望使得由$x_1$初值演化的结果符合$x_2$边界条件，如图所示：
 
 
@@ -25,6 +25,6 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDY5MTUyNSwtMTI0ODQ2NjA5NSwtMj
+eyJoaXN0b3J5IjpbMTQ5NDQxNDcwOSwtMTI0ODQ2NjA5NSwtMj
 A4ODc0NjYxMl19
 -->
