@@ -14,11 +14,14 @@ $$
 $$
 B_{2k}(x_2,y_1,\dots,y_N)=0,i=1,2,\dots,n_2\tag{3}
 $$
-解wen'fen'fan
-### 
+解微分方程的核心思想是将微分方程看作一种演化，由初值决定的系统的后来的演化结果。
+### 打靶法
+
+
+
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzMxMDE1NSwtMTI0ODQ2NjA5NSwtMj
+eyJoaXN0b3J5IjpbLTExMzM3NzMzMCwtMTI0ODQ2NjA5NSwtMj
 A4ODc0NjYxMl19
 -->
