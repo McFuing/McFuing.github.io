@@ -52,9 +52,9 @@ E_\circledcirc=&\frac{1}{r_2-r_1} \int_{r_1}^{r_2}rdr\langle|\partial_t\phi|^2+|
 =&2\frac{\omega_+^2}{k_+}(|A_+|^2+|B_+|^2)+2\frac{\omega_-^2}{k_-}(|A_-|^2+|B_-|^2),
 \end{aligned}
 $$
-其中$r_2-r_1$至少包含一个最长波的完全空间振荡周期，$\langle\rangle$是一些振荡的时间平均值
+其中$r_2-r_1$至少包含一个最长波的完全空间振荡周期，$\langle\rangle$是若干振荡的时间平均值，仅保留领先阶。我们使用微扰场去计算能量是因为Q-ball构型在较大的$r$快速趋于0$，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTc3Mjk4OCwxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE3MDMwMzk0LDE0Mjk3MzY3OTcsMTY3MD
+E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
+N119
 -->
