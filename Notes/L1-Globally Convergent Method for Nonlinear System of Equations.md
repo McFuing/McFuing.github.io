@@ -21,7 +21,7 @@ $$
 $$
 y_i(x_1)=y_i(x_1;V_1,\dots,V_{n_2}),i=1,2,\dots,N\tag{4}
 $$
-给定一个$\bold{V}$就产生了一个特定的$\bold{y}(x_1)$,从$x_1$到$x_2$积分常微分方程组得到演化的$\bold{y}(x_2)$,在$x_2$处我们定义一个差值矢量$\bold{F}$
+给定一个$\bold{V}$就产生了一个特定的$\bold{y}(x_1)$,从$x_1$到$x_2$积分常微分方程组得到演化的$\bold{y}(x_2)$,在$x_2$处我们定义一个维数为$n_2$差值矢量$\bold{F}$,用来衡量我们演化得到的$\bold{y}(x_2)$
 
 ## Shooting to a Fitting Point
 
@@ -29,7 +29,7 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4Mzc4MzExLDYyMDQyNzMwOSwtOTM1NT
+eyJoaXN0b3J5IjpbODMwNTA2ODg5LDYyMDQyNzMwOSwtOTM1NT
 c3ODg2LDU0NzgzMTMxMiw0MTE0NjA1OTIsNTY4NDU5MDI1LDE0
 OTQ0MTQ3MDksMTQ5NDQxNDcwOSwtMTI0ODQ2NjA5NSwtMjA4OD
 c0NjYxMl19
