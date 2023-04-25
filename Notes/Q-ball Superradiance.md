@@ -19,8 +19,10 @@ $$
 $$
 其中$\omega_Q$是Q-ball在场空间的振荡频率，$\varphi$是方位角。若$m_Q$非零，此构型的实空间的角相速度为$\Omega_Q=\omega_Q/m_Q$。非转动Q-ball是当$m_Q=0$的特殊情况，此时$f(r)$在$r=0$处达到峰值，在径向无穷大时快速降到零。对于$m_Q \neq 0$，$f(r)$将会在一个有限的$r$处达到峰值，在$r\rightarrow 0$以及$r \rightarrow \infty$时近似趋于$0$。在原点处的正则条件为$f(r\rightarrow 0)\propto r^{|m_Q|}$。不失一般性的，我们认为$\omega_Q>0$(对于转动Q-ball$m_Q>0$)。当Q-ball存在时，$\omega_Q$必须满足$(1-(4g)^{-1})^{1/2}\lesssim \omega_Q<1$(见附录1)。孤立的Q-ball对于小的扰动具有稳定性。但是，在这篇文章中，我们将会证明在波在周围散射的“脏”环境中，Q-ball有不稳定超辐射的倾向。
 以此为目的，让我们看一下对Q-ball解附近的运动的扰动方程$\Phi=\Phi_Q+\phi(t,r,\varphi)$:
-
+$$
+\sqare 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjg4ODI2MywxNjk2NjIyMjAwLC00MT
-YwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbLTE4MjY4MzU2NTUsMTY5NjYyMjIwMCwtND
+E2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
