@@ -40,9 +40,9 @@ $$
 |\omega|>\omega_Q+1.\tag{8}
 $$
 就像在图1中展示的那样，如果$\omega>0$,$A_-,B_+$项代表入射波，$A_+,B_-$项代表出射波，而下标$+(-)$代表正(负)电荷；如果$\omega<0$,波的方向翻转，$-(+)$表示正（负）电荷。
-有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$附近的$\eta_+,\eta_-$的值，然后通过方程（6）演化到较大的$r$去获得$A_\pm,B_\pm$。在原点附近wo'men
+有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$附近的$\eta_+,\eta_-$的值，然后通过方程（6）演化到较大的$r$去获得$A_\pm,B_\pm$。在原点附近我们要求$\eta_\pm(\omega,m,r\rightarrow 0)\rightarrow F_\pm(k_\pm r)^{|m_\pm|}$,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODc2NTEwMCwxNDI5NzM2Nzk3LDE2Nz
+eyJoaXN0b3J5IjpbLTc4Nzc0OTgwNywxNDI5NzM2Nzk3LDE2Nz
 AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
 NDddfQ==
 -->
