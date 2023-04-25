@@ -21,19 +21,19 @@ $$
 $$
 y_i(x_1)=y_i(x_1;V_1,\dots,V_{n_2}),i=1,2,\dots,N\tag{4}
 $$
-给定一个$\bold{V}$就产生了一个特定的$\bold{y}(x_1)$,从$x_1$到$x_2$积分常微分方程组得到演化的$\bold{y}(x_2)$,在$x_2$处我们定义一个维数为$n_2$差值矢量$\bold{F}$,用来衡量我们距离满足$n_2$个$x_2$处的边界条件$B_{2k}$有多远。即
+给定一个$\bold{V}$就产生了一个特定的$\bold{y}(x_1)$,从$x_1$到$x_2$积分常微分方程组得到演化的$\bold{y}(x_2)$,在$x_2$处我们定义一个维数为$n_2$差值矢量$\bold{F}$,用来衡量我们距离满足$n_2$个$x_2$处的边界条件$B_{2k}$有多远。即将演化值$\bold{y}(x_2)$带入(3)
 $$
 F_k=B_{2k}(x_2,\bold{y}),k=1,\dots,n_2\tag{5}
 $$
 综上所述，我们通过调节初始的边界条件，对常微分方程组进行积分演化得到终点处的演化值，再与给定的终点处的边界条件做对比，保证两者相等，那么我们就得到了一个满足两个边界值且满足微分方程的解。
 ## Shooting to a Fitting Point
-
+zai'yi'xie'wen't
 
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODgwMzQ5MiwxNTU2NTA1NzU4LDYyMD
-QyNzMwOSwtOTM1NTc3ODg2LDU0NzgzMTMxMiw0MTE0NjA1OTIs
-NTY4NDU5MDI1LDE0OTQ0MTQ3MDksMTQ5NDQxNDcwOSwtMTI0OD
-Q2NjA5NSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEwMzE1NTM3MjEsMTU1NjUwNTc1OCw2Mj
+A0MjczMDksLTkzNTU3Nzg4Niw1NDc4MzEzMTIsNDExNDYwNTky
+LDU2ODQ1OTAyNSwxNDk0NDE0NzA5LDE0OTQ0MTQ3MDksLTEyND
+g0NjYwOTUsLTIwODg3NDY2MTJdfQ==
 -->
