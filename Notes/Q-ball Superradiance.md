@@ -54,10 +54,10 @@ E_\circledcirc=&\frac{1}{r_2-r_1} \int_{r_1}^{r_2}rdr\langle|\partial_t\phi|^2+|
 $$
 其中$r_2-r_1$至少包含一个最长波的完全空间振荡周期，$\langle\rangle$是若干振荡的时间平均值，仅保留领先阶。我们使用微扰场去计算能量是因为Q-ball构型在较大的$r$快速趋于$0$，振幅因子可以被定义为出射场能量与入射场能量的比值，
 $$
-\mathcal{A}_E=\leftbrackets(\frac{\frac{\omega_+^2}{k_+}|A_+|^2+\frac{\omega_-^2}{k_-}|B_-^2|}{\frac{\omega_+^2}{k_+}|B_+|^2+\frac{\omega_-^2}{k_-}|A_-^2|}\rightbrackets)^{sign(\omega)},\tag{11}
+\mathcal{A}_E=\left(\frac{\frac{\omega_+^2}{k_+}|A_+|^2+\frac{\omega_-^2}{k_-}|B_-^2|}{\frac{\omega_+^2}{k_+}|B_+|^2+\frac{\omega_-^2}{k_-}|A_-^2|}\right)^{sign(\omega)},\tag{11}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTA3MDgxNiwxNDI5NzM2Nzk3LDE2Nz
-AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE4MzU2MDYxMzQsMTQyOTczNjc5NywxNj
+cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
+MDQ3XX0=
 -->
