@@ -35,10 +35,10 @@ $$
 $$
 \eta_\pm(\omega,m,r\rightarrow \infty)\rightarrow \frac{A_\pm}{\sqrt{k_\pm r}}e^{ik_\pm r}+\frac{B_\pm}{\sqrt{k_\pm r}}e^{-ik_\pm r},\tag{7}
 $$
-其中波数$k_\pm=(\omega_\pm^2-1)^{1/2}$。此时，我们感兴趣的是接近与离开Q-ball的散射波。假设两种模式都在传播波，将实条件强加给 $k_\pm$:$|\omega_Q\pm\omega|>1$.不等式右边的$1$来源于标量理论的质量差()
+其中波数$k_\pm=(\omega_\pm^2-1)^{1/2}$。此时，我们感兴趣的是接近与离开Q-ball的散射波。假设两种模式都在传播波，将实条件强加给 $k_\pm$:$|\omega_Q\pm\omega|>1$.不等式右边的$1$来源于标量理论的质量差(本质上，在我们的单位中标量质量$\mu=1$)。由于我们已经认为$\omega_Q>0$，zhe'jiu'yi'wie
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MjUzMjE2LDE0Mjk3MzY3OTcsMTY3MD
-E0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0
-N119
+eyJoaXN0b3J5IjpbLTEzNTk5ODU4MDIsMTQyOTczNjc5NywxNj
+cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
+MDQ3XX0=
 -->
