@@ -22,7 +22,9 @@ $$
 $$
 \Box\phi-U(r)\phi-e^{-2i(\omega_Q t-m_Q\varphi)}W(r)\phi^*=0\tag{4}
 $$
+其中$U=\frac{1}{2}(\frac{d^2V}{df^2}+\frac{1}{f}\frac{dV}{df})$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDY0MTc0NSwxNjk2NjIyMjAwLC00MT
-YwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbNzExNjU1ODg0LDE2OTY2MjIyMDAsLTQxNj
+A4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
