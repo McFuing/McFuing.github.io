@@ -12,8 +12,9 @@ $$
 $$
 \mathcal{L}=-\partial_\mu\Phi^*\partial^\mu\Phi-V(|\Phi|),V(|\Phi|)=|\Phi|^2-|\Phi|^4+g|\Phi|^6\tag{2}
 $$
-这可以看作是一般的$U(1)$标量场的有效场论展开的低能量的截断（在2+1维重整化）。
+这可以看作是一般的$U(1)$标量场的有效场论展开的低能量的截断（在2+1维重整化）。接下来除了末尾简短讨论3+1维的情况外，我们将会主要集中于2+1维的情况。
+在极坐标中，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDAyNTYxOSwxNjk2NjIyMjAwLC00MT
+eyJoaXN0b3J5IjpbMTY4NjYyNjYyNCwxNjk2NjIyMjAwLC00MT
 YwODMzNjYsMjEwNTM4MjA0N119
 -->
