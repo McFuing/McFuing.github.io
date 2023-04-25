@@ -22,13 +22,14 @@ $$
 y_i(x_1)=y_i(x_1;V_1,\dots,V_{n_2}),i=1,2,\dots,N\tag{4}
 $$
 
+
 ## Shooting to a Fitting Point
 
 
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3ODMxMzEyLDQxMTQ2MDU5Miw1Njg0NT
-kwMjUsMTQ5NDQxNDcwOSwxNDk0NDE0NzA5LC0xMjQ4NDY2MDk1
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTkzNTU3Nzg4Niw1NDc4MzEzMTIsNDExND
+YwNTkyLDU2ODQ1OTAyNSwxNDk0NDE0NzA5LDE0OTQ0MTQ3MDks
+LTEyNDg0NjYwOTUsLTIwODg3NDY2MTJdfQ==
 -->
