@@ -29,11 +29,12 @@ $$
 $$
 其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。普遍解将是这种情况的线性叠加。不同于一个实标量场的超辐射情况，单个频率就能满足最小情况。所以将$\phi$和$\phi^*$之间耦合是我们选择两个模式的原因。模式方程满足下面的方程，
 $$
-\eta_\pm^{''}+\frac{1}{r}\eta_\pm^'+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\r
+\eta_\pm^{''}+\frac{1}{r}\eta_\pm^{'}+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
 $$
+其中$'$代表
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY3NTUxMzksMTQyOTczNjc5NywxNj
-cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTk0ODg0NTU0MSwxNDI5NzM2Nzk3LDE2Nz
+AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
+NDddfQ==
 -->
