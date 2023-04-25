@@ -40,9 +40,9 @@ $$
 |\omega|>\omega_Q+1.\tag{8}
 $$
 就像在图1中展示的那样，如果$\omega>0$,$A_-,B_+$项代表入射波，$A_+,B_-$项代表出射波，而下标$+(-)$代表正(负)电荷；如果$\omega<0$,波的方向翻转，$-(+)$表示正（负）电荷。
-y
+有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM4OTEyNjQsMTQyOTczNjc5NywxNj
+eyJoaXN0b3J5IjpbLTE2ODQwMTI4NDMsMTQyOTczNjc5NywxNj
 cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
 MDQ3XX0=
 -->
