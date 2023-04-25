@@ -17,7 +17,7 @@ $$
 ### 打靶法思想及实现
 我们先讨论纯粹的打靶法：从$x_1$积分到$x_2$，然后我们希望使得由$x_1$初值演化的结果符合$x_2$边界条件，如图所示：
 
-在初始点$x_1$，需要指定$N$个初值$y_i$，但是要受$n_1$个条件的约束，因此有$n_2=N-n_1$
+在初始点$x_1$，需要指定$N$个初值$y_i$，但是要受$n_1$个条件的约束，因此有$n_2=N-n_1$可自由指定的初值。将这些自由指定的变量看作矢量$\bold{V}$
 
 ## Shooting to a Fitting Point
 
@@ -25,6 +25,6 @@ $$
 ## Line Searches and Backtracking
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njk4ODI0MywxNDk0NDE0NzA5LDE0OT
-Q0MTQ3MDksLTEyNDg0NjYwOTUsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzkwNjgxOTMsMTQ5NDQxNDcwOSwxND
+k0NDE0NzA5LC0xMjQ4NDY2MDk1LC0yMDg4NzQ2NjEyXX0=
 -->
