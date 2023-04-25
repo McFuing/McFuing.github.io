@@ -29,12 +29,12 @@ $$
 $$
 其中$\omega_\pm=\omega_Q\pm\omega$，$m_\pm=m_Q\pm m$。普遍解将是这种情况的线性叠加。不同于一个实标量场的超辐射情况，单个频率就能满足最小情况。所以将$\phi$和$\phi^*$之间耦合是我们选择两个模式的原因。模式方程满足下面的方程，
 $$
-\eta_\pm^{''}+\frac{1}{r}\eta_\pm^{'}+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
+\eta_\pm''+\frac{1}{r}\eta_\pm'+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
 $$
-其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$,我们可以得到$U(r\rightarrow \infty)=1,W(r\rightarrow \infty)=0$。在较大的$r$处，上面的方程约化为$\eta_\pm^{''}+$
+其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$,我们可以得到$U(r\rightarrow \infty)=1,W(r\rightarrow \infty)=0$。在较大的$r$处，上面的方程约化为$\eta_\pm''+\frac{1}{r}\eta_\pm'+(\omega_\pm^2-1)\eta_\pm \rightarrow0$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI5MzU0MTgsMTQyOTczNjc5NywxNj
-cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
-MDQ3XX0=
+eyJoaXN0b3J5IjpbMTI5NDc3NzgyMiwxNDI5NzM2Nzk3LDE2Nz
+AxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIw
+NDddfQ==
 -->
