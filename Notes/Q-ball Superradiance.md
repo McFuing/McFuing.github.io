@@ -22,9 +22,10 @@ $$
 $$
 \Box\phi-U(r)\phi-e^{-2i(\omega_Q t-m_Q\varphi)}W(r)\phi^*=0\tag{4}
 $$
-其中$U=\frac{1}{2}(\frac{d^2V}{df^2}+\frac{1}{f}\frac{dV}{df})$, $W=\frac{1}{2}(\frac{d^2V}{df^2}-\frac{1}{f}\frac{dV}{df})$。我们可以看到微扰场$\phi$与时间与角向振荡的相干Q-ball背景相互作用。确实，就像我们将看到的那样，Q-ball凝聚可以增强能量，角动量以及入射波的电荷，发生超辐射。然而，$U$和$W$依赖于$r$
+其中$U=\frac{1}{2}(\frac{d^2V}{df^2}+\frac{1}{f}\frac{dV}{df})$, $W=\frac{1}{2}(\frac{d^2V}{df^2}-\frac{1}{f}\frac{dV}{df})$。我们可以看到微扰场$\phi$与时间与角向振荡的相干Q-ball背景相互作用。确实，就像我们将看到的那样，Q-ball凝聚可以增强能量，角动量以及入射波的电荷，发生超辐射。然而，$U$和$W$依赖于$r$使得我们不能直接对空间进行傅里叶展开。
+进一步的，我们限制场仅有两个频率的这种最小情况
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI3ODU5OSwxNjcwMTQ5ODA5LDE2OT
-Y2MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbLTEzNzQ5MDAyMTMsMTY3MDE0OTgwOSwxNj
+k2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
