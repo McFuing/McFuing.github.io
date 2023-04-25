@@ -31,10 +31,10 @@ $$
 $$
 \eta_\pm^{''}+\frac{1}{r}\eta_\pm^{'}+(\omega_\pm^2-U-\frac{m_\pm^2}{r^2})\eta_\pm-W\eta_\mp^{*}=0\tag{6}
 $$
-其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$
+其中$'$代表关于$r$求导。由于$f(r\rightarrow \infty)=0$,我们可以得到$U(r\rightarrow \infty)=1,W(r\rightarrow \infty)=0$。在较大的$r$处，上面的方程约化为$\eta_\pm^{''}+$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEwMTExNTgsMTQyOTczNjc5NywxNj
+eyJoaXN0b3J5IjpbLTEwNzI5MzU0MTgsMTQyOTczNjc5NywxNj
 cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
 MDQ3XX0=
 -->
