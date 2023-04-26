@@ -93,10 +93,13 @@ $$
 \frac{(\omega_Q+\omega_L)(m_Q+m_L)}{\sqrt{(\omega_Q+\omega_L)^2-1}}=\frac{(\omega_Q-\omega_L)(m_Q-m_L)}{\sqrt{(\omega_Q-\omega_L)^2-1}}\tag{19}
 $$
 #### 非转动Q-ball 
-让我们看一下对于仅仅有一个入射波$\eta_+(m=0)$，能量振幅因子$\mathcal{A}_E$随入射频率$\omega$和背景$\omega_Q$如何变化，如图2所示。(如果我们仅仅有入射$\eta_-$波，放大曲线将会是图2的$\omega\rightarrow-\omega$的翻转)，
+让我们看一下对于仅仅有一个入射波$\eta_+(m=0)$，能量振幅因子$\mathcal{A}_E$随入射频率$\omega$和背景$\omega_Q$如何变化，如图2所示。(如果我们仅仅有入射$\eta_-$波，放大曲线将会是图2的$\omega\rightarrow-\omega$的翻转)。从判据(18),我们可以知道超辐射发生的条件为
+$$
+\omega<-|\o|
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjcxODU2MCwtNzgxMDIzNzM1LDExOD
-cxNTU0MDMsLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5
-MTA0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOS
-wxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbNDYwODM5MjE0LC03ODEwMjM3MzUsMTE4Nz
+E1NTQwMywtMTM0Njk2NDAwMiwxMzUwNzM3MDAsLTE0MzUzMTkx
+MDQsLTE4MzU2MDYxMzQsMTQyOTczNjc5NywxNjcwMTQ5ODA5LD
+E2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
