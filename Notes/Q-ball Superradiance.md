@@ -80,9 +80,9 @@ $$
 $$
 M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_-{'}\eta_--\eta^*_-\eta_-{'})\tag{16}
 $$
-满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。在较大的$r$处，代入渐近解(7),我们可以得到领先阶，$M_{\eta}=2(|A_+|^2-|B_+|^2-|A_-|^2+|B_-|^2)$.另外一方面，
+满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。在较大的$r$处，代入渐近解(7),我们可以得到领先阶，$M_{\eta}=2(|A_+|^2-|B_+|^2-|A_-|^2+|B_-|^2)$.另外一方面，因为$\eta_\pm$在原点$r=0$是解析的，所以我们可以得到$M_\eta=0$.这就得到了在
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjc0OTgyLC0xMzQ2OTY0MDAyLDEzNT
+eyJoaXN0b3J5IjpbNTk0NTgwNDE2LC0xMzQ2OTY0MDAyLDEzNT
 A3MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2
 Nzk3LDE2NzAxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LD
 IxMDUzODIwNDddfQ==
