@@ -70,10 +70,10 @@ $$
 我们想要看到粒子流在散射过程中是如何变化的。粒子流在远离原点的环形区域的平均以及时间平均为$N_\circledcirc=2(|A_+|^2+|B_+|^2+|A_-|^2+|B_-|^2)$,振幅因子为$\mathcal{A}_N=\left((|A_+|^2+|B_-|^2)/(|B_+|^2+|A_-|^2)\right)^{sign(\omega)}$.
 但是，对于模式$\eta_+,\eta_-$的$U(1)$对称性，我们总是有$\mathcal{A}_N=1$,为了去证明这个问题，注意到运动方程可以通过下面的拉格朗日量得到，
 $$
-L(\eta,\eta')=\sum_{s=\pm}\left[(|\sqrt{r}\eta_s)'|^2-r(\omrg)\right]
+L(\eta,\eta')=\sum_{s=\pm}\left[(|\sqrt{r}\eta_s)'|^2-r(\omega_s^2-U-\frac{4m_s^2-1}{4r^2})|\eta_s|^2\right]+rW(\eta^*_+\eta^*_-+\eta_+\eta_-)\tag{14}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA5NzQ1MTYsLTE0MzUzMTkxMDQsLT
-E4MzU2MDYxMzQsMTQyOTczNjc5NywxNjcwMTQ5ODA5LDE2OTY2
-MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbMjA0OTIwMTQ2MSwtMTQzNTMxOTEwNCwtMT
+gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
+MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
