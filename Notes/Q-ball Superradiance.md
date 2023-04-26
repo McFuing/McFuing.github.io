@@ -90,10 +90,12 @@ $$
 $$
 也即是能量的超辐射判据出现在$\omega_E$。类似的，在方程(13)中，我们可以看到对于一个角动量模式$m_L$，代表角动量的吸收与增强的阈值频率$\omega_L$,即当$\mathcal{A}_L=1$时
 $$
-\frac{(\omega_Q+\omega_L)(m_Q+m_L)}{}=\frac{(\omega_Q+\omega_L)(m_Q-m_L)}{}
+\frac{(\omega_Q+\omega_L)(m_Q+m_L)}{\sqrt{(\omega_Q+\omega_L)^2-1}}=\frac{(\omega_Q-\omega_L)(m_Q-m_L)}{\sqrt{(\omega_Q-\omega_L)^2-1}}\tag{19}
 $$
+#### 非转动Q-ball 
+wo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc4MzE3MCwtMTM0Njk2NDAwMiwxMz
+eyJoaXN0b3J5IjpbMTkzNDQ0MDg4MywtMTM0Njk2NDAwMiwxMz
 UwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTcz
 Njc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2Ni
 wyMTA1MzgyMDQ3XX0=
