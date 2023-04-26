@@ -98,11 +98,11 @@ $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
 其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（**$\omega_Q$有下界**）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。典型地，放大因子的峰会随着我们降低$\omega_Q$(对应于更大的Q-ball)而快速降低。另外一个有趣的结果是，对于某些$\omega_Q$（比如$\omega_Q=0.58$），在放大谱中存在有趣的多峰结构。
-更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，
+更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，在散射过程中允许两个两个入射模式将会极大的增加能量振幅因子。就像被提到的那样，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODU4MjcwLC0xMzk4NjI2MDQ1LDE5MD
-g5NDk4MTksLTIwMTY0NjgzMDMsLTc4MTAyMzczNSwxMTg3MTU1
-NDAzLC0xMzQ2OTY0MDAyLDEzNTA3MzcwMCwtMTQzNTMxOTEwNC
-wtMTgzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5
-NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
+eyJoaXN0b3J5IjpbLTE5MjMzMzAwMTMsLTEzOTg2MjYwNDUsMT
+kwODk0OTgxOSwtMjAxNjQ2ODMwMywtNzgxMDIzNzM1LDExODcx
+NTU0MDMsLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MT
+A0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwx
+Njk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
