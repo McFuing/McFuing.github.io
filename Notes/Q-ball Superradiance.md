@@ -97,11 +97,11 @@ $$
 $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
-其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（** **）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（**$\omega_Q$有下界**）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg2MjYwNDUsMTkwODk0OTgxOSwtMj
-AxNjQ2ODMwMywtNzgxMDIzNzM1LDExODcxNTU0MDMsLTEzNDY5
-NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2MT
-M0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC00
-MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbLTEyNTk0MzU3NTAsLTEzOTg2MjYwNDUsMT
+kwODk0OTgxOSwtMjAxNjQ2ODMwMywtNzgxMDIzNzM1LDExODcx
+NTU0MDMsLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MT
+A0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwx
+Njk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
