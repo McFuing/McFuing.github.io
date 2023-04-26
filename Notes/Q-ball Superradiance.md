@@ -67,8 +67,9 @@ $$
 $$
 \mathcal{A}_L=\left(\frac{\frac{\omega_+m_+}{k_+}|A_+|^2+\frac{\omega_-m_-}{k_-}|B_-|^2}{\frac{\omega_+m_+}{k_+}|B_+|^2+\frac{\omega_-m_-}{k_-}|A_-|^2}\right)^{sign(\omega)}
 $$
+我们想要看到粒子流在散射过程中是如何变化的。粒子流在远离原点的环形区域的平均以及时间平均为$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODAyMTc5OCwtMTQzNTMxOTEwNCwtMT
+eyJoaXN0b3J5IjpbMTA3MjIyMzY0OCwtMTQzNTMxOTEwNCwtMT
 gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
 MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
