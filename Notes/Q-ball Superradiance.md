@@ -78,10 +78,11 @@ $$
 $$
 对应$U(1)$对称性的“诺特荷”为
 $$
-M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_-{'})
+M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_-{'}\eta_--\eta^*_-\eta_-{'})\tag{16}
 $$
+满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTczNzc0OSwtMTQzNTMxOTEwNCwtMT
-gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
-MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
+eyJoaXN0b3J5IjpbMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0xOD
+M1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIy
+MjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
