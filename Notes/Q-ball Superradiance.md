@@ -80,9 +80,10 @@ $$
 $$
 M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_-{'}\eta_--\eta^*_-\eta_-{'})\tag{16}
 $$
-满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。
+满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。在较大的$r$处
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0xOD
-M1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIy
-MjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xND
+M1MzE5MTA0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0
+OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N1
+19
 -->
