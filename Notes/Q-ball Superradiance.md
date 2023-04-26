@@ -82,11 +82,12 @@ M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_-{'}\eta_--\eta^*_-\eta
 $$
 满足$\partial{r}M_\eta=0$,意味着$M_\eta$是独立于$r$的。在较大的$r$处，代入渐近解(7),我们可以得到领先阶，$M_{\eta}=2(|A_+|^2-|B_+|^2-|A_-|^2+|B_-|^2)$.另外一方面，因为$\eta_\pm$在原点$r=0$是解析的，所以我们可以得到$M_\eta=0$.这就得到了对于一般的入射波和出射波，在散射过程中的粒子数守恒
 $$
-|A_+|^2+|B_-|^2=|B_+|^2+|A_-|^2
+|A_+|^2+|B_-|^2=|B_+|^2+|A_-|^2\tag{17}
 $$
+尽管在散射过程中粒子数守恒，由于频率$\$我们仍然可以有波能量的吸收与增强
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM2MTA0NDUsLTEzNDY5NjQwMDIsMT
-M1MDczNzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2MTM0LDE0Mjk3
-MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNj
-YsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbMjU0NDkyODk3LC0xMzQ2OTY0MDAyLDEzNT
+A3MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2
+Nzk3LDE2NzAxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LD
+IxMDUzODIwNDddfQ==
 -->
