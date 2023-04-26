@@ -95,11 +95,13 @@ $$
 #### 非转动Q-ball 
 让我们看一下对于仅仅有一个入射波$\eta_+(m=0)$，能量振幅因子$\mathcal{A}_E$随入射频率$\omega$和背景$\omega_Q$如何变化，如图2所示。(如果我们仅仅有入射$\eta_-$波，放大曲线将会是图2的$\omega\rightarrow-\omega$的翻转)。从判据(18),我们可以知道超辐射发生的条件为
 $$
-\omega<-|\o|
+\omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwODM5MjE0LC03ODEwMjM3MzUsMTE4Nz
-E1NTQwMywtMTM0Njk2NDAwMiwxMzUwNzM3MDAsLTE0MzUzMTkx
-MDQsLTE4MzU2MDYxMzQsMTQyOTczNjc5NywxNjcwMTQ5ODA5LD
-E2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbLTIwNjc5MTQ3OTQsLTc4MTAyMzczNSwxMT
+g3MTU1NDAzLC0xMzQ2OTY0MDAyLDEzNTA3MzcwMCwtMTQzNTMx
+OTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MD
+ksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
+
 -->
