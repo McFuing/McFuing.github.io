@@ -45,7 +45,7 @@ $$
 \eta_\pm(m,r)=(k_+r)^{|m_+|,\eta_-=F_-(k_-r)^{|m_-|}}.\tag{9}
 $$
 对于每一个$F_-$,初值问题都会给出一组$A_+,A_-,B_+,B_-$.因此，普遍的，我们有两个入射和出射波。如果我们想要仅仅一个入射波，我们可以使用打靶法去调整$F_-$使得当$\omega>0$时，$A_-=0$或$B_-=0$,(由于方程的对称性，在$r$较大时，让入射的$\eta_+$模式为0并不给出新的结果。) 。求解方程的数值求解方案详细放在附录2.
-为了更好监视Q-ball如何改变入射波，我们可以定义一些量。首先，我们可以看在远离原点环形区域的平均能量(从$r_1$到$r_2$)：
+首先，为了更好监视Q-ball如何改变入射波，我们可以定义一些量。首先，我们可以看在远离原点环形区域的平均能量(从$r_1$到$r_2$)：
 $$
 \begin{aligned}
 E_\circledcirc=&\frac{1}{r_2-r_1} \int_{r_1}^{r_2}rdr\langle|\partial_t\phi|^2+|\partial_r\phi|^2+|\phi|^2\rangle,\tag{10}\\
@@ -56,8 +56,9 @@ $$
 $$
 \mathcal{A}_E=\left(\frac{\frac{\omega_+^2}{k_+}|A_+|^2+\frac{\omega_-^2}{k_-}|B_-^2|}{\frac{\omega_+^2}{k_+}|B_+|^2+\frac{\omega_-^2}{k_-}|A_-^2|}\right)^{sign(\omega)},\tag{11}
 $$
+其次，我们也可以监视波的角动量在散射过程中shi'ru'he'gai'b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU2MDYxMzQsMTQyOTczNjc5NywxNj
-cwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1Mzgy
-MDQ3XX0=
+eyJoaXN0b3J5IjpbMzY5OTc0MjYsLTE4MzU2MDYxMzQsMTQyOT
+czNjc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2
+NiwyMTA1MzgyMDQ3XX0=
 -->
