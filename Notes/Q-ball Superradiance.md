@@ -97,11 +97,11 @@ $$
 $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
-其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线的产生来源于
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY0NjgzMDMsLTc4MTAyMzczNSwxMT
-g3MTU1NDAzLC0xMzQ2OTY0MDAyLDEzNTA3MzcwMCwtMTQzNTMx
-OTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MD
-ksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
-
+eyJoaXN0b3J5IjpbLTE5NDYyNDA3ODgsLTIwMTY0NjgzMDMsLT
+c4MTAyMzczNSwxMTg3MTU1NDAzLC0xMzQ2OTY0MDAyLDEzNTA3
+MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2Nz
+k3LDE2NzAxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIx
+MDUzODIwNDddfQ==
 -->
