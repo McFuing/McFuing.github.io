@@ -78,10 +78,10 @@ $$
 $$
 对应$U(1)$对称性的“诺特荷”为
 $$
-M_\eta=ir(\)
+M_\eta=ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_+{'})-ir(\eta^*_+{'}\eta_+-\eta^*_+\eta_-{'})
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMzgyODEwLC0xNDM1MzE5MTA0LC0xOD
-M1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIy
-MjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbMjA4NTczNzc0OSwtMTQzNTMxOTEwNCwtMT
+gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
+MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
