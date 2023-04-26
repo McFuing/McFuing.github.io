@@ -59,12 +59,12 @@ $$
 其次，我们也可以监视波的角动量在散射过程中是如何改变的。角动量密度为$T^{t}{}_{\varphi}=-\partial_t\Phi^*\partial_\varphi\Phi-\partial_t\Phi\partial_\varphi\Phi^*$,在远离原点的环形区域中取平均包括时间平均，领先阶为
 $$
 \begin{aligned}
-L_\circledcirc=\frac{-1}{r_2-r_1}\int^{r_2}_{r_1}rdr\left<\partial_t\phi^*\partial_\varphi\phi+\partial_t\phi\partial_\varphi\phi^*\right>\tag{12}\\
-=
+L_\circledcirc=&\frac{-1}{r_2-r_1}\int^{r_2}_{r_1}rdr\left<\partial_t\phi^*\partial_\varphi\phi+\partial_t\phi\partial_\varphi\phi^*\right>\tag{12}\\
+=&2(|A_+|^2+|B_+|^2)\frac{\omega_+m_+}{k_+}+2(|A_-|^2+|B_-|^2)\frac{\omega_-m_-}{}
 \end{aligned}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIxNDM1ODQsLTE0MzUzMTkxMDQsLT
-E4MzU2MDYxMzQsMTQyOTczNjc5NywxNjcwMTQ5ODA5LDE2OTY2
-MjIyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbLTY2ODcwOTk2LC0xNDM1MzE5MTA0LC0xOD
+M1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIy
+MjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
