@@ -93,9 +93,9 @@ $$
 \frac{(\omega_Q+\omega_L)(m_Q+m_L)}{\sqrt{(\omega_Q+\omega_L)^2-1}}=\frac{(\omega_Q-\omega_L)(m_Q-m_L)}{\sqrt{(\omega_Q-\omega_L)^2-1}}\tag{19}
 $$
 #### 非转动Q-ball 
-wo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDQ0MDg4MywtMTM0Njk2NDAwMiwxMz
+eyJoaXN0b3J5IjpbMTE4NzE1NTQwMywtMTM0Njk2NDAwMiwxMz
 UwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTcz
 Njc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2Ni
 wyMTA1MzgyMDQ3XX0=
