@@ -56,9 +56,9 @@ $$
 $$
 \mathcal{A}_E=\left(\frac{\frac{\omega_+^2}{k_+}|A_+|^2+\frac{\omega_-^2}{k_-}|B_-^2|}{\frac{\omega_+^2}{k_+}|B_+|^2+\frac{\omega_-^2}{k_-}|A_-^2|}\right)^{sign(\omega)},\tag{11}
 $$
-其次，我们也可以监视波的角动量在散射过程中是如何改变的。角动量密度为$T^{t}{}_{\varphi}=-\partial_t\Phi^*\partial_\varphi\Phi-\partial_t\Phi\partial_\varphi\Phi^*$,在环形区域中
+其次，我们也可以监视波的角动量在散射过程中是如何改变的。角动量密度为$T^{t}{}_{\varphi}=-\partial_t\Phi^*\partial_\varphi\Phi-\partial_t\Phi\partial_\varphi\Phi^*$,在远离原点的环形区域中取平均包括时间平均，lin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjUwODI0MiwtMTQzNTMxOTEwNCwtMT
-gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
-MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
+eyJoaXN0b3J5IjpbMzA5MjI1ODYxLC0xNDM1MzE5MTA0LC0xOD
+M1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIy
+MjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
 -->
