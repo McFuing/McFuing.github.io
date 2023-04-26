@@ -88,9 +88,9 @@ $$
 $$
 \frac{(\omega_Q+\omega_E)^2}{\sqrt{(\omega_Q+\omega_E)^2-1}}=\frac{(\omega_Q-\omega_E)^2}{\sqrt{(\omega_Q-\omega_E)^2-1}}\tag{18}
 $$
-也即是能量的超辐射判据出现在$\omega_E$。类似的
+也即是能量的超辐射判据出现在$\omega_E$。类似的，在方程(13)中，我们可以看到对于一个角动量模式$m_L$，代表角动量的吸收与增强
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDU5OTg4NSwtMTM0Njk2NDAwMiwxMz
+eyJoaXN0b3J5IjpbLTYxNTE0OTAwMywtMTM0Njk2NDAwMiwxMz
 UwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTcz
 Njc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2Ni
 wyMTA1MzgyMDQ3XX0=
