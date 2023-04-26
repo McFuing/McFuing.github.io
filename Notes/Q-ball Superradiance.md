@@ -97,10 +97,11 @@ $$
 $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
-其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线的产生来源于
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjQ5MTU4OCwtNzgxMDIzNzM1LDExOD
-cxNTU0MDMsLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5
-MTA0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOS
-wxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbLTIwMTY0NjgzMDMsLTc4MTAyMzczNSwxMT
+g3MTU1NDAzLC0xMzQ2OTY0MDAyLDEzNTA3MzcwMCwtMTQzNTMx
+OTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MD
+ksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
+
 -->
