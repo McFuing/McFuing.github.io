@@ -56,9 +56,9 @@ $$
 $$
 \mathcal{A}_E=\left(\frac{\frac{\omega_+^2}{k_+}|A_+|^2+\frac{\omega_-^2}{k_-}|B_-^2|}{\frac{\omega_+^2}{k_+}|B_+|^2+\frac{\omega_-^2}{k_-}|A_-^2|}\right)^{sign(\omega)},\tag{11}
 $$
-其次，我们也可以监视波的角动量在散射过程中shi'ru'he'gai'b
+其次，我们也可以监视波的角动量在散射过程中是如何改变的。角动量密度为$T^t_\plan$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5OTc0MjYsLTE4MzU2MDYxMzQsMTQyOT
-czNjc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2
-NiwyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbNzc1ODMwMDE3LC0xODM1NjA2MTM0LDE0Mj
+k3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMz
+NjYsMjEwNTM4MjA0N119
 -->
