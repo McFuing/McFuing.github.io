@@ -93,9 +93,9 @@ $$
 \frac{(\omega_Q+\omega_L)(m_Q+m_L)}{\sqrt{(\omega_Q+\omega_L)^2-1}}=\frac{(\omega_Q-\omega_L)(m_Q-m_L)}{\sqrt{(\omega_Q-\omega_L)^2-1}}\tag{19}
 $$
 #### 非转动Q-ball 
-让我们看一下对于仅仅有一个入射波入射频率$\omega$和
+让我们看一下对于仅仅有一个入射波$\eta_+(m=0)$，能量振幅因子$\mathcal{A}_E$入射频率$\omega$和
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNjE0OTA2LDExODcxNTU0MDMsLTEzND
+eyJoaXN0b3J5IjpbNzM2Mzg4MTk4LDExODcxNTU0MDMsLTEzND
 Y5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2
 MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC
 00MTYwODMzNjYsMjEwNTM4MjA0N119
