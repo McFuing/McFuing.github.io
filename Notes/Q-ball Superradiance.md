@@ -65,10 +65,10 @@ L_\circledcirc=&\frac{-1}{r_2-r_1}\int^{r_2}_{r_1}rdr\left<\partial_t\phi^*\part
 $$
 角动量的振幅因子为
 $$
-\mathcal{A}_L=\left(\frac{\fr}{}\right)^{sign(\omega)}
+\mathcal{A}_L=\left(\frac{\frac{\omega_+m_+}{k_+}|A_+|^2+\frac{\omega_-m_-}{k_-}|B_-|^2}{\frac{\omega_+m_+}{k_+}|B_+|^2+\frac{\omega_-m_-}{k_-}|A_-|^2}\right)^{sign(\omega)}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjY1MDMxNiwtMTQzNTMxOTEwNCwtMT
+eyJoaXN0b3J5IjpbMjAzODAyMTc5OCwtMTQzNTMxOTEwNCwtMT
 gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
 MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
