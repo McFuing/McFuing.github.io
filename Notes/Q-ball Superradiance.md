@@ -97,11 +97,11 @@ $$
 $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
-其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（** **）以及对于不同的
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（** **）以及对于不同的$\omega_Q$是不同的（见式(8) ）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjIxNzEwLC0yMDE2NDY4MzAzLC03OD
-EwMjM3MzUsMTE4NzE1NTQwMywtMTM0Njk2NDAwMiwxMzUwNzM3
-MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTczNjc5Ny
-wxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2NiwyMTA1
-MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbMTE1MDczNTM5OSwtMjAxNjQ2ODMwMywtNz
+gxMDIzNzM1LDExODcxNTU0MDMsLTEzNDY5NjQwMDIsMTM1MDcz
+NzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2MTM0LDE0Mjk3MzY3OT
+csMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNjYsMjEw
+NTM4MjA0N119
 -->
