@@ -72,8 +72,12 @@ $$
 $$
 L(\eta,\eta')=\sum_{s=\pm}\left[(|\sqrt{r}\eta_s)'|^2-r(\omega_s^2-U-\frac{4m_s^2-1}{4r^2})|\eta_s|^2\right]+rW(\eta^*_+\eta^*_-+\eta_+\eta_-)\tag{14}
 $$
+把$r$看作“时间”，拉式量在$U(1)$变换下是不变的，即
+$$
+\eta_+=e^i\alpha\eta_+,\eta_+=e^-i\alpha\eta_-,
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTIwMTQ2MSwtMTQzNTMxOTEwNCwtMT
+eyJoaXN0b3J5IjpbLTM2MDI5NDcyNiwtMTQzNTMxOTEwNCwtMT
 gzNTYwNjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYy
 MjIwMCwtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
