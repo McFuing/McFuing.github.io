@@ -93,10 +93,10 @@ $$
 \frac{(\omega_Q+\omega_L)(m_Q+m_L)}{\sqrt{(\omega_Q+\omega_L)^2-1}}=\frac{(\omega_Q-\omega_L)(m_Q-m_L)}{\sqrt{(\omega_Q-\omega_L)^2-1}}\tag{19}
 $$
 #### 非转动Q-ball 
-
+让我们看一下对于入射频率$\omega$和
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzE1NTQwMywtMTM0Njk2NDAwMiwxMz
-UwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTcz
-Njc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2Ni
-wyMTA1MzgyMDQ3XX0=
+eyJoaXN0b3J5IjpbLTczNTczODM1OCwxMTg3MTU1NDAzLC0xMz
+Q2OTY0MDAyLDEzNTA3MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYw
+NjEzNCwxNDI5NzM2Nzk3LDE2NzAxNDk4MDksMTY5NjYyMjIwMC
+wtNDE2MDgzMzY2LDIxMDUzODIwNDddfQ==
 -->
