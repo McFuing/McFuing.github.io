@@ -84,10 +84,10 @@ $$
 $$
 |A_+|^2+|B_-|^2=|B_+|^2+|A_-|^2\tag{17}
 $$
-尽管在散射过程中粒子数守恒，由于频率$\$我们仍然可以有波能量的吸收与增强
+尽管在散射过程中粒子数守恒，由于频率$\omega$和Q-ball的频率$\omega_Q$,我们仍然可以有波能量的吸收与增强.事实上，结合约束(17)和方程(11)，我们可以看到
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NDkyODk3LC0xMzQ2OTY0MDAyLDEzNT
-A3MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2
-Nzk3LDE2NzAxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LD
-IxMDUzODIwNDddfQ==
+eyJoaXN0b3J5IjpbLTE5NzQyNjQyMjcsLTEzNDY5NjQwMDIsMT
+M1MDczNzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2MTM0LDE0Mjk3
+MzY3OTcsMTY3MDE0OTgwOSwxNjk2NjIyMjAwLC00MTYwODMzNj
+YsMjEwNTM4MjA0N119
 -->
