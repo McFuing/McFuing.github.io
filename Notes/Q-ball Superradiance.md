@@ -86,11 +86,12 @@ $$
 $$
 尽管在散射过程中粒子数守恒，由于频率$\omega$和Q-ball的频率$\omega_Q$,我们仍然可以有波能量的吸收与增强.事实上，结合约束(17)和方程(11) ，我们可以看到描述能量的吸收与增强的阈值频率$\omega_E$，即当$\mathcal{A}_E=1$时，给出$\omega_+^2/k_+=\omega^2_-/k_-$,即
 $$
-\frac{(\omega_Q+\omega_E)^2}{\sqrt{(\omega_Q+\omega_E)^2-1}}=\frac{}{}
+\frac{(\omega_Q+\omega_E)^2}{\sqrt{(\omega_Q+\omega_E)^2-1}}=\frac{(\omega_Q-\omega_E)^2}{\sqrt{(\omega_Q-\omega_E)^2-1}}\tag{18}
 $$
+也即是能量的超辐射判据出现在$\omega_E$。类似的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTgxMDc4LC0xMzQ2OTY0MDAyLDEzNT
-A3MzcwMCwtMTQzNTMxOTEwNCwtMTgzNTYwNjEzNCwxNDI5NzM2
-Nzk3LDE2NzAxNDk4MDksMTY5NjYyMjIwMCwtNDE2MDgzMzY2LD
-IxMDUzODIwNDddfQ==
+eyJoaXN0b3J5IjpbMTYxMDU5OTg4NSwtMTM0Njk2NDAwMiwxMz
+UwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYxMzQsMTQyOTcz
+Njc5NywxNjcwMTQ5ODA5LDE2OTY2MjIyMDAsLTQxNjA4MzM2Ni
+wyMTA1MzgyMDQ3XX0=
 -->
