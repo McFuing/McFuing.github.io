@@ -104,14 +104,15 @@ $$
 在图5中，我们画了仅将$\eta_+$作为入射模式的角动量的超辐射。我们可以看到，对于类似Zel'dovich转动超辐射判据$\omega<m\Omega_Q$与转动Q-ball是相违背的。这没什么惊讶的，因为在散射过程中有两个耦合的模式参与，在转动效应之上还有Q-ball的相干超辐射。相反，正如我们指出的那样，式(19)是正确的角动量增强判据。这与图5中$m_Q=1,m=2$的情况是一致的；对于另外的两个情况，角动量在整个正或负的$\omega$分支要么增强要么减弱，没有穿过线$\mathcal{A}_L=1$,这反映在方程(19)的$\omega_L$无实根。更多结果见附录1。
 #### 3+1维情况
 最终，我们将展示一些关于Q-ball在3+1维的超辐射初步结果，主要集中于Q-ball和散射波都是球对称的情况，我们只需简单的修改上面的2+1维的方程就可以得到。在图6中，我们画出了能量振幅因子如何随频率$\omega$变化。我们看到除了3+1维情况的超辐射谱中的多峰结构外，3+1维的情况是类似于2+1维的。对于转动Q-ball的结果，由于数值的复杂性，将会在其他地方展示。
-总结一下，由于Q-ball在场空间的相干转动，我们已经发现Q-ball可以诱导入射的波发生超辐射。对于转动Q-ball，在实空间的额外的转动可以更进一步地加强超辐射。Q-ball散射的一个重要的特征是它涉及了两个耦合的模式，这对于Q-ball发生超辐射是必须的。由于两个耦合模式的存在，超辐射谱也变得更加丰富。在散射中，能量和角动量都可以被加强，从Q-ball里面汲取能量和角动量。然而，能量与角动量的超辐射并不总是同时发生。当入射波包含正和负的频率的模式，荷就可以有超辐射加强(见附录1) 。对于转动超辐射的简单的Zel'dovich判据是不适用于Q-ball超辐射。由于在Q-ball散射中粒子数的守恒，我们已经解析的求出了nneg'liang'he
+总结一下，由于Q-ball在场空间的相干转动，我们已经发现Q-ball可以诱导入射的波发生超辐射。对于转动Q-ball，在实空间的额外的转动可以更进一步地加强超辐射。Q-ball散射的一个重要的特征是它涉及了两个耦合的模式，这对于Q-ball发生超辐射是必须的。由于两个耦合模式的存在，超辐射谱也变得更加丰富。在散射中，能量和角动量都可以被加强，从Q-ball里面汲取能量和角动量。然而，能量与角动量的超辐射并不总是同时发生。当入射波包含正和负的频率的模式，荷就可以有超辐射加强(见附录1) 。对于转动超辐射的简单的Zel'dovich判据是不适用于Q-ball超辐射。由于在Q-ball散射中粒子数的守恒，我们已经解析的求出了能量和角动量的超辐射判据。
+这些结果
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTkxMDc0MSwtMTk1MTcxNDE4MywtMT
-Q4NzM5NDEyOSw2MDkwNDgzNTEsMTk3MDA0MzU3NSwxNjc4NTc3
-MDg2LC0xODY1MTI1NDA2LDEyOTcwNjkyMzgsLTIwNTU4NjI0Mz
-MsMTc0NzQ4MTg5MiwtMTM5ODYyNjA0NSwxOTA4OTQ5ODE5LC0y
-MDE2NDY4MzAzLC03ODEwMjM3MzUsMTE4NzE1NTQwMywtMTM0Nj
-k2NDAwMiwxMzUwNzM3MDAsLTE0MzUzMTkxMDQsLTE4MzU2MDYx
-MzQsMTQyOTczNjc5N119
+eyJoaXN0b3J5IjpbLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLT
+E0ODczOTQxMjksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3
+NzA4NiwtMTg2NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyND
+MzLDE3NDc0ODE4OTIsLTEzOTg2MjYwNDUsMTkwODk0OTgxOSwt
+MjAxNjQ2ODMwMywtNzgxMDIzNzM1LDExODcxNTU0MDMsLTEzND
+Y5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0xODM1NjA2
+MTM0LDE0Mjk3MzY3OTddfQ==
 -->
