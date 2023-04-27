@@ -101,12 +101,12 @@ $$
 更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，在散射过程中允许两个两个入射模式将会极大的增加能量振幅因子。就像被提到的那样，这可能就是我们所期望的，因为Q-ball超辐射实际上是从复标量的两种模式之间的相互作用中产生的。
 #### 转动Q-ball
 当Q-ball在实空间转动时，转动超辐射的额外成分也会被激活，当$\eta_+$模式转动方向与Q-ball一致时，将会增强能量振幅(即$sign(\omega_+/m_+)=sign(\omega_Q/m_Q)$)，如图4右边展示的那样。另外一方面，对于相反的情况，我们可以看到在能量增强上有轻微的减少。注意，能量超辐射的判据依然是方程(18) ，且一个非转动Q-ball也可以诱导出角动量超辐射。
-在图5中，我们画了仅将$\eta_+$作为入射模式de
+在图5中，我们画了仅将$\eta_+$作为入射模式的角动量的超辐射。我们可以看到，dui'yu'zhuan'don'de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTY2MTAyMiwxMjk3MDY5MjM4LC0yMD
-U1ODYyNDMzLDE3NDc0ODE4OTIsLTEzOTg2MjYwNDUsMTkwODk0
-OTgxOSwtMjAxNjQ2ODMwMywtNzgxMDIzNzM1LDExODcxNTU0MD
-MsLTEzNDY5NjQwMDIsMTM1MDczNzAwLC0xNDM1MzE5MTA0LC0x
-ODM1NjA2MTM0LDE0Mjk3MzY3OTcsMTY3MDE0OTgwOSwxNjk2Nj
-IyMjAwLC00MTYwODMzNjYsMjEwNTM4MjA0N119
+eyJoaXN0b3J5IjpbNjgwMDQyMzMxLDEyOTcwNjkyMzgsLTIwNT
+U4NjI0MzMsMTc0NzQ4MTg5MiwtMTM5ODYyNjA0NSwxOTA4OTQ5
+ODE5LC0yMDE2NDY4MzAzLC03ODEwMjM3MzUsMTE4NzE1NTQwMy
+wtMTM0Njk2NDAwMiwxMzUwNzM3MDAsLTE0MzUzMTkxMDQsLTE4
+MzU2MDYxMzQsMTQyOTczNjc5NywxNjcwMTQ5ODA5LDE2OTY2Mj
+IyMDAsLTQxNjA4MzM2NiwyMTA1MzgyMDQ3XX0=
 -->
