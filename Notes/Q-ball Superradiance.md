@@ -101,9 +101,11 @@ $$
 更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，在散射过程中允许两个两个入射模式将会极大的增加能量振幅因子。就像被提到的那样，这可能就是我们所期望的，因为Q-ball超辐射实际上是从复标量的两种模式之间的相互作用中产生的。
 #### 转动Q-ball
 当Q-ball在实空间转动时，转动超辐射的额外成分也会被激活，当$\eta_+$模式转动方向与Q-ball一致时，将会增强能量振幅(即$sign(\omega_+/m_+)=sign(\omega_Q/m_Q)$)，如图4右边展示的那样。另外一方面，对于相反的情况，我们可以看到在能量增强上有轻微的减少。注意，能量超辐射的判据依然是方程(18) ，且一个非转动Q-ball也可以诱导出角动量超辐射。
-在图5中，我们画了仅将$\eta_+$作为入射模式的角动量的超辐射。我们可以看到，对于类似Zel'dovich转动超辐射判据$\omega<m\Omega_Q$与转动Q-ball是相违背的。这没什么惊讶的，因为在散射过程中有两个耦合的模式参与，在转动效应之上还有Q-ball的相干超辐射。相反，正如我们指出的那样，式(19)是正确的角动量增强判据。这与图5中$m_Q=1,m=2$的情况是一致的；对于另外的两个情况，角动量在整个正或负的$\omega$分支要么增强要么减弱，没有穿过线$\mathcal{A}_L=1$,这反映在方程(19)的$\omega_L$无实根。g附录1
+在图5中，我们画了仅将$\eta_+$作为入射模式的角动量的超辐射。我们可以看到，对于类似Zel'dovich转动超辐射判据$\omega<m\Omega_Q$与转动Q-ball是相违背的。这没什么惊讶的，因为在散射过程中有两个耦合的模式参与，在转动效应之上还有Q-ball的相干超辐射。相反，正如我们指出的那样，式(19)是正确的角动量增强判据。这与图5中$m_Q=1,m=2$的情况是一致的；对于另外的两个情况，角动量在整个正或负的$\omega$分支要么增强要么减弱，没有穿过线$\mathcal{A}_L=1$,这反映在方程(19)的$\omega_L$无实根。更多结果见附录1。
+#### 3+1维
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODgxNTEwOSwxNjc4NTc3MDg2LC0xOD
+eyJoaXN0b3J5IjpbMTk3MDA0MzU3NSwxNjc4NTc3MDg2LC0xOD
 Y1MTI1NDA2LDEyOTcwNjkyMzgsLTIwNTU4NjI0MzMsMTc0NzQ4
 MTg5MiwtMTM5ODYyNjA0NSwxOTA4OTQ5ODE5LC0yMDE2NDY4Mz
 AzLC03ODEwMjM3MzUsMTE4NzE1NTQwMywtMTM0Njk2NDAwMiwx
