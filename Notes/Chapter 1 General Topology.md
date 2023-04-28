@@ -35,7 +35,7 @@ $$
 $$
 \begin{equation}
 d\left(  x,y;x_{1},y_{1}\right)  =\sqrt{\left(  x-x_{1}\right)  ^{2}+\left(
-y-y_{1}\right) ^{2}}%
+y-y_{1}\right) ^{2}}\tag{1}
 \end{equation}
 $$
 
@@ -44,7 +44,7 @@ $$
 $$
 \begin{equation}
 B_{r}\left(  p\right)  =\left\{  d\left(  q,p\right)  <r\ |\ q\in
-E^{3}\right\}
+E^{3}\right\}\tag{2}
 \end{equation}
 $$
 借此来引入实分析里的子集的有界性，点列的收敛性，$\mathbb{E}^{3}$和其它点集的映射的连续性。那么这里就有一个问题是：实分析里面有多少的结果是依赖于距离的定义[^1] 。
@@ -54,7 +54,7 @@ $$
 $$\begin{equation}
 \eta^{2}\left(  p,q\right)  =\left(  p^{0}-q^{0}\right)  ^{2}-\left(
 p^{1}-q^{1}\right)  ^{2}-\left(  p^{2}-q^{2}\right)  ^{2}-\left(  p^{3}%
--q^{3}\right)  ^{2}%
+-q^{3}\right)  ^{2}\tag{3}
 \end{equation}
 $$
 很明显，$\eta^{2}\left(  p,q\right)$可以等于$0$，可以为负，所以我们描述连续等一些性质时，距离是不必须的。
@@ -101,20 +101,20 @@ $$
 $$
 \begin{equation}
 \mathbf{p}=\left(  p^{1},p^{2},p^{3},\dots,p^{n}\right)  ,\mathbf{q}=\left(
-q^{1},q^{2},q^{3},\dots,q^{n}\right)
+q^{1},q^{2},q^{3},\dots,q^{n}\right)\tag{4}
 \end{equation}
 $$
 通过定义距离引入开集的定义：满足下面定义的点构成开集
 $$
 \begin{equation}
 d\left(  \mathbf{p},\mathbf{q}\right)  =\sqrt{\sum_{i=1}^{n}\left(
-p^{i}-q^{i}\right)  ^{2}}%
+p^{i}-q^{i}\right)  ^{2}}\tag{5}
 \end{equation}
 $$
 也就是说，欧几里得空间$\mathbb{E}^{n}$是在$\mathbb{R}^{n}$上的拓扑空间，这个拓扑是将若干开球的并定义为开集，也就是说，你可以认为欧几里得空间$\mathbb{E}^{n}$是实数点集$\mathbb{R}^{n}$加上球拓扑，即
 $$
 \begin{equation}
-\mathbb{E}^{n}=\left(  \mathbb{R}^{n},\text{开球}\right)
+\mathbb{E}^{n}=\left(  \mathbb{R}^{n},\text{开球}\right)\tag{6}
 \end{equation}
 $$
 这就回答了我们开始提出的问题。
@@ -165,7 +165,7 @@ $$
 ## 诱导拓扑
 镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过$3$维开球的交构成的，这个过程可以化为更为一般的情形：有一个拓扑空间$(S,T)$,且$X$是$S$的子集。我们可以在$X$上定义一个拓扑：将集合$X$与$T$中的开集相交作为$X$上的开集。这被称为**诱导拓扑**，记为$X\cap T$。这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
-\sum_{i=1}^{n+1}(p^i)^2=1\tag{}
+\sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
 
 
@@ -173,11 +173,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTI4NDI3LC0xODQwNDc2ODczLDEwNj
-UyNjA5NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4NjM3Nzg1
-NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUyMjcsLT
-E4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMTI5MjU1
-MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEyNTA4Mz
-IzLC0xNDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYzMjc0NjgzMyw2
-MTIxMjU0OTVdfQ==
+eyJoaXN0b3J5IjpbMTgwNzQxNDE2MCwtMTg0MDQ3Njg3MywxMD
+Y1MjYwOTY3LDE3NDAxNzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4
+NTQ2LC0yOTk5OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC
+0xODM1OTA5MTc1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1
+NTE3MzgsLTEyNDgxNjg4MTMsLTQ1OTc1NTQxOSwtMTExMjUwOD
+MyMywtMTQzNDc3NTAxNCwtMTA3MDkzNjI0Miw2MzI3NDY4MzMs
+NjEyMTI1NDk1XX0=
 -->
