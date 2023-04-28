@@ -169,21 +169,22 @@ $$
 $$
 由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
 
->我们有两个开球$B_{r-\delta r}(p)=\{d(q,p)<r-\delta r|\ q\in E^{3}\},B_{r+\delta r}(p)=\{d(q,p)<r+\delta r|\ q\in E^{3}\}$,其相交为
+>我们有一个开球$B_{r+\delta r}(p)=\{d(q,p)<r+\delta r|\ q\in E^{n+1}\}$以及点集$S^n=\{(p^1,p^2,\dots,p^{n+1})|\sum_{i=1}^{n+1}(p^i)^2=1\}$,其相交定义为开集$S^n$。
 
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
+下面举个例子
 ## 上半空间$\mathbb{E}^n_+$
 上半空间的点集为
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-这个拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
+$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTEzODczMywxNjE3NTkxMjQwLC0xMT
-k5NDA1MzcyLC0xMTk5NDA1MzcyLDEzMzA0Mjc4MDksMTQwNjcx
-MTA0LC0zMjUyMjAzMSwtMTg0MDQ3Njg3MywxMDY1MjYwOTY3LD
-E3NDAxNzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4NTQ2LC0yOTk5
-OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xODM1OTA5MT
-c1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1NTE3MzgsLTEy
-NDgxNjg4MTNdfQ==
+eyJoaXN0b3J5IjpbODYxNDQ3MDA4LDE1NDkxMzg3MzMsMTYxNz
+U5MTI0MCwtMTE5OTQwNTM3MiwtMTE5OTQwNTM3MiwxMzMwNDI3
+ODA5LDE0MDY3MTEwNCwtMzI1MjIwMzEsLTE4NDA0NzY4NzMsMT
+A2NTI2MDk2NywxNzQwMTc0MzkwLDM4MzI4MTkxMCwtMTg2Mzc3
+ODU0NiwtMjk5OTkyMzM3LDEwOTYxMzE3NzIsMTkwOTg4NTIyNy
+wtMTgzNTkwOTE3NSwyNzY2MjYwNTQsMTgyNjY4NjY1MywxMjky
+NTUxNzM4XX0=
 -->
