@@ -174,9 +174,9 @@ $$
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-
+这个拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njc5NzIyOCwtMTE5OTQwNTM3MiwtMT
+eyJoaXN0b3J5IjpbMTYxNzU5MTI0MCwtMTE5OTQwNTM3MiwtMT
 E5OTQwNTM3MiwxMzMwNDI3ODA5LDE0MDY3MTEwNCwtMzI1MjIw
 MzEsLTE4NDA0NzY4NzMsMTA2NTI2MDk2NywxNzQwMTc0MzkwLD
 M4MzI4MTkxMCwtMTg2Mzc3ODU0NiwtMjk5OTkyMzM3LDEwOTYx
