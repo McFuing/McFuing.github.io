@@ -168,10 +168,10 @@ $$
 \sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
 由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
-实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集$\mathbb{J}=\mathbb{E}^1 \comple\mathbb{Q}$
+实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集$\mathbb{J}=\mathbb{E}^1 \ \mathbb{Q}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA1NjQ3MTAsLTExOTk0MDUzNzIsMT
+eyJoaXN0b3J5IjpbLTExOTk0MDUzNzIsLTExOTk0MDUzNzIsMT
 MzMDQyNzgwOSwxNDA2NzExMDQsLTMyNTIyMDMxLC0xODQwNDc2
 ODczLDEwNjUyNjA5NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLT
 E4NjM3Nzg1NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4
