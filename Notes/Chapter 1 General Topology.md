@@ -168,7 +168,7 @@ $$
 \sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
 由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
->我们有一个开球$B_r(p)={}$
+>我们有两个开球$B_r(p)=\{d(q,p)<r|\ q\in E^{3}\},B_{r+\}$
 
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
 ## 上半空间$\mathbb{E}^n_+$
@@ -178,11 +178,11 @@ $$
 $$
 这个拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NjU1ODU4LDE2MTc1OTEyNDAsLTExOT
-k0MDUzNzIsLTExOTk0MDUzNzIsMTMzMDQyNzgwOSwxNDA2NzEx
-MDQsLTMyNTIyMDMxLC0xODQwNDc2ODczLDEwNjUyNjA5NjcsMT
-c0MDE3NDM5MCwzODMyODE5MTAsLTE4NjM3Nzg1NDYsLTI5OTk5
-MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUyMjcsLTE4MzU5MDkxNz
-UsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMTI5MjU1MTczOCwtMTI0
-ODE2ODgxM119
+eyJoaXN0b3J5IjpbLTUxNzQ0ODQyNiwxNjE3NTkxMjQwLC0xMT
+k5NDA1MzcyLC0xMTk5NDA1MzcyLDEzMzA0Mjc4MDksMTQwNjcx
+MTA0LC0zMjUyMjAzMSwtMTg0MDQ3Njg3MywxMDY1MjYwOTY3LD
+E3NDAxNzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4NTQ2LC0yOTk5
+OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xODM1OTA5MT
+c1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1NTE3MzgsLTEy
+NDgxNjg4MTNdfQ==
 -->
