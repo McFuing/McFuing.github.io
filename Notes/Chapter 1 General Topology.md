@@ -168,14 +168,14 @@ $$
 \sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
 由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
-实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集$\mathbb{J}=\mathbb{E}^1 \ \mathbb{Q}$
+实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集$\mathbb{J}=\mathbb{E}^1 \comple\mathbb{Q}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk0MDUzNzIsMTMzMDQyNzgwOSwxND
-A2NzExMDQsLTMyNTIyMDMxLC0xODQwNDc2ODczLDEwNjUyNjA5
-NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4NjM3Nzg1NDYsLT
-I5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUyMjcsLTE4MzU5
-MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMTI5MjU1MTczOC
-wtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEyNTA4MzIzLC0x
-NDM0Nzc1MDE0XX0=
+eyJoaXN0b3J5IjpbLTEwNDA1NjQ3MTAsLTExOTk0MDUzNzIsMT
+MzMDQyNzgwOSwxNDA2NzExMDQsLTMyNTIyMDMxLC0xODQwNDc2
+ODczLDEwNjUyNjA5NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLT
+E4NjM3Nzg1NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4
+ODUyMjcsLTE4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NT
+MsMTI5MjU1MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0x
+MTEyNTA4MzIzXX0=
 -->
