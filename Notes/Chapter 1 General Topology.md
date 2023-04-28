@@ -163,14 +163,14 @@ $$
 
 对于实的欧几里得线$\mathbb{E}^1$,我们选取其上的所有形如$(r-1/n,r+1/n)$的所有开区间，其中$r$取遍所有的有理数，$n$取遍所有的整数，我们知道有理数集，整数集都是可数集，我们称这样的拓扑基为可数基，当一个拓扑空间拥有至少一个可数基时，就称这个拓扑空间为**第二可数**
 ## 诱导拓扑
-镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过
+镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过$3$维开球的交构成的，这个过程可以化为更为一般的情形：拓扑空间$(S,T)$
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTU3OTU0NywtMTg0MDQ3Njg3MywxMD
+eyJoaXN0b3J5IjpbMTQxNjU5NjUyOSwtMTg0MDQ3Njg3MywxMD
 Y1MjYwOTY3LDE3NDAxNzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4
 NTQ2LC0yOTk5OTIzMzcsMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC
 0xODM1OTA5MTc1LDI3NjYyNjA1NCwxODI2Njg2NjUzLDEyOTI1
