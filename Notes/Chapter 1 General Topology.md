@@ -163,18 +163,18 @@ $$
 
 对于实的欧几里得线$\mathbb{E}^1$,我们选取其上的所有形如$(r-1/n,r+1/n)$的所有开区间，其中$r$取遍所有的有理数，$n$取遍所有的整数，我们知道有理数集，整数集都是可数集，我们称这样的拓扑基为可数基，当一个拓扑空间拥有至少一个可数基时，就称这个拓扑空间为**第二可数**
 ## 诱导拓扑
-镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过$3$维开球的交构成的，这个过程可以化为更为一般的情形：有一个拓扑空间$(S,T)$,且$X$是$S$的子集。我们可以在$X$上定义一个拓扑：
+镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过$3$维开球的交构成的，这个过程可以化为更为一般的情形：有一个拓扑空间$(S,T)$,且$X$是$S$的子集。我们可以在$X$上定义一个拓扑：将集合$X$与$T$中的开集相交作为$X$上的开集。这称为
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNDI0MTcwLC0xODQwNDc2ODczLDEwNj
-UyNjA5NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4NjM3Nzg1
-NDYsLTI5OTk5MjMzNywxMDk2MTMxNzcyLDE5MDk4ODUyMjcsLT
-E4MzU5MDkxNzUsMjc2NjI2MDU0LDE4MjY2ODY2NTMsMTI5MjU1
-MTczOCwtMTI0ODE2ODgxMywtNDU5NzU1NDE5LC0xMTEyNTA4Mz
-IzLC0xNDM0Nzc1MDE0LC0xMDcwOTM2MjQyLDYzMjc0NjgzMyw2
-MTIxMjU0OTVdfQ==
+eyJoaXN0b3J5IjpbNzEzNzQ1NTQsLTE4NDA0NzY4NzMsMTA2NT
+I2MDk2NywxNzQwMTc0MzkwLDM4MzI4MTkxMCwtMTg2Mzc3ODU0
+NiwtMjk5OTkyMzM3LDEwOTYxMzE3NzIsMTkwOTg4NTIyNywtMT
+gzNTkwOTE3NSwyNzY2MjYwNTQsMTgyNjY4NjY1MywxMjkyNTUx
+NzM4LC0xMjQ4MTY4ODEzLC00NTk3NTU0MTksLTExMTI1MDgzMj
+MsLTE0MzQ3NzUwMTQsLTEwNzA5MzYyNDIsNjMyNzQ2ODMzLDYx
+MjEyNTQ5NV19
 -->
