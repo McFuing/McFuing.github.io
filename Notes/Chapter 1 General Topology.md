@@ -73,7 +73,7 @@ $$
 ### 何为拓扑?
 我们再来看一下初等开集$S$,简单的来说，开集可以看作一些内点的集合，那么开集可以表示为内点的邻域[^邻域]的并集，一个集合可以有无穷多个内点，则可以看作无穷开集的并。那么我们抽象出拓扑的定义
 [^邻域]:内点的邻域可以看作开集$S$的子集，且邻域也是开集
->对于给定的点集S,拓扑就是集合S的满足以下条件的子集族(也可被称为开集):
+>对于给定的点集S,**拓扑**就是集合S的满足以下条件的子集族(也可被称为开集):
 $$
 \begin{aligned}
 1.&整个集合S以及空集\emptyset都在这个子集族中;\\
@@ -87,7 +87,7 @@ $$
 ### 拓扑空间
 
 我们先来看一看拓扑空间的定义：
->拓扑空间就是定义了拓扑$T$点集$S$,一般记为$\left(S,T\right)$
+>**拓扑空间**就是定义了拓扑$T$点集$S$,一般记为$\left(S,T\right)$
 
 但是，从定义可以看出，这个拓扑空间与点集$S$就只是差了一个定义的拓扑结构，也就是在集合$S$上定义了开集。有一点很重要：同一个开集可以定义不同的拓扑，而同样的拓扑可以定义在不同的集合上。也即，拓扑空间$\left(S,T\right)$上的开集不一定是拓扑空间$\left(S,T^{\prime}\right)$定义的开集。所以有意义的是拓扑空间，单讲点集与拓扑都是没有意义的。也就是说我们在研究什么极限、连续、解析性质时，是在拓扑空间上而不是简单的在某个点集上。
 
@@ -128,10 +128,10 @@ $$
  > >A:已经定义了拓扑的点集$S$，称为拓扑空间$\left(  S,T\right)$，其具备点集$S$和拓扑结构$T$两大要素。
 
 ## 可数集与第一可数空间
-什么是****可数集****[^5] ？
+什么是可数集[^5] ？
 [^5]:数学分析（卷1）卓里奇，P60.
 
->如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为可数集。
+>如果存在一个双射$f:X\rightarrow \mathbb{N}$使得X中的元素与$\mathbb{N}$中的元素一一对应，则称集合$X$为**可数集**。
 
 这个双射可以是$X\rightarrow \mathbb{N}$也可以是$\mathbb{N}\rightarrow X$因为双射是有反函数的。这里注意区分可数集与无穷集(来源于$\mathbb{N}$)，可数集是无穷集，但无穷集不一定是可数集.我们再来看两个问题：
 >Q1：可数集的无穷子集是可数集吗？
@@ -170,10 +170,11 @@ $$
 由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
 ## 上半空间$\mathbb{E}^n_+$
-
+上半空间的点集为
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzQzNTU2NCwtMTE5OTQwNTM3MiwtMT
+eyJoaXN0b3J5IjpbMTQ2NzQwNDQxNSwtMTE5OTQwNTM3MiwtMT
 E5OTQwNTM3MiwxMzMwNDI3ODA5LDE0MDY3MTEwNCwtMzI1MjIw
 MzEsLTE4NDA0NzY4NzMsMTA2NTI2MDk2NywxNzQwMTc0MzkwLD
 M4MzI4MTkxMCwtMTg2Mzc3ODU0NiwtMjk5OTkyMzM3LDEwOTYx
