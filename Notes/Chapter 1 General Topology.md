@@ -165,7 +165,7 @@ $$
 ## 诱导拓扑
 镶嵌在$\mathbb{E}^3$的通常的面的拓扑是通过$3$维开球的交构成的，这个过程可以化为更为一般的情形：有一个拓扑空间$(S,T)$,且$X$是$S$的子集。我们可以在$X$上定义一个拓扑：将集合$X$与$T$中的开集相交作为$X$上的开集。这被称为**诱导拓扑**，记为$X\cap T$。
 >$Proof$:
->对于集合$S$上定义的拓扑$T$，
+>对于集合$S$上定义的拓扑$T$，其包含集合$S$以及$\empty$,所以对于诱导拓扑$\mathcal{T}=X\cap T$
 
 这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
@@ -184,11 +184,11 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI3MzQ2OTEsODYxNDQ3MDA4LDE1ND
-kxMzg3MzMsMTYxNzU5MTI0MCwtMTE5OTQwNTM3MiwtMTE5OTQw
-NTM3MiwxMzMwNDI3ODA5LDE0MDY3MTEwNCwtMzI1MjIwMzEsLT
-E4NDA0NzY4NzMsMTA2NTI2MDk2NywxNzQwMTc0MzkwLDM4MzI4
-MTkxMCwtMTg2Mzc3ODU0NiwtMjk5OTkyMzM3LDEwOTYxMzE3Nz
-IsMTkwOTg4NTIyNywtMTgzNTkwOTE3NSwyNzY2MjYwNTQsMTgy
-NjY4NjY1M119
+eyJoaXN0b3J5IjpbMjA2OTUwMDE4NiwtMjA2MjczNDY5MSw4Nj
+E0NDcwMDgsMTU0OTEzODczMywxNjE3NTkxMjQwLC0xMTk5NDA1
+MzcyLC0xMTk5NDA1MzcyLDEzMzA0Mjc4MDksMTQwNjcxMTA0LC
+0zMjUyMjAzMSwtMTg0MDQ3Njg3MywxMDY1MjYwOTY3LDE3NDAx
+NzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4NTQ2LC0yOTk5OTIzMz
+csMTA5NjEzMTc3MiwxOTA5ODg1MjI3LC0xODM1OTA5MTc1LDI3
+NjYyNjA1NF19
 -->
