@@ -168,7 +168,7 @@ $$
 >对于集合$S$上定义的拓扑$T$，其上定义的开集为$T_S$,对于诱导拓扑$\mathcal{T}=X\cap T$上定义的开集为$\mathcal{T}_X$;
 >1.若$T_S=S,\empty$,则$X\cap T_S=X,\empty$;
 >2.若$T$中的两个开集为$T_S,T'_S$，有$T_S\cap T'_S\in T$，则$\mathcal{T}_X=X\cap T_S,\mathcal{T}_X'=X\cap T'_S$,所以$\mathcal{T}_X \cap \mathcal{T}_X'=(X\cap T_S)\cap(X\cap T'_S)=X\cap(T_S\cap T'_S)\in\mathcal{T}_X$;
->3.若$T$中的任意数量的开集$T_S^i$,有$\cup_i^{\infty}T_S^i\in T$,则$\mathcal{T}_X^i=X\cap T_S^i$,
+>3.若$T$中的任意数量的开集$T_S^i$,有$\bigcup_i^{\infty}T_S^i\in T$,则$\mathcal{T}_X^i=X\cap T_S^i$,可得$\bigcup_i^\infty\mathcal{T}_X^i$
 
 这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
@@ -187,7 +187,7 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDIyOTEzMyw1NzM5NzM0NDksLTk3MT
+eyJoaXN0b3J5IjpbMTE4Mjc5NDI4MSw1NzM5NzM0NDksLTk3MT
 Q3NzI0LDE5NDgwMjE5MTAsNTcwNzAyODA5LC01MzYwOTMwMjcs
 MjA2OTUwMDE4NiwtMjA2MjczNDY5MSw4NjE0NDcwMDgsMTU0OT
 EzODczMywxNjE3NTkxMjQwLC0xMTk5NDA1MzcyLC0xMTk5NDA1
