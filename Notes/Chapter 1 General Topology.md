@@ -167,7 +167,7 @@ $$
 >$Proof$:
 >对于集合$S$上定义的拓扑$T$，其上定义的开集为$T_S$,对于诱导拓扑$\mathcal{T}=X\cap T$上定义的开集为$\mathcal{T}_X$;
 >1.若$T_S=S,\empty$,则$X\cap T_S=X,\empty$;
->2.若$T$中的两个开集为$T_S,T'_S$，则$\mathcal{T}_X=X\cap T_S,\mathcal{T}_X'=X\cap T'_S$,所以$\mathcal{T}_X \cap \mathcal{T}_X'=(X\cap T_S)\cap(X\cap T'_S)=$
+>2.若$T$中的两个开集为$T_S,T'_S$，由$T_S\cap T'_S\in $则$\mathcal{T}_X=X\cap T_S,\mathcal{T}_X'=X\cap T'_S$,所以$\mathcal{T}_X \cap \mathcal{T}_X'=(X\cap T_S)\cap(X\cap T'_S)=$
 
 这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
@@ -186,11 +186,11 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcwNz
-AyODA5LC01MzYwOTMwMjcsMjA2OTUwMDE4NiwtMjA2MjczNDY5
-MSw4NjE0NDcwMDgsMTU0OTEzODczMywxNjE3NTkxMjQwLC0xMT
-k5NDA1MzcyLC0xMTk5NDA1MzcyLDEzMzA0Mjc4MDksMTQwNjcx
-MTA0LC0zMjUyMjAzMSwtMTg0MDQ3Njg3MywxMDY1MjYwOTY3LD
-E3NDAxNzQzOTAsMzgzMjgxOTEwLC0xODYzNzc4NTQ2LC0yOTk5
-OTIzMzddfQ==
+eyJoaXN0b3J5IjpbLTUxMzYxNDczNSwtOTcxNDc3MjQsMTk0OD
+AyMTkxMCw1NzA3MDI4MDksLTUzNjA5MzAyNywyMDY5NTAwMTg2
+LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOCwxNTQ5MTM4NzMzLDE2MT
+c1OTEyNDAsLTExOTk0MDUzNzIsLTExOTk0MDUzNzIsMTMzMDQy
+NzgwOSwxNDA2NzExMDQsLTMyNTIyMDMxLC0xODQwNDc2ODczLD
+EwNjUyNjA5NjcsMTc0MDE3NDM5MCwzODMyODE5MTAsLTE4NjM3
+Nzg1NDZdfQ==
 -->
