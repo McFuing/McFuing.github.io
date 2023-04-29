@@ -168,7 +168,7 @@ $$
 >对于集合$S$上定义的拓扑$T$，其上定义的开集为$T_S$,对于诱导拓扑$\mathcal{T}=X\cap T$上定义的开集为$\mathcal{T}_X$;
 >1.若$T_S=S,\empty$,则$X\cap T_S=X,\empty$;
 >2.若$T$中的两个开集为$T_S,T'_S$，有$T_S\cap T'_S\in T$，则$\mathcal{T}_X=X\cap T_S,\mathcal{T}_X'=X\cap T'_S$,所以$\mathcal{T}_X \cap \mathcal{T}_X'=(X\cap T_S)\cap(X\cap T'_S)=X\cap(T_S\cap T'_S)\in\mathcal{T}_X$;
->3.
+>3.若$T$中的任意数量的开集$T_S^i$,有$\cup_i^{\infty}T$
 
 这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
@@ -187,11 +187,11 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczOTczNDQ5LC05NzE0NzcyNCwxOTQ4MD
-IxOTEwLDU3MDcwMjgwOSwtNTM2MDkzMDI3LDIwNjk1MDAxODYs
-LTIwNjI3MzQ2OTEsODYxNDQ3MDA4LDE1NDkxMzg3MzMsMTYxNz
-U5MTI0MCwtMTE5OTQwNTM3MiwtMTE5OTQwNTM3MiwxMzMwNDI3
-ODA5LDE0MDY3MTEwNCwtMzI1MjIwMzEsLTE4NDA0NzY4NzMsMT
-A2NTI2MDk2NywxNzQwMTc0MzkwLDM4MzI4MTkxMCwtMTg2Mzc3
-ODU0Nl19
+eyJoaXN0b3J5IjpbLTE0MTMzNTc5MzQsNTczOTczNDQ5LC05Nz
+E0NzcyNCwxOTQ4MDIxOTEwLDU3MDcwMjgwOSwtNTM2MDkzMDI3
+LDIwNjk1MDAxODYsLTIwNjI3MzQ2OTEsODYxNDQ3MDA4LDE1ND
+kxMzg3MzMsMTYxNzU5MTI0MCwtMTE5OTQwNTM3MiwtMTE5OTQw
+NTM3MiwxMzMwNDI3ODA5LDE0MDY3MTEwNCwtMzI1MjIwMzEsLT
+E4NDA0NzY4NzMsMTA2NTI2MDk2NywxNzQwMTc0MzkwLDM4MzI4
+MTkxMF19
 -->
