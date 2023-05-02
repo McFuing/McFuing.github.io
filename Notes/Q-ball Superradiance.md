@@ -42,7 +42,7 @@ $$
 就像在图1中展示的那样，如果$\omega>0$,$A_-,B_+$项代表入射波，$A_+,B_-$项代表出射波，而下标$+(-)$代表正(负)电荷；如果$\omega<0$,波的方向翻转，$-(+)$表示正（负）电荷。
 有了这些约定，我们通过将其看作关于$r$的初值问题解方程(6) 。我们可以设定在$r=0$附近的$\eta_+,\eta_-$的值，然后通过方程（6）演化到较大的$r$去获得$A_\pm,B_\pm$。在原点附近我们要求$\eta_\pm(\omega,m,r\rightarrow 0)\rightarrow F_\pm(k_\pm r)^{|m_\pm|}$。$F_\pm$是复常数，用来提供初始条件来解这个系统。除此之外，因为这个系统是线性的，如果$(\eta_+,\eta_-)$是一个解，那么$(\zeta\eta_+,\zeta^*\eta_-)$也是解，其中$\zeta$是复常数。这就意味着我们可以重新标度这个常数(即$F_+$)归一，在$r\rightarrow0$时选择下面的初始条件：
 $$
-\eta_\pm(m,r)=(k_+r)^{|m_+|,\eta_-=F_-(k_-r)^{|m_-|}}.\tag{9}
+\eta_\pm(m,r)=(k_+r)^{|m_+|},\eta_-=F_-(k_-r)^{|m_-|}.\tag{9}
 $$
 对于每一个$F_-$,初值问题都会给出一组$A_+,A_-,B_+,B_-$.因此，普遍的，我们有两个入射和出射波。如果我们想要仅仅一个入射波，我们可以使用打靶法去调整$F_-$使得当$\omega>0$时，$A_-=0$或$B_-=0$,(由于方程的对称性，在$r$较大时，让入射的$\eta_+$模式为0并不给出新的结果。) 。求解方程的数值求解方案详细放在附录2.
 首先，为了更好监视Q-ball如何改变入射波，我们可以定义一些量。首先，我们可以看在远离原点环形区域的平均能量(从$r_1$到$r_2$)：
@@ -108,11 +108,11 @@ $$
 这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDk1MTc5NywtMTExNzYyMTcyNSwtMT
-U0NDc3MjczNiwtMTk1MTcxNDE4MywtMTQ4NzM5NDEyOSw2MDkw
-NDgzNTEsMTk3MDA0MzU3NSwxNjc4NTc3MDg2LC0xODY1MTI1ND
-A2LDEyOTcwNjkyMzgsLTIwNTU4NjI0MzMsMTc0NzQ4MTg5Miwt
-MTM5ODYyNjA0NSwxOTA4OTQ5ODE5LC0yMDE2NDY4MzAzLC03OD
-EwMjM3MzUsMTE4NzE1NTQwMywtMTM0Njk2NDAwMiwxMzUwNzM3
-MDAsLTE0MzUzMTkxMDRdfQ==
+eyJoaXN0b3J5IjpbMzc1OTMyMjY3LC01MTQ5NTE3OTcsLTExMT
+c2MjE3MjUsLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0ODcz
+OTQxMjksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3NzA4Ni
+wtMTg2NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMzLDE3
+NDc0ODE4OTIsLTEzOTg2MjYwNDUsMTkwODk0OTgxOSwtMjAxNj
+Q2ODMwMywtNzgxMDIzNzM1LDExODcxNTU0MDMsLTEzNDY5NjQw
+MDIsMTM1MDczNzAwXX0=
 -->
