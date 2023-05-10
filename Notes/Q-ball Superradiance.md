@@ -100,7 +100,7 @@ $$
 其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（**$\omega_Q$有下界**）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。典型地，放大因子的峰会随着我们降低$\omega_Q$(对应于更大的Q-ball)而快速降低。另外一个有趣的结果是，对于某些$\omega_Q$（比如$\omega_Q=0.58$），在放大谱中存在有趣的多峰结构。
 更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，在散射过程中允许两个两个入射模式将会极大的增加能量振幅因子。就像被提到的那样，这可能就是我们所期望的，因为Q-ball超辐射实际上是从复标量的两种模式之间的相互作用中产生的。
  **转动Q-ball**
-当Q-ball在实空间转动时，转动超辐射的额外成分也会被激活，当$\eta_+$模式转动方向与Q-ball一致时，将会增强能量振幅(即$sign(\omega_+/m_+)=sign(\omega_Q/m_Q)$)，如图4右边展示的那样。另外一方面，对于相反的情况，我们可以看到在能量增强上有轻微的减少。注意，能量超辐射的判据依然是方程(18) ，且一个非转动Q-ball也可以诱导出角动量超辐射。
+当Q-ball在实空间转动时，转动超辐射的额外成分也会被激活，当$\eta_+$模式转动方向与Q-ball一致时，将会增强能量振幅(即$sign(\omega_+/m_+)=sign(\omega_Q/m_Q)$)，如图4右边展示的那样。**另外一方面，对于相反的情况，我们可以看到在能量增强上有轻微的减少。** 注意，能量超辐射的判据依然是方程(18) ，且一个非转动Q-ball也可以诱导出角动量超辐射。
 在图5中，我们画了仅将$\eta_+$作为入射模式的角动量的超辐射。我们可以看到，对于类似Zel'dovich转动超辐射判据$\omega<m\Omega_Q$与转动Q-ball是相违背的。这没什么惊讶的，因为在散射过程中有两个耦合的模式参与，在转动效应之上还有Q-ball的相干超辐射。相反，正如我们指出的那样，式(19)是正确的角动量增强判据。这与图5中$m_Q=1,m=2$的情况是一致的；对于另外的两个情况，角动量在整个正或负的$\omega$分支要么增强要么减弱，没有穿过线$\mathcal{A}_L=1$,这反映在方程(19)的$\omega_L$无实根。更多结果见附录1。
 **3+1维情况**
 最终，我们将展示一些关于Q-ball在3+1维的超辐射初步结果，主要集中于Q-ball和散射波都是球对称的情况，我们只需简单的修改上面的2+1维的方程就可以得到。在图6中，我们画出了能量振幅因子如何随频率$\omega$变化。我们看到除了3+1维情况的超辐射谱中的多峰结构外，3+1维的情况是类似于2+1维的。对于转动Q-ball的结果，由于数值的复杂性，将会在其他地方展示。
@@ -108,11 +108,11 @@ $$
 这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTMyMjY3LC01MTQ5NTE3OTcsLTExMT
-c2MjE3MjUsLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0ODcz
-OTQxMjksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3NzA4Ni
-wtMTg2NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMzLDE3
-NDc0ODE4OTIsLTEzOTg2MjYwNDUsMTkwODk0OTgxOSwtMjAxNj
-Q2ODMwMywtNzgxMDIzNzM1LDExODcxNTU0MDMsLTEzNDY5NjQw
-MDIsMTM1MDczNzAwXX0=
+eyJoaXN0b3J5IjpbNTczNDEwMDM5LDM3NTkzMjI2NywtNTE0OT
+UxNzk3LC0xMTE3NjIxNzI1LC0xNTQ0NzcyNzM2LC0xOTUxNzE0
+MTgzLC0xNDg3Mzk0MTI5LDYwOTA0ODM1MSwxOTcwMDQzNTc1LD
+E2Nzg1NzcwODYsLTE4NjUxMjU0MDYsMTI5NzA2OTIzOCwtMjA1
+NTg2MjQzMywxNzQ3NDgxODkyLC0xMzk4NjI2MDQ1LDE5MDg5ND
+k4MTksLTIwMTY0NjgzMDMsLTc4MTAyMzczNSwxMTg3MTU1NDAz
+LC0xMzQ2OTY0MDAyXX0=
 -->
