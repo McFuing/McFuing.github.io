@@ -97,7 +97,7 @@ $$
 $$
 \omega<-|\omega_E|或\omega_Q+1<\omega<|\omega_E|\tag{20}
 $$
-其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（**$\omega_Q$有下界**）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。典型地，放大因子的峰会随着我们降低$\omega_Q$(对应于更大的Q-ball)而快速降低。另外一个有趣的结果是，对于某些$\omega_Q$（比如$\omega_Q=0.58$），在放大谱中存在有趣的多峰结构。
+其中$|\omega_E|=[1+\omega^2_Q+(1+4\omega^2_Q)^{1/2}]^{1/2}$与图2一致。在正的和负的$\omega$曲线间隙的产生来源于（**$\omega_Q$有下界**）以及对于不同的$\omega_Q$是不同的（见式(8) ）。放大曲线的正（负）$\omega$分支是当输入波$\omega_+=\omega_Q+\omega$的频率与Q-ball频率$\omega_Q$具有相同（相反）符号（记住$\omega_Q>0$）。我们可以看到当$\omega_+$的符号与$\omega_Q$的符号相同时，更强的超辐射将会产生。而且当入射波有更低的的频率或者更长的波长时，超辐射最强，也即在那个分支中频率$\omega$接近质量间隔。典型地，放大因子的峰会随着我们降低$\omega_Q$(对应于更大的Q-ball)而快速增加。另外一个有趣的结果是，对于某些$\omega_Q$（比如$\omega_Q=0.58$），在放大谱中存在有趣的多峰结构。
 更一般的，我们将会同时使得$\eta_+,\eta_+$作为入射波，这大概就是一个“脏”环境的一个典型案例。这种混合可以用$F_-$参数进行参数化。图3展示了不同模式混合的能量加强。我们可以看到，在散射过程中允许两个两个入射模式将会极大的增加能量振幅因子。就像被提到的那样，这可能就是我们所期望的，因为Q-ball超辐射实际上是从复标量的两种模式之间的相互作用中产生的。
  **转动Q-ball**
 当Q-ball在实空间转动时，转动超辐射的额外成分也会被激活，当$\eta_+$模式转动方向与Q-ball一致时，将会增强能量振幅(即$sign(\omega_+/m_+)=sign(\omega_Q/m_Q)$)，如图4右边展示的那样。**另外一方面，对于相反的情况，我们可以看到在能量增强上有轻微的减少。** 注意，能量超辐射的判据依然是方程(18) ，**且一个非转动Q-ball也可以诱导出角动量超辐射。**
@@ -109,11 +109,11 @@ $$
 **这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4NjE1NSwtMTI4MjQyNDU1NSw1Nz
-M0MTAwMzksMzc1OTMyMjY3LC01MTQ5NTE3OTcsLTExMTc2MjE3
-MjUsLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0ODczOTQxMj
-ksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3NzA4NiwtMTg2
-NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMzLDE3NDc0OD
-E4OTIsLTEzOTg2MjYwNDUsMTkwODk0OTgxOSwtMjAxNjQ2ODMw
-MywtNzgxMDIzNzM1XX0=
+eyJoaXN0b3J5IjpbMjEwOTQ2OTk0MiwtMTQ5MTg2MTU1LC0xMj
+gyNDI0NTU1LDU3MzQxMDAzOSwzNzU5MzIyNjcsLTUxNDk1MTc5
+NywtMTExNzYyMTcyNSwtMTU0NDc3MjczNiwtMTk1MTcxNDE4My
+wtMTQ4NzM5NDEyOSw2MDkwNDgzNTEsMTk3MDA0MzU3NSwxNjc4
+NTc3MDg2LC0xODY1MTI1NDA2LDEyOTcwNjkyMzgsLTIwNTU4Nj
+I0MzMsMTc0NzQ4MTg5MiwtMTM5ODYyNjA0NSwxOTA4OTQ5ODE5
+LC0yMDE2NDY4MzAzXX0=
 -->
