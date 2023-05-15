@@ -2,7 +2,7 @@
 ### *摘要*
 *Q-ball是一类在场中可以相干转动的非拓扑孤立子。由于散射过程涉及两个耦合的模式，我们证明了这些相干转动可以诱导散射波的超辐射。尽管在散射过程中粒子数是守恒的，但两个模式的频率的不匹配性允许对入射波的能量和角动量的的增强。当Q-ball在实空间中转动时，额外的转动超辐射，可能导致更进一步的能量和角动量的增强。我们得到了能量和角动量超辐射发生的准则。而Zel’dovich的对于转动的超辐射准则与Q-ball系统的超辐射准则相矛盾。*
 
-Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用的场[4].相互作用的吸引力允许电荷凝结成局部物体，但这不是静态场构型，因为场的相位随时间演变，从而避免Derrick定理[5] 。Q-ball在获得一些角动量后可能会旋转并变成中心空洞[6-10],这可能会在从一个非零角动量系统形成时或在Q-ball碰撞时发生[11] 。Q-ball可能自然出现在早期宇宙中[11-21] ，并且是暗物质的候选者[22-30] 。
+Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用的场[4].相互作用的吸引力允许电荷凝结成局部物体，但这不是静态场构型，因为场的相位随时间演变，从而避免Derrick定理[5] 。Q-ball在获得一些角动量后可能会旋转并变成中心空洞[6-10],这可能会在从一个非零角动量系统形成时或在Q-ball碰撞时发生[11] 。Q-ball可能自然出现在早期宇宙中[11-21] ，并且是暗物质的候选者[22-30] 。在存在强引力效应的情况下，与Q-ball对应的被称为玻色子星[31，32，34] ，这是暗物质的另一个候选者[32，33] 。Q-ball也可以在实验室中制造[35，36]，并且可以具有复合电荷结构[37-39]。
 
 我们将会考虑$U(1)$对称性的理论，
 $$
@@ -109,11 +109,11 @@ $$
 这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODcxODY1NywxODA0ODQwMjYwLDE4NT
-I3Nzg2MTQsMjEwOTQ2OTk0MiwtMTQ5MTg2MTU1LC0xMjgyNDI0
-NTU1LDU3MzQxMDAzOSwzNzU5MzIyNjcsLTUxNDk1MTc5NywtMT
-ExNzYyMTcyNSwtMTU0NDc3MjczNiwtMTk1MTcxNDE4MywtMTQ4
-NzM5NDEyOSw2MDkwNDgzNTEsMTk3MDA0MzU3NSwxNjc4NTc3MD
-g2LC0xODY1MTI1NDA2LDEyOTcwNjkyMzgsLTIwNTU4NjI0MzMs
-MTc0NzQ4MTg5Ml19
+eyJoaXN0b3J5IjpbLTE5MDczNjMzMzIsMTgwNDg0MDI2MCwxOD
+UyNzc4NjE0LDIxMDk0Njk5NDIsLTE0OTE4NjE1NSwtMTI4MjQy
+NDU1NSw1NzM0MTAwMzksMzc1OTMyMjY3LC01MTQ5NTE3OTcsLT
+ExMTc2MjE3MjUsLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0
+ODczOTQxMjksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3Nz
+A4NiwtMTg2NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMz
+LDE3NDc0ODE4OTJdfQ==
 -->
