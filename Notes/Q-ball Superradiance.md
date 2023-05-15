@@ -2,7 +2,7 @@
 ### *摘要*
 *Q-ball是一类在场中可以相干转动的非拓扑孤立子。由于散射过程涉及两个耦合的模式，我们证明了这些相干转动可以诱导散射波的超辐射。尽管在散射过程中粒子数是守恒的，但两个模式的频率的不匹配性允许对入射波的能量和角动量的的增强。当Q-ball在实空间中转动时，额外的转动超辐射，可能导致更进一步的能量和角动量的增强。我们得到了能量和角动量超辐射发生的准则。而Zel’dovich的对于转动的超辐射准则与Q-ball系统的超辐射准则相矛盾。*
 
-Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用的场[4].
+Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用的场[4].相互作用的吸引力允许电荷凝结成局部物体，但这不是静态场构型，因为场的相位随时间演变，从而逃避德里克定理[5] 。
 
 我们将会考虑$U(1)$对称性的理论，
 $$
@@ -109,11 +109,11 @@ $$
 这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjc3ODYxNCwyMTA5NDY5OTQyLC0xND
-kxODYxNTUsLTEyODI0MjQ1NTUsNTczNDEwMDM5LDM3NTkzMjI2
-NywtNTE0OTUxNzk3LC0xMTE3NjIxNzI1LC0xNTQ0NzcyNzM2LC
-0xOTUxNzE0MTgzLC0xNDg3Mzk0MTI5LDYwOTA0ODM1MSwxOTcw
-MDQzNTc1LDE2Nzg1NzcwODYsLTE4NjUxMjU0MDYsMTI5NzA2OT
-IzOCwtMjA1NTg2MjQzMywxNzQ3NDgxODkyLC0xMzk4NjI2MDQ1
-LDE5MDg5NDk4MTldfQ==
+eyJoaXN0b3J5IjpbMTgwNDg0MDI2MCwxODUyNzc4NjE0LDIxMD
+k0Njk5NDIsLTE0OTE4NjE1NSwtMTI4MjQyNDU1NSw1NzM0MTAw
+MzksMzc1OTMyMjY3LC01MTQ5NTE3OTcsLTExMTc2MjE3MjUsLT
+E1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0ODczOTQxMjksNjA5
+MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3NzA4NiwtMTg2NTEyNT
+QwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMzLDE3NDc0ODE4OTIs
+LTEzOTg2MjYwNDVdfQ==
 -->
