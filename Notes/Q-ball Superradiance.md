@@ -113,9 +113,9 @@ $$
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
 ### 附录
 #### 更多关于 2+1维 Q -ball超辐射的信息
-在这里，我们将展示更多关于 Q -ball超辐射在 2+1维 下的结果。在此之前，让我们首先构建非旋转和旋转Q的径向轮廓。
+在这里，我们将展示更多关于 Q -ball超辐射在 2+1维 下的结果。在此之前，让我们首先构建非旋转和旋转Q-ball的径向函数。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDkzNzE2MSwtMTk2Mzk0MDg1MSwxOD
+eyJoaXN0b3J5IjpbLTIwNTI1NTIxMSwtMTk2Mzk0MDg1MSwxOD
 A0ODQwMjYwLDE4NTI3Nzg2MTQsMjEwOTQ2OTk0MiwtMTQ5MTg2
 MTU1LC0xMjgyNDI0NTU1LDU3MzQxMDAzOSwzNzU5MzIyNjcsLT
 UxNDk1MTc5NywtMTExNzYyMTcyNSwtMTU0NDc3MjczNiwtMTk1
