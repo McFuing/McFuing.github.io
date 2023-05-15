@@ -111,13 +111,14 @@ $$
 总结一下，由于Q-ball在场空间的相干转动，我们已经发现Q-ball可以诱导入射的波发生超辐射。对于转动Q-ball，在实空间的额外的转动可以更进一步地加强超辐射。Q-ball散射的一个重要的特征是它涉及了两个耦合的模式，这对于Q-ball发生超辐射是必须的。由于两个耦合模式的存在，超辐射谱也变得更加丰富。在散射中，能量和角动量都可以被加强，从Q-ball里面汲取能量和角动量。然而，能量与角动量的超辐射并不总是同时发生。当入射波包含正和负的频率的模式，荷就可以有超辐射加强(见附录1) 。对于转动超辐射的简单的Zel'dovich判据是不适用于Q-ball超辐射。由于在Q-ball散射中粒子数的守恒，我们已经解析的求出了能量和角动量的超辐射判据。
 这些结果意味着Q-ball在周围标量波散射的“脏”环境中是受超辐射不稳定性影响的。因为Q-ball的寿命长作为前提，所以其长时间被看作暗物质的候选者。Q-ball已经被调研在宇宙学中发挥着其它有趣的作用。Q球超辐射的存在引出了一个问题：超辐射会如何影响这些物理情况。
 而且注意到，在引力存在下，玻色子星本质上是Q-ball。文章中的这个发现也暗示着玻色子星也可以发生超辐射，在引力波天文学和其他精确引力观测的时代，其含义值得研究。
-
+### 附录
+#### 更多关于 2+1维 Q -ball超辐射的信息
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM5NDA4NTEsMTgwNDg0MDI2MCwxOD
-UyNzc4NjE0LDIxMDk0Njk5NDIsLTE0OTE4NjE1NSwtMTI4MjQy
-NDU1NSw1NzM0MTAwMzksMzc1OTMyMjY3LC01MTQ5NTE3OTcsLT
-ExMTc2MjE3MjUsLTE1NDQ3NzI3MzYsLTE5NTE3MTQxODMsLTE0
-ODczOTQxMjksNjA5MDQ4MzUxLDE5NzAwNDM1NzUsMTY3ODU3Nz
-A4NiwtMTg2NTEyNTQwNiwxMjk3MDY5MjM4LC0yMDU1ODYyNDMz
-LDE3NDc0ODE4OTJdfQ==
+eyJoaXN0b3J5IjpbNTc5MjAyNDYwLC0xOTYzOTQwODUxLDE4MD
+Q4NDAyNjAsMTg1Mjc3ODYxNCwyMTA5NDY5OTQyLC0xNDkxODYx
+NTUsLTEyODI0MjQ1NTUsNTczNDEwMDM5LDM3NTkzMjI2NywtNT
+E0OTUxNzk3LC0xMTE3NjIxNzI1LC0xNTQ0NzcyNzM2LC0xOTUx
+NzE0MTgzLC0xNDg3Mzk0MTI5LDYwOTA0ODM1MSwxOTcwMDQzNT
+c1LDE2Nzg1NzcwODYsLTE4NjUxMjU0MDYsMTI5NzA2OTIzOCwt
+MjA1NTg2MjQzM119
 -->
