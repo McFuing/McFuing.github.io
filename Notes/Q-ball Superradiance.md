@@ -3,7 +3,7 @@
 *Q-ball是一类在场中可以相干转动的非拓扑孤立子。由于散射过程涉及两个耦合的模式，我们证明了这些相干转动可以诱导散射波的超辐射。尽管在散射过程中粒子数是守恒的，但两个模式的频率的不匹配性允许对入射波的能量和角动量的的增强。当Q-ball在实空间中转动时，额外的转动超辐射，可能导致更进一步的能量和角动量的增强。我们得到了能量和角动量超辐射发生的准则。而Zel’dovich的对于转动的超辐射准则与Q-ball系统的超辐射准则相矛盾。*
 
 Q-ball作为孤子解[1-3]出现在很多的允许吸引的非线性相互作用的场[4].相互作用的吸引力允许电荷凝结成局部物体，但这不是静态场构型，因为场的相位随时间演变，从而避免Derrick定理[5] 。Q-ball在获得一些角动量后可能会旋转并变成中心空洞[6-10],这可能会在从一个非零角动量系统形成时或在Q-ball碰撞时发生[11] 。Q-ball可能自然出现在早期宇宙中[11-21] ，并且是暗物质的候选者[22-30] 。在存在强引力效应的情况下，与Q-ball对应的被称为玻色子星[31，32，34] ，这是暗物质的另一个候选者[32，33] 。Q-ball也可以在实验室中制造[35，36] ，并且可以具有复合电荷结构[37-39] 。
-超辐射，由Dicke[40]创造，最初用于相干介质中的发射增强，是辐射在物理过程中被放大的现象的集合;有关介绍，请参见[41，42] 。众所周知的Cherenkov辐射是惯性运动超辐射的一个例子[43] 。后来，Zel'dovich指出，旋转物体，如辐射吸收圆柱体或Kerr黑洞，也可以超辐射[44，45] （[46]对于黑洞是独立的 ）。此后，黑洞超辐射被广泛研究[42] ，这要归功于它与引力理论，天体物理学和粒子物理学的相关性（参见例如[47-71] ）。
+超辐射，由Dicke[40]创造，最初用于相干介质中的发射增强，是辐射在物理过程中被放大的现象的集合;有关介绍，请参见[41，42] 。众所周知的Cherenkov辐射是惯性运动超辐射的一个例子[43] 。后来，Zel'dovich指出，旋转物体，如吸收辐射圆柱体或Kerr黑洞，也可以超辐射[44，45] （[46]对于黑洞是独立的 ）。此后，黑洞超辐射被广泛研究[42] ，这要归功于它与引力理论，天体物理学和粒子物理学的相关性（参见例如[47-71] ）。
 
 在这个文章中，我们将指出Q-ball也可以超辐射，尽管Q球的历史悠久，但是一个迄今为止未知的性质。Q-ball超辐射源于这样一个事实，即Q-ball场是复的，有两个组成部分，并且Q-ball的解的相位随时间演变。事实上，Q-ball可以看作是粒子的局部玻色-爱因斯坦凝聚物，它们相干地振荡，正如我们将看到的，增强了入射到它的标量波，有点类似于Dicke的原始场景。如果Q-ball获得一些角动量并旋转，额外的旋转超辐射可以提供进一步的增强。有趣的是，尽管粒子数在散射中是守恒的，但Q-ball超辐射还是会发生的。Q-ball存在所需的质量间隙将超辐射光谱分成两个独立的部分。
 
@@ -115,11 +115,11 @@ $$
 #### 更多关于 2+1维 Q -ball超辐射的信息
 在这里，我们将展示更多关于 Q -ball超辐射在 2+1维 下的结果。在此之前，让我们首先构建非旋转和旋转Q-ball的径向函数。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI1NTIxMSwtMTk2Mzk0MDg1MSwxOD
-A0ODQwMjYwLDE4NTI3Nzg2MTQsMjEwOTQ2OTk0MiwtMTQ5MTg2
-MTU1LC0xMjgyNDI0NTU1LDU3MzQxMDAzOSwzNzU5MzIyNjcsLT
-UxNDk1MTc5NywtMTExNzYyMTcyNSwtMTU0NDc3MjczNiwtMTk1
-MTcxNDE4MywtMTQ4NzM5NDEyOSw2MDkwNDgzNTEsMTk3MDA0Mz
-U3NSwxNjc4NTc3MDg2LC0xODY1MTI1NDA2LDEyOTcwNjkyMzgs
-LTIwNTU4NjI0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIzMTA2Njc5NSwtMjA1MjU1MjExLC0xOT
+YzOTQwODUxLDE4MDQ4NDAyNjAsMTg1Mjc3ODYxNCwyMTA5NDY5
+OTQyLC0xNDkxODYxNTUsLTEyODI0MjQ1NTUsNTczNDEwMDM5LD
+M3NTkzMjI2NywtNTE0OTUxNzk3LC0xMTE3NjIxNzI1LC0xNTQ0
+NzcyNzM2LC0xOTUxNzE0MTgzLC0xNDg3Mzk0MTI5LDYwOTA0OD
+M1MSwxOTcwMDQzNTc1LDE2Nzg1NzcwODYsLTE4NjUxMjU0MDYs
+MTI5NzA2OTIzOF19
 -->
