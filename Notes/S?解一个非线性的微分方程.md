@@ -1,0 +1,15 @@
+非线性微分方程
+$$
+f^2(x)-R_sf(x)=xf'^2(x)
+$$
+化为线性常微分方程
+$$
+2f(x)f'(x)-R_sf'(x)=f'^2(x)+2xf'(x)f''(x)
+$$
+即
+$$
+2f(x)-R_s=f'(x)+2xf''(x)
+$$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMjE4OTI1NTFdfQ==
+-->
