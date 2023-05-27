@@ -24,6 +24,10 @@ $$
 F(x)=\sum_{n=-\infty}^{+\infty}c_nx^n
 $$
 所以
+$$
+F'(x)&=\sum_{n=-\infty}^{+\infty}c_nnx^{n-1}\\
+F''(x)&=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTAyMzg4MywtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbOTc3ODM0ODE5LC0yMTIxODkyNTUxXX0=
 -->
