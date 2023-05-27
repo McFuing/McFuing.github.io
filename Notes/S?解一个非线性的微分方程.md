@@ -2,6 +2,8 @@
 $$
 f^2(x)-R_sf(x)=x^2f'^2(x)
 $$
+>直接求解$$
+
 化为线性常微分方程
 $$
 2f(x)f'(x)-R_sf'(x)=2xf'^2(x)+2x^2f'(x)f''(x)
@@ -15,8 +17,8 @@ $$
 $$
 x^2F''(x)+xF'(x)-F(x)=0
 $$
-
+>代换$x=e^t$是可行的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEwNDMwNjUsLTIxMjE4OTI1NTFdfQ
+eyJoaXN0b3J5IjpbLTE5OTc5NDQ0MjYsLTIxMjE4OTI1NTFdfQ
 ==
 -->
