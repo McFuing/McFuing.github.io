@@ -36,9 +36,10 @@ $$
 $$
 也即
 $$
-
-
+\sum_{n=-\infty}^{+\infty}[c_n(n^2-1)]x^n=0
+$$
+扔掉平凡的$0$解
+当且仅当$n=\pm1$时you'jie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI1MjUwMzMsLTIxMjE4OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTM0ODc5NTM4MCwtMjEyMTg5MjU1MV19
 -->
