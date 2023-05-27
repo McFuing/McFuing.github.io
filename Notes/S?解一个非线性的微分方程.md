@@ -2,7 +2,7 @@
 $$
 f^2(x)-R_sf(x)=x^2f'^2(x)
 $$
->直接求解$$
+>直接求解$f'(x)$可行的
 
 化为线性常微分方程
 $$
@@ -18,7 +18,12 @@ $$
 x^2F''(x)+xF'(x)-F(x)=0
 $$
 >代换$x=e^t$是可行的
+
+设
+$$
+F(x)=\sum_{n=-\infty}^{+\infty}c_nx^n
+$$
+所以
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc5NDQ0MjYsLTIxMjE4OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbMTQ1OTAyMzg4MywtMjEyMTg5MjU1MV19
 -->
