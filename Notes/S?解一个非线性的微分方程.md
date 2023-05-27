@@ -45,8 +45,8 @@ F(x)=c_{-1}x^{-1}+c_1x
 $$
 原微分方程的解为
 $$
-f(x)=F(x)+\frac{R_}{}
+f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTY2MjA0OCwtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbNDA5MDExNTczLC0yMTIxODkyNTUxXX0=
 -->
