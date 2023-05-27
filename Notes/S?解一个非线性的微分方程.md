@@ -32,8 +32,13 @@ F''(x)&=\sum_{n=-\infty}^{+\infty}c_nn(n-1)x^{n-2}
 $$
 带入微分方程
 $$
-\sum_{n=}
+\sum_{n=-\infty}^{+\infty}\left[ c_nn(n-1)+c_nn-c_n\right]x^n=0
 $$
+也即
+$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDU4OTExNCwtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbLTExODI1MjUwMzMsLTIxMjE4OTI1NTFdfQ
+==
 -->
