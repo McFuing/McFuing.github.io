@@ -38,8 +38,7 @@ $$
 $$
 \sum_{n=-\infty}^{+\infty}[c_n(n^2-1)]x^n=0
 $$
-扔掉平凡的$0$解
-当且仅当$n=\pm1$时有解，即
+扔掉平凡的$0$解，当且仅当$n=\pm1$时有解，即
 $$
 F(x)=c_{-1}x^{-1}+c_1x
 $$
@@ -48,5 +47,6 @@ $$
 f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDExNTczLC0yMTIxODkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTI2ODIyMDE0MSw0MDkwMTE1NzMsLTIxMj
+E4OTI1NTFdfQ==
 -->
