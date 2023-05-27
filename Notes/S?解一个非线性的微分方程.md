@@ -39,7 +39,14 @@ $$
 \sum_{n=-\infty}^{+\infty}[c_n(n^2-1)]x^n=0
 $$
 扔掉平凡的$0$解
-当且仅当$n=\pm1$时you'jie
+当且仅当$n=\pm1$时有解，即
+$$
+F(x)=c_{-1}x^{-1}+c_1x
+$$
+原微分方程的解为
+$$
+f(x)=F(x)+\frac{R_}{}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODc5NTM4MCwtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbMTY0OTY2MjA0OCwtMjEyMTg5MjU1MV19
 -->
