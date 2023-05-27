@@ -13,8 +13,10 @@ $$
 记$F(x)=f(x)-R_s/2$
 可得
 $$
-2
+x^2F''(x)+xF'(x)-F(x)=0
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTk1ODIyNiwtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbLTIwODEwNDMwNjUsLTIxMjE4OTI1NTFdfQ
+==
 -->
