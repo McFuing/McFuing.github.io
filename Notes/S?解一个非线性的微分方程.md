@@ -1,5 +1,6 @@
+考虑一个变换
 $$
-ds^2=
+ds^2=-(1-\frac{R_s}{r})dt^2+(1-\frac{R_s}{r})^{-1}dr^2+r^2d\Omega^2
 $$
 
 非线性微分方程
@@ -51,6 +52,6 @@ $$
 f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTI4NDk3LC0yNjgyMjAxNDEsNDA5MD
-ExNTczLC0yMTIxODkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTU3OTc4ODg2MywtMjY4MjIwMTQxLDQwOT
+AxMTU3MywtMjEyMTg5MjU1MV19
 -->
