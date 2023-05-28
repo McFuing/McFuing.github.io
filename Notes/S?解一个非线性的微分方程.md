@@ -1,8 +1,4 @@
-考虑一个变换
-$$
-ds^2=-(1-\frac{R_s}{r})dt^2+(1-\frac{R_s}{r})^{-1}dr^2+r^2d\Omega^2
-$$
-
+考虑一个施瓦西ge
 非线性微分方程
 $$
 f^2(x)-R_sf(x)=x^2f'^2(x)
@@ -52,6 +48,6 @@ $$
 f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTc4ODg2MywtMjY4MjIwMTQxLDQwOT
-AxMTU3MywtMjEyMTg5MjU1MV19
+eyJoaXN0b3J5IjpbMTc2NTU5Nzc3LC0yNjgyMjAxNDEsNDA5MD
+ExNTczLC0yMTIxODkyNTUxXX0=
 -->
