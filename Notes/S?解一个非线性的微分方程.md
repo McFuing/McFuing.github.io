@@ -1,3 +1,7 @@
+$$
+ds^2=
+$$
+
 非线性微分方程
 $$
 f^2(x)-R_sf(x)=x^2f'^2(x)
@@ -47,6 +51,6 @@ $$
 f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODIyMDE0MSw0MDkwMTE1NzMsLTIxMj
-E4OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMTU2MTI4NDk3LC0yNjgyMjAxNDEsNDA5MD
+ExNTczLC0yMTIxODkyNTUxXX0=
 -->
