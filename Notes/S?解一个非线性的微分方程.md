@@ -1,4 +1,5 @@
-考虑一个施瓦西ge
+>考虑一个施瓦西各向同性坐标的坐标变换
+
 非线性微分方程
 $$
 f^2(x)-R_sf(x)=x^2f'^2(x)
@@ -48,6 +49,6 @@ $$
 f(x)=F(x)+\frac{R_s}{2}=c_1x+\frac{c_{-1}}{x}+\frac{R_s}{2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTU5Nzc3LC0yNjgyMjAxNDEsNDA5MD
+eyJoaXN0b3J5IjpbMzc1NDkxNzQ5LC0yNjgyMjAxNDEsNDA5MD
 ExNTczLC0yMTIxODkyNTUxXX0=
 -->
