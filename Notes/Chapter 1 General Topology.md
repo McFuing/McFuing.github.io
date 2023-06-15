@@ -188,14 +188,14 @@ $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。两种类型的集合给出拓扑基：
 
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
- 2. 对于切于$p^n=0$的超曲面的每一个开球，开球与切点
+ 2. 对于切于$p^n=0$的超曲面的每一个开球，开球与切点的并。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjU1OTU4NywtMTQzMDk3ODIxNCwxND
-I2MjcwNTc2LC03Nzg0NzIwNjcsLTE0MDYyOTEyMzksMTA5MTU4
-NzI2NywxMDkxNTg3MjY3LC0xMjE2MTkxOTI1LDEwNDc3OTUyMD
-IsLTk3MDA3NzU2LC0xMzM5NTk2Mjk0LC0xNjc5NzU1ODMwLDU3
-Mzk3MzQ0OSwtOTcxNDc3MjQsMTk0ODAyMTkxMCw1NzA3MDI4MD
-ksLTUzNjA5MzAyNywyMDY5NTAwMTg2LC0yMDYyNzM0NjkxLDg2
-MTQ0NzAwOF19
+eyJoaXN0b3J5IjpbODk1NzUxMzg5LC0xNDMwOTc4MjE0LDE0Mj
+YyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3
+MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMi
+wtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTcz
+OTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLDU3MDcwMjgwOS
+wtNTM2MDkzMDI3LDIwNjk1MDAxODYsLTIwNjI3MzQ2OTEsODYx
+NDQ3MDA4XX0=
 -->
