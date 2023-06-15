@@ -185,17 +185,17 @@ $$
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。两种类型的集合给出拓扑基：
+$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，在定义**带边界流形**中发挥重要作用。两种类型的集合给出拓扑基：
 
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球，开球与切点的并。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NzUxMzg5LC0xNDMwOTc4MjE0LDE0Mj
-YyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3
-MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMi
-wtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTcz
-OTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLDU3MDcwMjgwOS
-wtNTM2MDkzMDI3LDIwNjk1MDAxODYsLTIwNjI3MzQ2OTEsODYx
-NDQ3MDA4XX0=
+eyJoaXN0b3J5IjpbLTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xND
+MwOTc4MjE0LDE0MjYyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5
+MTIzOSwxMDkxNTg3MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5Mj
+UsMTA0Nzc5NTIwMiwtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2
+Nzk3NTU4MzAsNTczOTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOT
+EwLDU3MDcwMjgwOSwtNTM2MDkzMDI3LDIwNjk1MDAxODYsLTIw
+NjI3MzQ2OTFdfQ==
 -->
