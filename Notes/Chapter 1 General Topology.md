@@ -192,13 +192,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球与切点的并集。
 
-注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$$
+注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology”：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEyNjk1Niw2MjUxMDE4NjIsMjAwOT
-c3MzkwMSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLTE0MzA5Nzgy
-MTQsMTQyNjI3MDU3NiwtNzc4NDcyMDY3LC0xNDA2MjkxMjM5LD
-EwOTE1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5MTkyNSwxMDQ3
-Nzk1MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NCwtMTY3OTc1NT
-gzMCw1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcw
-NzAyODA5XX0=
+eyJoaXN0b3J5IjpbLTEwMzA1NjQwOTMsNjI1MTAxODYyLDIwMD
+k3NzM5MDEsLTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xNDMwOTc4
+MjE0LDE0MjYyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOS
+wxMDkxNTg3MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0
+Nzc5NTIwMiwtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NT
+U4MzAsNTczOTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLDU3
+MDcwMjgwOV19
 -->
