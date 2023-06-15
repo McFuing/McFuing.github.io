@@ -192,9 +192,9 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球与切点的并集。
 
-注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology”：
+注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology” ：假设流体的在底部的速度为单位1，从水平边界向上流入空间，且速度单调递减。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1NjQwOTMsNjI1MTAxODYyLDIwMD
+eyJoaXN0b3J5IjpbLTE2MjI1NTY5ODIsNjI1MTAxODYyLDIwMD
 k3NzM5MDEsLTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xNDMwOTc4
 MjE0LDE0MjYyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOS
 wxMDkxNTg3MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0
