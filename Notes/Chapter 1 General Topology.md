@@ -174,11 +174,11 @@ $$
 $$
 \sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
-由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。
+由$\mathbb{E}^{n+1}$的开球拓扑诱导得到。如图所示：
 
 >我们有一个开球$B_{r+\delta r}(p)=\{d(q,p)<r+\delta r|\ q\in E^{n+1}\}$以及点集$S^n=\{(p^1,p^2,\dots,p^{n+1})|\sum_{i=1}^{n+1}(p^i)^2=1\}$,其相交定义为开集$S^n$。
 
-如图所示：
+<img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/induced-topology.6qvmbr7j2fc0.webp" alt="induced-topology" />
 
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
 下面举个例子
@@ -190,11 +190,11 @@ $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYyOTEyMzksMTA5MTU4NzI2NywxMD
-kxNTg3MjY3LC0xMjE2MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3
-NzU2LC0xMzM5NTk2Mjk0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OS
-wtOTcxNDc3MjQsMTk0ODAyMTkxMCw1NzA3MDI4MDksLTUzNjA5
-MzAyNywyMDY5NTAwMTg2LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOC
-wxNTQ5MTM4NzMzLDE2MTc1OTEyNDAsLTExOTk0MDUzNzIsLTEx
-OTk0MDUzNzJdfQ==
+eyJoaXN0b3J5IjpbODg3MjI4Nzk0LC0xNDA2MjkxMjM5LDEwOT
+E1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5MTkyNSwxMDQ3Nzk1
+MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NCwtMTY3OTc1NTgzMC
+w1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcwNzAy
+ODA5LC01MzYwOTMwMjcsMjA2OTUwMDE4NiwtMjA2MjczNDY5MS
+w4NjE0NDcwMDgsMTU0OTEzODczMywxNjE3NTkxMjQwLC0xMTk5
+NDA1MzcyXX0=
 -->
