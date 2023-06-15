@@ -185,14 +185,14 @@ $$
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。aaaa
+$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUyMjExMTcsMTA5MTU4NzI2NywtMT
-IxNjE5MTkyNSwxMDQ3Nzk1MjAyLC05NzAwNzc1NiwtMTMzOTU5
-NjI5NCwtMTY3OTc1NTgzMCw1NzM5NzM0NDksLTk3MTQ3NzI0LD
-E5NDgwMjE5MTAsNTcwNzAyODA5LC01MzYwOTMwMjcsMjA2OTUw
-MDE4NiwtMjA2MjczNDY5MSw4NjE0NDcwMDgsMTU0OTEzODczMy
-wxNjE3NTkxMjQwLC0xMTk5NDA1MzcyLC0xMTk5NDA1MzcyLDEz
-MzA0Mjc4MDldfQ==
+eyJoaXN0b3J5IjpbMTA5MTU4NzI2NywxMDkxNTg3MjY3LC0xMj
+E2MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3NzU2LC0xMzM5NTk2
+Mjk0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OSwtOTcxNDc3MjQsMT
+k0ODAyMTkxMCw1NzA3MDI4MDksLTUzNjA5MzAyNywyMDY5NTAw
+MTg2LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOCwxNTQ5MTM4NzMzLD
+E2MTc1OTEyNDAsLTExOTk0MDUzNzIsLTExOTk0MDUzNzIsMTMz
+MDQyNzgwOV19
 -->
