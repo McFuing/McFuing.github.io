@@ -178,6 +178,8 @@ $$
 
 >我们有一个开球$B_{r+\delta r}(p)=\{d(q,p)<r+\delta r|\ q\in E^{n+1}\}$以及点集$S^n=\{(p^1,p^2,\dots,p^{n+1})|\sum_{i=1}^{n+1}(p^i)^2=1\}$,其相交定义为开集$S^n$。
 
+如图所示：
+
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
 下面举个例子
 ## 上半空间$\mathbb{E}^n_+$
@@ -188,11 +190,11 @@ $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTU4NzI2NywxMDkxNTg3MjY3LC0xMj
-E2MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3NzU2LC0xMzM5NTk2
-Mjk0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OSwtOTcxNDc3MjQsMT
-k0ODAyMTkxMCw1NzA3MDI4MDksLTUzNjA5MzAyNywyMDY5NTAw
-MTg2LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOCwxNTQ5MTM4NzMzLD
-E2MTc1OTEyNDAsLTExOTk0MDUzNzIsLTExOTk0MDUzNzIsMTMz
-MDQyNzgwOV19
+eyJoaXN0b3J5IjpbLTE0MDYyOTEyMzksMTA5MTU4NzI2NywxMD
+kxNTg3MjY3LC0xMjE2MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3
+NzU2LC0xMzM5NTk2Mjk0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OS
+wtOTcxNDc3MjQsMTk0ODAyMTkxMCw1NzA3MDI4MDksLTUzNjA5
+MzAyNywyMDY5NTAwMTg2LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOC
+wxNTQ5MTM4NzMzLDE2MTc1OTEyNDAsLTExOTk0MDUzNzIsLTEx
+OTk0MDUzNzJdfQ==
 -->
