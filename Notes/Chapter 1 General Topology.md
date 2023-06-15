@@ -187,15 +187,15 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。两种类型的集合给出拓扑基：
 
- 1. 整个包含在$\mathbb{R}^n$
+ 1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTU5MjE5MCwxNDI2MjcwNTc2LC03Nz
-g0NzIwNjcsLTE0MDYyOTEyMzksMTA5MTU4NzI2NywxMDkxNTg3
-MjY3LC0xMjE2MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3NzU2LC
-0xMzM5NTk2Mjk0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OSwtOTcx
-NDc3MjQsMTk0ODAyMTkxMCw1NzA3MDI4MDksLTUzNjA5MzAyNy
-wyMDY5NTAwMTg2LC0yMDYyNzM0NjkxLDg2MTQ0NzAwOCwxNTQ5
-MTM4NzMzXX0=
+eyJoaXN0b3J5IjpbLTE0MzA5NzgyMTQsMTQyNjI3MDU3NiwtNz
+c4NDcyMDY3LC0xNDA2MjkxMjM5LDEwOTE1ODcyNjcsMTA5MTU4
+NzI2NywtMTIxNjE5MTkyNSwxMDQ3Nzk1MjAyLC05NzAwNzc1Ni
+wtMTMzOTU5NjI5NCwtMTY3OTc1NTgzMCw1NzM5NzM0NDksLTk3
+MTQ3NzI0LDE5NDgwMjE5MTAsNTcwNzAyODA5LC01MzYwOTMwMj
+csMjA2OTUwMDE4NiwtMjA2MjczNDY5MSw4NjE0NDcwMDgsMTU0
+OTEzODczM119
 -->
