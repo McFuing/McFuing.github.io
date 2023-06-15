@@ -192,13 +192,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球与切点的并集。
 
-注意，对于2维的情况，上半平面是包含与水平线的交点
+注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MTAxODYyLDIwMDk3NzM5MDEsLTEzNz
-U0MjkyMzcsODk1NzUxMzg5LC0xNDMwOTc4MjE0LDE0MjYyNzA1
-NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3MjY3LD
-EwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMiwtOTcw
-MDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTczOTczND
-Q5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLDU3MDcwMjgwOSwtNTM2
-MDkzMDI3XX0=
+eyJoaXN0b3J5IjpbLTE0MjEyNjk1Niw2MjUxMDE4NjIsMjAwOT
+c3MzkwMSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLTE0MzA5Nzgy
+MTQsMTQyNjI3MDU3NiwtNzc4NDcyMDY3LC0xNDA2MjkxMjM5LD
+EwOTE1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5MTkyNSwxMDQ3
+Nzk1MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NCwtMTY3OTc1NT
+gzMCw1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcw
+NzAyODA5XX0=
 -->
