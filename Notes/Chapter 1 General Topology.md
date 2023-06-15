@@ -194,13 +194,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
 
 注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology” ：假设流体的在底部以单位速度，从水平边界向上流入空间，且速度单调递减。一个游泳者以单位速度在流体的任意点以任意方向开始游泳。在单位时间间隔内，所有可能的游泳者的集合生成一个基。
 ### 粗糙拓扑与精细拓扑
-我们考虑点集$S$上的两个拓扑$T_1,T_2$，如果$T_1$的每一个成员都属于$T_2$，那么我们称拓扑$T_1$要比拓扑$T_2$要更为粗糙，也就是说拓扑$T_2$要比$T_1$分的更细。比如说you'xia
+我们考虑点集$S$上的两个拓扑$T_1,T_2$，如果$T_1$的每一个成员都属于$T_2$，那么我们称拓扑$T_1$要比拓扑$T_2$要更为粗糙，也就是说拓扑$T_2$要比$T_1$分的更细。比如说对于同一个点集有限拓扑要比离散拓扑更加的粗糙。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTQ3ODE5OSw0MjAxODgwODYsMTY1OT
-gwOTg2NiwxNzMzMDY4MjA2LDYyNTEwMTg2MiwyMDA5NzczOTAx
-LC0xMzc1NDI5MjM3LDg5NTc1MTM4OSwtMTQzMDk3ODIxNCwxND
-I2MjcwNTc2LC03Nzg0NzIwNjcsLTE0MDYyOTEyMzksMTA5MTU4
-NzI2NywxMDkxNTg3MjY3LC0xMjE2MTkxOTI1LDEwNDc3OTUyMD
-IsLTk3MDA3NzU2LC0xMzM5NTk2Mjk0LC0xNjc5NzU1ODMwLDU3
-Mzk3MzQ0OV19
+eyJoaXN0b3J5IjpbNDU4NjA3NDAzLDQyMDE4ODA4NiwxNjU5OD
+A5ODY2LDE3MzMwNjgyMDYsNjI1MTAxODYyLDIwMDk3NzM5MDEs
+LTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xNDMwOTc4MjE0LDE0Mj
+YyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3
+MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMi
+wtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTcz
+OTczNDQ5XX0=
 -->
