@@ -189,11 +189,11 @@ $$
 $$
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。两种类型的集合给出拓扑基：
 
- 1. 这里是列表文本
+ 1. 在$$
  2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjYyNzcyNSwtMTQwNjI5MTIzOSwxMD
+eyJoaXN0b3J5IjpbLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMD
 kxNTg3MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5
 NTIwMiwtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4Mz
 AsNTczOTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLDU3MDcw
