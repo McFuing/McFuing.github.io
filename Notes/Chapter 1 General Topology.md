@@ -192,13 +192,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球与切点的并集。
 
-注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology” ：假设流体的在底部以单位速度，从水平边界向上流入空间，且速度单调递减。一个游泳者以单位速度在流体的任意点以任意方向开始游泳。
+注意，对于2维的情况，包含与水平线的交点的集合对于$\mathbb{E}^2$不是开集，但是对于$\mathbb{E}^2_+$是开集。通常有人将上述的拓扑称为“swimmer's topology” ：假设流体的在底部以单位速度，从水平边界向上流入空间，且速度单调递减。一个游泳者以单位速度在流体的任意点以任意方向开始游泳。在单位时间间隔内，所有可能的游泳者的集合
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzA2ODIwNiw2MjUxMDE4NjIsMjAwOT
-c3MzkwMSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLTE0MzA5Nzgy
-MTQsMTQyNjI3MDU3NiwtNzc4NDcyMDY3LC0xNDA2MjkxMjM5LD
-EwOTE1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5MTkyNSwxMDQ3
-Nzk1MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NCwtMTY3OTc1NT
-gzMCw1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcw
-NzAyODA5XX0=
+eyJoaXN0b3J5IjpbMTY1OTgwOTg2NiwxNzMzMDY4MjA2LDYyNT
+EwMTg2MiwyMDA5NzczOTAxLC0xMzc1NDI5MjM3LDg5NTc1MTM4
+OSwtMTQzMDk3ODIxNCwxNDI2MjcwNTc2LC03Nzg0NzIwNjcsLT
+E0MDYyOTEyMzksMTA5MTU4NzI2NywxMDkxNTg3MjY3LC0xMjE2
+MTkxOTI1LDEwNDc3OTUyMDIsLTk3MDA3NzU2LC0xMzM5NTk2Mj
+k0LC0xNjc5NzU1ODMwLDU3Mzk3MzQ0OSwtOTcxNDc3MjQsMTk0
+ODAyMTkxMF19
 -->
