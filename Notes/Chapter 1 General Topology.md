@@ -181,20 +181,20 @@ $$
 <img src="https://cdn.staticaly.com/gh/McFuing/images-hosting@main/images/induced-topology.6qvmbr7j2fc0.webp" alt="induced-topology" />
 
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
-下面举个例子
+下面举个例子.
 ## 上半空间$\mathbb{E}^n_+$
 上半空间的点集为
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。
+$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**。两种类型的集合给出拓扑基
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MjI4Nzk0LC0xNDA2MjkxMjM5LDEwOT
-E1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5MTkyNSwxMDQ3Nzk1
-MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NCwtMTY3OTc1NTgzMC
-w1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgwMjE5MTAsNTcwNzAy
-ODA5LC01MzYwOTMwMjcsMjA2OTUwMDE4NiwtMjA2MjczNDY5MS
-w4NjE0NDcwMDgsMTU0OTEzODczMywxNjE3NTkxMjQwLC0xMTk5
-NDA1MzcyXX0=
+eyJoaXN0b3J5IjpbLTE1OTc3OTIyNjIsLTE0MDYyOTEyMzksMT
+A5MTU4NzI2NywxMDkxNTg3MjY3LC0xMjE2MTkxOTI1LDEwNDc3
+OTUyMDIsLTk3MDA3NzU2LC0xMzM5NTk2Mjk0LC0xNjc5NzU1OD
+MwLDU3Mzk3MzQ0OSwtOTcxNDc3MjQsMTk0ODAyMTkxMCw1NzA3
+MDI4MDksLTUzNjA5MzAyNywyMDY5NTAwMTg2LC0yMDYyNzM0Nj
+kxLDg2MTQ0NzAwOCwxNTQ5MTM4NzMzLDE2MTc1OTEyNDAsLTEx
+OTk0MDUzNzJdfQ==
 -->
