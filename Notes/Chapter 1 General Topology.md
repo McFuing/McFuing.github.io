@@ -185,20 +185,20 @@ $$
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
->集合$R_+^n$的定义中是包含超曲面
+>集合$R_+^n$的定义中$"\geq"$是包含超曲面$p^n=0$的
 
 $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，在定义**带边界流形**中发挥重要作用。两种类型的集合给出拓扑基：
 
  1. 整个包含在$\mathbb{R}^n_+$里的开球；
  2. 对于切于$p^n=0$的超曲面的每一个开球与切点的并集。
 
-注意，对于2维的情况，
+注意，对于2维的情况，上半平面是包含水平线de'jiao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQ5NzcxMCwtMTM3NTQyOTIzNyw4OT
-U3NTEzODksLTE0MzA5NzgyMTQsMTQyNjI3MDU3NiwtNzc4NDcy
-MDY3LC0xNDA2MjkxMjM5LDEwOTE1ODcyNjcsMTA5MTU4NzI2Ny
-wtMTIxNjE5MTkyNSwxMDQ3Nzk1MjAyLC05NzAwNzc1NiwtMTMz
-OTU5NjI5NCwtMTY3OTc1NTgzMCw1NzM5NzM0NDksLTk3MTQ3Nz
-I0LDE5NDgwMjE5MTAsNTcwNzAyODA5LC01MzYwOTMwMjcsMjA2
-OTUwMDE4Nl19
+eyJoaXN0b3J5IjpbLTE2Mzg0ODc1NzEsLTEzNzU0MjkyMzcsOD
+k1NzUxMzg5LC0xNDMwOTc4MjE0LDE0MjYyNzA1NzYsLTc3ODQ3
+MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3MjY3LDEwOTE1ODcyNj
+csLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMiwtOTcwMDc3NTYsLTEz
+Mzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTczOTczNDQ5LC05NzE0Nz
+cyNCwxOTQ4MDIxOTEwLDU3MDcwMjgwOSwtNTM2MDkzMDI3LDIw
+Njk1MDAxODZdfQ==
 -->
