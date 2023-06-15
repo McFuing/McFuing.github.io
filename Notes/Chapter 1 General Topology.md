@@ -180,7 +180,7 @@ $$
 
 实数集$\mathbb{R}^1$用开区间作为$1$维的开球组成欧几里得拓扑空间$\mathbb{E}^1$。有理数集$\mathbb{Q}$和它的补集无理数集$\mathbb{J}=\mathbb{E}^1-\mathbb{Q}$的拓扑都是由$1$维的欧几里得拓扑诱导得到。
 下面举个例子.
-## 上半空间$\mathbb{E}^n_+$
+### 上半空间$\mathbb{E}^n_+$
 上半空间的点集为
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
@@ -191,7 +191,7 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
  2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTkxMDI4NSwtNzc4NDcyMDY3LC0xND
+eyJoaXN0b3J5IjpbMTQyNjI3MDU3NiwtNzc4NDcyMDY3LC0xND
 A2MjkxMjM5LDEwOTE1ODcyNjcsMTA5MTU4NzI2NywtMTIxNjE5
 MTkyNSwxMDQ3Nzk1MjAyLC05NzAwNzc1NiwtMTMzOTU5NjI5NC
 wtMTY3OTc1NTgzMCw1NzM5NzM0NDksLTk3MTQ3NzI0LDE5NDgw
