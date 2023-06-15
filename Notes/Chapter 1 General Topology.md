@@ -197,13 +197,14 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
 我们考虑点集$S$上的两个拓扑$T_1,T_2$，如果$T_1$的每一个成员都属于$T_2$，那么我们称拓扑$T_1$要比拓扑$T_2$要更为粗糙，也就是说拓扑$T_2$要比$T_1$分的更细。比如说对于同一个点集有限拓扑[^有限拓扑]要比离散拓扑更加的粗糙。
 [^有限拓扑]:有限拓扑是指一个拓扑空间中的开集个数是有限的。
 
+### 一个问题：时空的拓扑
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwODc4MTQ3LDQyMDE4ODA4NiwxNjU5OD
-A5ODY2LDE3MzMwNjgyMDYsNjI1MTAxODYyLDIwMDk3NzM5MDEs
-LTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xNDMwOTc4MjE0LDE0Mj
-YyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5MTIzOSwxMDkxNTg3
-MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5MjUsMTA0Nzc5NTIwMi
-wtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3NTU4MzAsNTcz
-OTczNDQ5XX0=
+eyJoaXN0b3J5IjpbLTIwMzA2MTQxNDgsOTEwODc4MTQ3LDQyMD
+E4ODA4NiwxNjU5ODA5ODY2LDE3MzMwNjgyMDYsNjI1MTAxODYy
+LDIwMDk3NzM5MDEsLTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xND
+MwOTc4MjE0LDE0MjYyNzA1NzYsLTc3ODQ3MjA2NywtMTQwNjI5
+MTIzOSwxMDkxNTg3MjY3LDEwOTE1ODcyNjcsLTEyMTYxOTE5Mj
+UsMTA0Nzc5NTIwMiwtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2
+Nzk3NTU4MzBdfQ==
 -->
