@@ -185,10 +185,10 @@ $$
 $$
 \mathbb{R}^n_+=\{p=(p^1,p^2,\dots,p^n)\in \mathbb{R}^n,s.t. \ p^n\geq0\}.\tag{8}
 $$
-$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**，但并不是**第二可数**的。
+$\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mathbb{E}^n_+=\mathbb{R}_+^n \cap\mathbb{E}^n$，称为**带边界流形**，但并不是**第二可数**。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg0MjUzMDQsLTEyMTYxOTE5MjUsMT
+eyJoaXN0b3J5IjpbLTEyMTY1NDM0ODAsLTEyMTYxOTE5MjUsMT
 A0Nzc5NTIwMiwtOTcwMDc3NTYsLTEzMzk1OTYyOTQsLTE2Nzk3
 NTU4MzAsNTczOTczNDQ5LC05NzE0NzcyNCwxOTQ4MDIxOTEwLD
 U3MDcwMjgwOSwtNTM2MDkzMDI3LDIwNjk1MDAxODYsLTIwNjI3
