@@ -207,9 +207,9 @@ C'=\{p\in S,s.t. p\notin C\}
 $$
 在拓扑空间中，如果集合$C'$是一个开集，那么$C$就是一个闭集。也即一个开集的补集是闭集，那么对于$\empty$和$S$在所有的拓扑空间中都是既开又闭的。
 ### 闭包
-闭包是一个相对的概念：
+闭包是一个相对的概念：yi'ge'tuo'pu'kong'jian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA3NTY3NzYsLTg4ODIxOTMwNSwtMT
+eyJoaXN0b3J5IjpbLTE2MzYyNTkzMzUsLTg4ODIxOTMwNSwtMT
 AwMDA3OTE4OCwxOTEwNjczOTIyLDEzMjE3Mjg5MSw0MzQxODQ1
 MDEsLTIyNDE3MTc2OCwxNTE4MjAxNDM0LC0yMDMwNjE0MTQ4LC
 0xMDI1NTgzODYsLTIwMzA2MTQxNDgsOTEwODc4MTQ3LDQyMDE4
