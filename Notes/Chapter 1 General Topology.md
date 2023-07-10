@@ -207,13 +207,13 @@ C'=\{p\in S,s.t. p\notin C\}
 $$
 在拓扑空间中，如果集合$C'$是一个开集，那么$C$就是一个闭集。也即一个开集的补集是闭集，那么对于$\empty$和$S$在所有的拓扑空间中都是既开又闭的。
 ### 闭包
-闭包是一个相对的概念：yi'ge'tuo'pu'kong'jian
+闭包是一个相对的概念：一个拓扑空间$S$的拓扑子空间$Y$的子集$C$在诱导拓扑中是闭的，即使在$S$中可能是开的。举个例子，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYyNTkzMzUsLTg4ODIxOTMwNSwtMT
-AwMDA3OTE4OCwxOTEwNjczOTIyLDEzMjE3Mjg5MSw0MzQxODQ1
-MDEsLTIyNDE3MTc2OCwxNTE4MjAxNDM0LC0yMDMwNjE0MTQ4LC
-0xMDI1NTgzODYsLTIwMzA2MTQxNDgsOTEwODc4MTQ3LDQyMDE4
-ODA4NiwxNjU5ODA5ODY2LDE3MzMwNjgyMDYsNjI1MTAxODYyLD
-IwMDk3NzM5MDEsLTEzNzU0MjkyMzcsODk1NzUxMzg5LC0xNDMw
-OTc4MjE0XX0=
+eyJoaXN0b3J5IjpbMTMzMzA0NjM4MSwtODg4MjE5MzA1LC0xMD
+AwMDc5MTg4LDE5MTA2NzM5MjIsMTMyMTcyODkxLDQzNDE4NDUw
+MSwtMjI0MTcxNzY4LDE1MTgyMDE0MzQsLTIwMzA2MTQxNDgsLT
+EwMjU1ODM4NiwtMjAzMDYxNDE0OCw5MTA4NzgxNDcsNDIwMTg4
+MDg2LDE2NTk4MDk4NjYsMTczMzA2ODIwNiw2MjUxMDE4NjIsMj
+AwOTc3MzkwMSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLTE0MzA5
+NzgyMTRdfQ==
 -->
