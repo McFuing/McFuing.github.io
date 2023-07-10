@@ -168,7 +168,10 @@ $$
 >2.若$T$中的两个开集为$T_S,T'_S$，有$T_S\cap T'_S\in T$，则$\mathcal{T}_X=X\cap T_S,\mathcal{T}_X'=X\cap T'_S$,所以$\mathcal{T}_X \cap \mathcal{T}_X'=(X\cap T_S)\cap(X\cap T'_S)=X\cap(T_S\cap T'_S)\in\mathcal{T}_X$;
 >3.若$T$中的任意数量的开集$T_S^i$,有$\bigcup_i^{\infty}T_S^i\in T$,则$\mathcal{T}_X^i=X\cap T_S^i$,可得$\bigcup_i^\infty\mathcal{T}_X^i=\bigcup_i^\infty(X\cap T_S^i)=X\cap (\bigcup_i^\infty T_S^i)\in\mathcal{T}$.
 
-这就可以产生一个新的拓扑空间$(X,X\cap T)$。一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
+这就可以产生一个新的拓扑空间$(X,X\cap T)$。
+>诱导拓扑就是在原有的开集中找到一个
+
+一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
 \sum_{i=1}^{n+1}(p^i)^2=1\tag{7}
 $$
@@ -216,11 +219,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzgyMTE1MiwxMzMzMDQ2MzgxLC04OD
-gyMTkzMDUsLTEwMDAwNzkxODgsMTkxMDY3MzkyMiwxMzIxNzI4
-OTEsNDM0MTg0NTAxLC0yMjQxNzE3NjgsMTUxODIwMTQzNCwtMj
-AzMDYxNDE0OCwtMTAyNTU4Mzg2LC0yMDMwNjE0MTQ4LDkxMDg3
-ODE0Nyw0MjAxODgwODYsMTY1OTgwOTg2NiwxNzMzMDY4MjA2LD
-YyNTEwMTg2MiwyMDA5NzczOTAxLC0xMzc1NDI5MjM3LDg5NTc1
-MTM4OV19
+eyJoaXN0b3J5IjpbMTg2MTE2ODAyLDE5MTc4MjExNTIsMTMzMz
+A0NjM4MSwtODg4MjE5MzA1LC0xMDAwMDc5MTg4LDE5MTA2NzM5
+MjIsMTMyMTcyODkxLDQzNDE4NDUwMSwtMjI0MTcxNzY4LDE1MT
+gyMDE0MzQsLTIwMzA2MTQxNDgsLTEwMjU1ODM4NiwtMjAzMDYx
+NDE0OCw5MTA4NzgxNDcsNDIwMTg4MDg2LDE2NTk4MDk4NjYsMT
+czMzA2ODIwNiw2MjUxMDE4NjIsMjAwOTc3MzkwMSwtMTM3NTQy
+OTIzN119
 -->
