@@ -199,13 +199,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
 
 ### 一个问题：时空的拓扑
 我们之前提到过，在闵氏时空中，无法从洛伦兹度规中得到拓扑，没有良好定义的开球。每当我们讨论函数的连续性时，我们总是假设拓扑规范的存在。因此拓扑规范发挥着重要的作用。我们接下来将通过$\mathbb{E}^4$拓扑来说明，但是这将会是错的，因为这样在类空与类时矢量间就没有区别了。首先一个事实就是$我们并不知道时空的真实拓扑是什么$。我们想要在空间部分和时间轴上保留欧氏空间的性质。
-Zeeman提出了一个吸引人的拓扑结构：他是被定为$\mathbb{R}^4$上的拓扑
+Zeeman提出了一个吸引人的拓扑结构：他是被定为$\mathbb{R}^4$上的拓扑，在空间部分诱导出一个$\ma$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTcyODkxLDQzNDE4NDUwMSwtMjI0MT
-cxNzY4LDE1MTgyMDE0MzQsLTIwMzA2MTQxNDgsLTEwMjU1ODM4
-NiwtMjAzMDYxNDE0OCw5MTA4NzgxNDcsNDIwMTg4MDg2LDE2NT
-k4MDk4NjYsMTczMzA2ODIwNiw2MjUxMDE4NjIsMjAwOTc3Mzkw
-MSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLTE0MzA5NzgyMTQsMT
-QyNjI3MDU3NiwtNzc4NDcyMDY3LC0xNDA2MjkxMjM5LDEwOTE1
-ODcyNjddfQ==
+eyJoaXN0b3J5IjpbLTEyMjc3MDIzNjAsMTMyMTcyODkxLDQzND
+E4NDUwMSwtMjI0MTcxNzY4LDE1MTgyMDE0MzQsLTIwMzA2MTQx
+NDgsLTEwMjU1ODM4NiwtMjAzMDYxNDE0OCw5MTA4NzgxNDcsND
+IwMTg4MDg2LDE2NTk4MDk4NjYsMTczMzA2ODIwNiw2MjUxMDE4
+NjIsMjAwOTc3MzkwMSwtMTM3NTQyOTIzNyw4OTU3NTEzODksLT
+E0MzA5NzgyMTQsMTQyNjI3MDU3NiwtNzc4NDcyMDY3LC0xNDA2
+MjkxMjM5XX0=
 -->
