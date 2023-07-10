@@ -200,6 +200,7 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
 ### 一个问题：时空的拓扑
 我们之前提到过，在闵氏时空中，无法从洛伦兹度规中得到拓扑，没有良好定义的开球。每当我们讨论函数的连续性时，我们总是假设拓扑规范的存在。因此拓扑规范发挥着重要的作用。我们接下来将通过$\mathbb{E}^4$拓扑来说明，但是这将会是错的，因为这样在类空与类时矢量间就没有区别了。首先一个事实就是$我们并不知道时空的真实拓扑是什么$。我们想要在空间部分和时间轴上保留欧氏空间的性质。
 Zeeman提出了一个吸引人的拓扑结构：他是被定为$\mathbb{R}^4$上的拓扑，在空间部分诱导出一个$\mathbb{E}^3$拓扑、在时间轴上诱导出一个$\mathbb{E}^1$拓扑。**它不是第一可数的，所以并不能够来自于任意的度规**。
+## 
 ### 补集
 给定一个集合$S$的子集$C$，它的补集为集合
 $$
@@ -211,12 +212,15 @@ $$
 
 >集合是闭的还是开的取决于我们选取的拓扑，一个集合可能在一个拓扑中是开集，在另一个拓扑中是闭集。
 
+### 连通空间
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODkxMDM2MzUsMTMzMzA0NjM4MSwtOD
-g4MjE5MzA1LC0xMDAwMDc5MTg4LDE5MTA2NzM5MjIsMTMyMTcy
-ODkxLDQzNDE4NDUwMSwtMjI0MTcxNzY4LDE1MTgyMDE0MzQsLT
-IwMzA2MTQxNDgsLTEwMjU1ODM4NiwtMjAzMDYxNDE0OCw5MTA4
-NzgxNDcsNDIwMTg4MDg2LDE2NTk4MDk4NjYsMTczMzA2ODIwNi
-w2MjUxMDE4NjIsMjAwOTc3MzkwMSwtMTM3NTQyOTIzNyw4OTU3
-NTEzODldfQ==
+eyJoaXN0b3J5IjpbMTkxNzgyMTE1MiwxMzMzMDQ2MzgxLC04OD
+gyMTkzMDUsLTEwMDAwNzkxODgsMTkxMDY3MzkyMiwxMzIxNzI4
+OTEsNDM0MTg0NTAxLC0yMjQxNzE3NjgsMTUxODIwMTQzNCwtMj
+AzMDYxNDE0OCwtMTAyNTU4Mzg2LC0yMDMwNjE0MTQ4LDkxMDg3
+ODE0Nyw0MjAxODgwODYsMTY1OTgwOTg2NiwxNzMzMDY4MjA2LD
+YyNTEwMTg2MiwyMDA5NzczOTAxLC0xMzc1NDI5MjM3LDg5NTc1
+MTM4OV19
 -->
