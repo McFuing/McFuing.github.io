@@ -169,7 +169,7 @@ $$
 >3.若$T$中的任意数量的开集$T_S^i$,有$\bigcup_i^{\infty}T_S^i\in T$,则$\mathcal{T}_X^i=X\cap T_S^i$,可得$\bigcup_i^\infty\mathcal{T}_X^i=\bigcup_i^\infty(X\cap T_S^i)=X\cap (\bigcup_i^\infty T_S^i)\in\mathcal{T}$.
 
 这就可以产生一个新的拓扑空间$(X,X\cap T)$。
->诱导拓扑就是在原有的开集中找到一个
+>诱导拓扑就是在原有的开集中找到一个小的封闭的开集，作为拓扑。
 
 一个$n$维的球面$S^n$是$\mathbb{E}^{n+1}$的点集，满足
 $$
@@ -219,11 +219,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTE2ODAyLDE5MTc4MjExNTIsMTMzMz
-A0NjM4MSwtODg4MjE5MzA1LC0xMDAwMDc5MTg4LDE5MTA2NzM5
-MjIsMTMyMTcyODkxLDQzNDE4NDUwMSwtMjI0MTcxNzY4LDE1MT
-gyMDE0MzQsLTIwMzA2MTQxNDgsLTEwMjU1ODM4NiwtMjAzMDYx
-NDE0OCw5MTA4NzgxNDcsNDIwMTg4MDg2LDE2NTk4MDk4NjYsMT
-czMzA2ODIwNiw2MjUxMDE4NjIsMjAwOTc3MzkwMSwtMTM3NTQy
-OTIzN119
+eyJoaXN0b3J5IjpbMTQ1NTQ1MzA3MSwxOTE3ODIxMTUyLDEzMz
+MwNDYzODEsLTg4ODIxOTMwNSwtMTAwMDA3OTE4OCwxOTEwNjcz
+OTIyLDEzMjE3Mjg5MSw0MzQxODQ1MDEsLTIyNDE3MTc2OCwxNT
+E4MjAxNDM0LC0yMDMwNjE0MTQ4LC0xMDI1NTgzODYsLTIwMzA2
+MTQxNDgsOTEwODc4MTQ3LDQyMDE4ODA4NiwxNjU5ODA5ODY2LD
+E3MzMwNjgyMDYsNjI1MTAxODYyLDIwMDk3NzM5MDEsLTEzNzU0
+MjkyMzddfQ==
 -->
