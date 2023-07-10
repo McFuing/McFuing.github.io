@@ -205,9 +205,11 @@ Zeeman提出了一个吸引人的拓扑结构：他是被定为$\mathbb{R}^4$上
 $$
 C'=\{p\in S,s.t. p\notin C\}
 $$
-在拓扑空间中，如果集合$C'$是一个开集，那么$C$就是一个闭集。也即一个开集的补集是闭集，那么对于$\empty$和$S$在所有的拓扑空间中都是ji'kaiyoubide
+在拓扑空间中，如果集合$C'$是一个开集，那么$C$就是一个闭集。也即一个开集的补集是闭集，那么对于$\empty$和$S$在所有的拓扑空间中都是既开又闭的。
+### 闭包
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODk4NzE0MywtMTAwMDA3OTE4OCwxOT
+eyJoaXN0b3J5IjpbLTg4ODIxOTMwNSwtMTAwMDA3OTE4OCwxOT
 EwNjczOTIyLDEzMjE3Mjg5MSw0MzQxODQ1MDEsLTIyNDE3MTc2
 OCwxNTE4MjAxNDM0LC0yMDMwNjE0MTQ4LC0xMDI1NTgzODYsLT
 IwMzA2MTQxNDgsOTEwODc4MTQ3LDQyMDE4ODA4NiwxNjU5ODA5
