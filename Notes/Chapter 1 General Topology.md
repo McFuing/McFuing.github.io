@@ -198,13 +198,13 @@ $\mathbb{E}^n_+$的拓扑是被$\mathbb{E}^n$诱导出来的拓扑，也即$\mat
 [^有限拓扑]:有限拓扑是指一个拓扑空间中的开集个数是有限的。
 
 ### 一个问题：时空的拓扑
-我们之前提到过，在闵氏时空中，无法从洛伦兹度规中得到拓扑，没有良好定义的开球。每当我们讨论函数的连续性时，我们总是假设拓扑规范的存在。因此拓扑规范发挥着重要的作用。
+我们之前提到过，在闵氏时空中，无法从洛伦兹度规中得到拓扑，没有良好定义的开球。每当我们讨论函数的连续性时，我们总是假设拓扑规范的存在。因此拓扑规范发挥着重要的作用。我们接下来将通过$\mathbb{}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDE3MTc2OCwxNTE4MjAxNDM0LC0yMD
-MwNjE0MTQ4LC0xMDI1NTgzODYsLTIwMzA2MTQxNDgsOTEwODc4
-MTQ3LDQyMDE4ODA4NiwxNjU5ODA5ODY2LDE3MzMwNjgyMDYsNj
-I1MTAxODYyLDIwMDk3NzM5MDEsLTEzNzU0MjkyMzcsODk1NzUx
-Mzg5LC0xNDMwOTc4MjE0LDE0MjYyNzA1NzYsLTc3ODQ3MjA2Ny
-wtMTQwNjI5MTIzOSwxMDkxNTg3MjY3LDEwOTE1ODcyNjcsLTEy
-MTYxOTE5MjVdfQ==
+eyJoaXN0b3J5IjpbODIzNzI2NjkxLC0yMjQxNzE3NjgsMTUxOD
+IwMTQzNCwtMjAzMDYxNDE0OCwtMTAyNTU4Mzg2LC0yMDMwNjE0
+MTQ4LDkxMDg3ODE0Nyw0MjAxODgwODYsMTY1OTgwOTg2NiwxNz
+MzMDY4MjA2LDYyNTEwMTg2MiwyMDA5NzczOTAxLC0xMzc1NDI5
+MjM3LDg5NTc1MTM4OSwtMTQzMDk3ODIxNCwxNDI2MjcwNTc2LC
+03Nzg0NzIwNjcsLTE0MDYyOTEyMzksMTA5MTU4NzI2NywxMDkx
+NTg3MjY3XX0=
 -->
