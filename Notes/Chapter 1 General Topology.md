@@ -208,15 +208,15 @@ $$
 在拓扑空间中，如果集合$C'$是一个开集，那么$C$就是一个闭集。也即一个开集的补集是闭集，那么对于$\empty$和$S$在所有的拓扑空间中都是既开又闭的。
 ### 闭包
 闭包是一个相对的概念：一个拓扑空间$S$的拓扑子空间$Y$的子集$C$在诱导拓扑中是闭的，即使在$S$中可能是开的。举个例子，集合$Y$本身在诱导拓扑中可能是闭的（开的），但是集合$Y$是$S$的一个开集。
-$$
 
-$$
+>集合是闭的还是开的取决于我们选取的拓扑，一个集合可能在一个拓扑中是开集，在另一个拓扑中是闭集。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjcwNjg3OCwxMzMzMDQ2MzgxLC04OD
-gyMTkzMDUsLTEwMDAwNzkxODgsMTkxMDY3MzkyMiwxMzIxNzI4
-OTEsNDM0MTg0NTAxLC0yMjQxNzE3NjgsMTUxODIwMTQzNCwtMj
-AzMDYxNDE0OCwtMTAyNTU4Mzg2LC0yMDMwNjE0MTQ4LDkxMDg3
-ODE0Nyw0MjAxODgwODYsMTY1OTgwOTg2NiwxNzMzMDY4MjA2LD
-YyNTEwMTg2MiwyMDA5NzczOTAxLC0xMzc1NDI5MjM3LDg5NTc1
-MTM4OV19
+eyJoaXN0b3J5IjpbLTE3ODkxMDM2MzUsMTMzMzA0NjM4MSwtOD
+g4MjE5MzA1LC0xMDAwMDc5MTg4LDE5MTA2NzM5MjIsMTMyMTcy
+ODkxLDQzNDE4NDUwMSwtMjI0MTcxNzY4LDE1MTgyMDE0MzQsLT
+IwMzA2MTQxNDgsLTEwMjU1ODM4NiwtMjAzMDYxNDE0OCw5MTA4
+NzgxNDcsNDIwMTg4MDg2LDE2NTk4MDk4NjYsMTczMzA2ODIwNi
+w2MjUxMDE4NjIsMjAwOTc3MzkwMSwtMTM3NTQyOTIzNyw4OTU3
+NTEzODldfQ==
 -->
