@@ -6,7 +6,7 @@
   <link href="http://mcfuing.github.io/atom.xml" rel="self"/>
   
   <link href="http://mcfuing.github.io/"/>
-  <updated>2024-02-20T14:58:02.012Z</updated>
+  <updated>2024-02-26T10:20:25.296Z</updated>
   <id>http://mcfuing.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lecture3-正交活动标架</title>
+    <link href="http://mcfuing.github.io/2024/02/26/Lecture3-%E6%AD%A3%E4%BA%A4%E6%B4%BB%E5%8A%A8%E6%A0%87%E6%9E%B6/"/>
+    <id>http://mcfuing.github.io/2024/02/26/Lecture3-%E6%AD%A3%E4%BA%A4%E6%B4%BB%E5%8A%A8%E6%A0%87%E6%9E%B6/</id>
+    <published>2024-02-26T10:19:33.000Z</published>
+    <updated>2024-02-26T10:20:25.296Z</updated>
+    
+    
+    
+    
+    
+    <category term="Differential Geometry" scheme="http://mcfuing.github.io/tags/Differential-Geometry/"/>
+    
+  </entry>
   
   <entry>
     <title>Lecture2-曲面的结构方程</title>
